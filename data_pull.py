@@ -23,6 +23,7 @@ new_cols = ['location','date','new_cases','new_deaths','new_tests',
             'hospital_beds_per_thousand']
 
 dat_2 = dat_1[new_cols]
+dat_2 = dat_2[dat_2.location != 'Hong Kong']
 
 # Group the data by location
 grouped_dat = dat_2.groupby(['location'])
@@ -33,7 +34,7 @@ class con_dat:
     
     def get_value(self):
         dx = grouped_dat.get_group(self.country)
-        dx = dx[dx.new_cases > 10]
+        dx = dx[dx.new_cases > 0]
         for i in range(2,8):
             if np.isnan(dx.iloc[0,i]):
                 dx.iloc[0,i] = 0.0
@@ -45,19 +46,23 @@ class con_dat:
             ser = [0] + [dy.iloc[i+1]-dy.iloc[i] for i in range(len(dy)-1)]
             dx.loc[:,'new_tests'] = ser
         return dx
+    
+country_list = list(np.unique(dat_2.location))
 
+import csv
 
+filename = 'covid_data.csv'
 
-# check for missing data for india
-dat_ind = dat_1.loc[dat_1.location == "India"]
-dat_ind.isna().sum()/len(dat_ind)
-
-dat_ind = dat_ind.fillna(method = 'ffill')
-dat_ind = dat_ind.fillna(method = 'bfill')
-
-# check for missing data for india
-dat_ctr = dat_1.loc[dat_1.location == "Pakistan"]
-dat_ctr.isna().sum()/len(dat_ctr)
-
-dat_ctr = dat_ctr.fillna(method = 'ffill')
-dat_ctr = dat_ctr.fillna(method = 'bfill')
+with open(filename, 'w') as csvfile:
+    
+    csvwriter = csv.writer(csvfile)
+    
+    # add header
+    csvwriter.writerow(new_cols)
+    
+    # create and add the rows
+    for item in country_list:
+        x = con_dat(item)
+        y = x.get_value()
+        z = y.values.tolist()
+        csvwriter.writerows(z)
