@@ -49,11 +49,11 @@ class con_dat:
     
 country_list = list(np.unique(dat_2.location))
 
+# storing the data as csv
 import csv
-
 filename = 'covid_data.csv'
 
-with open(filename, 'w') as csvfile:
+with open(filename, 'w', newline = '') as csvfile:
     
     csvwriter = csv.writer(csvfile)
     
