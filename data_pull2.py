@@ -1,10 +1,12 @@
 '''
 Collect and merge additional data
 '''
-
+import os
 import pandas as pd
 import numpy as np
 
+f_path = r'C:\\Users\\JJ\\Desktop\\Data Science Projects\\India_Covid-19_Prediction'
+os.chdir(f_path)
 df = pd.read_csv("covid_data.csv")
 
 '''
@@ -31,7 +33,7 @@ We will also add xx more features, namely:
     4. tb_incidence
 '''
 
-literacy_data = pd.read_csv('literacy_data.csv')
+literacy_data = pd.read_csv('data\literacy_data.csv')
 literacy_data.columns = ['location', 'code', 'year', 'literacy_rate']
 literacy_data = literacy_data.groupby(['location']).mean().reset_index()
 literacy_data = literacy_data[['location','literacy_rate']]
@@ -39,10 +41,15 @@ literacy_data = literacy_data[['location','literacy_rate']]
 dat_lst = ["aged_65", 'gdp_per_capita', 'life_exp_data', 'pop_density', 
            'smoking_prev', 'tb_incidence', 'int_arrival']
 
+dat_path = f_path+'\data'
+
+os.chdir(dat_path)
 
 df_wbank = pd.DataFrame({'Country Name': list(np.unique(df.location))})
 for item in dat_lst:
     pdx = pd.read_csv(item+'.csv', skiprows = 3)
+    pdx.replace({'Iran, Islamic Rep.': 'Iran', 
+                 'Russian Federation': 'Russia'}, inplace = True)
     pdx[item] = pdx.iloc[:,-5:].mean(axis = 1)
     pdx = pdx[['Country Name',item]]
     df_wbank = pd.merge(df_wbank,pdx)
@@ -59,5 +66,5 @@ df2 = df[['location','date','new_cases','new_deaths','new_tests',
 
 dff = pd.merge(df2,df_wbank)
 
-dff.to_csv(r"C:\Users\JJ\Desktop\Data Science Projects\India_Covid-19_Prediction\data_full.csv",
-           header=True)
+os.chdir(f_path)
+dff.to_csv('data_full.csv', index = False, header=True)
