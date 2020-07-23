@@ -4,7 +4,6 @@ Pull covid-19 data from ourworldindata.org
 
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 
 url = 'https://covid.ourworldindata.org/data/owid-covid-data.csv'
 
@@ -45,6 +44,10 @@ class con_dat:
             dy = dx.total_tests
             ser = [0] + [dy.iloc[i+1]-dy.iloc[i] for i in range(len(dy)-1)]
             dx.loc[:,'new_tests'] = ser
+        elif dx.total_tests.sum() < dx.new_tests.sum():
+            dy = dx.new_tests
+            ser = [dy.iloc[:i+1].sum() for i in range(len(dy))]
+            dx.loc[:,'total_tests'] = ser
         return dx
     
 country_list = list(np.unique(dat_2.location))
