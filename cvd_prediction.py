@@ -60,7 +60,7 @@ res1 = least_squares(f_res,p0,args=(x1_train,y1_train))
 con_all = np.unique(dat_f.location)
 
 def pred_1(dat, x2_min):
-    mw = 1
+    mw = 3
     u1 = mov_avg(dat.new_cases, mw);
     u1_mx = u1.max()
     dim = len(u1)
@@ -86,7 +86,10 @@ def pred_1(dat, x2_min):
     m1_op = diff1.iloc[0].m1
     m2_op = diff1.iloc[0].m2
     
-    ser1 = mov_avg(y1_train*(u1_mx/m2_op), mw)
+    if y1m > u1_mx:
+        ser1 = mov_avg(y1_train*(u1_mx/(m2_op-0.7)), mw)
+    else:
+        ser1 = mov_avg(y1_train*(u1_mx/m2_op), mw)
     d1 = np.linspace(0,dim/m1_op,len(ser1))
     
     dfx1 = pd.DataFrame(columns = ['x','y'])
@@ -141,14 +144,17 @@ result_1 = pred_summary(dat_f, con_test)
 
 pred_times = result_1[0]
 pred_static = result_1[1]
+pred_static.columns = ['country', 'predicted_tot_cases', 
+                       'predicted_max_daily_cases', 'predicted_mid_point',
+                       'predicted_end_point']
 
 def plt_test(con):
     dat_1 = dat_con(dat_f, con)
     y1 = dat_1.new_cases
     dat_2 = dat_con(pred_times, con) 
     y2 = dat_2.new_cases
-    plt.plot(range(len(y1)), y1, 'r', linewidth = 4, label = 'Actual')
-    plt.plot(mov_avg(dat_2.days,1), mov_avg(y2,1), 'b', linewidth = 3,
+    plt.plot(range(len(y1)), mov_avg(y1,3), 'r', linewidth = 4, label = 'Actual')
+    plt.plot(dat_2.days, mov_avg(y2,3), 'b', linewidth = 3,
              label = 'Predicted')
     plt.title(con)
     plt.xlabel('Days')

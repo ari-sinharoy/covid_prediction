@@ -1,4 +1,4 @@
-location,max_total_cases,max_new_cases,pred_mid_date,pred_end_date
+country,predicted_tot_cases,predicted_max_daily_cases,predicted_mid_point,predicted_end_point
 Afghanistan,59357,583,73,270
 Algeria,146278,454,233,854
 Argentina,997610,4541,159,583
