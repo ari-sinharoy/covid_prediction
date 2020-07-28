@@ -144,9 +144,16 @@ result_1 = pred_summary(dat_f, con_test)
 
 pred_times = result_1[0]
 pred_static = result_1[1]
+
 pred_static.columns = ['country', 'predicted_tot_cases', 
                        'predicted_max_daily_cases', 'predicted_mid_point',
                        'predicted_end_point']
+
+pred_static['zeroth_day'] = [dat_con(dat_f, con).iloc[0].date[:10] for 
+                             con in pred_static.country]
+pred_static = pred_static[['country', 'zeroth_day', 'predicted_tot_cases', 
+                       'predicted_max_daily_cases', 'predicted_mid_point',
+                       'predicted_end_point']]
 
 def plt_test(con):
     dat_1 = dat_con(dat_f, con)
@@ -163,4 +170,3 @@ def plt_test(con):
 
 pred_times.to_csv('pred_timeseries.csv', index = False, header=True)
 pred_static.to_csv('pred_summary.csv', index = False, header=True)
-
