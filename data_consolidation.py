@@ -48,8 +48,12 @@ os.chdir(dat_path)
 df_wbank = pd.DataFrame({'Country Name': list(np.unique(df.location))})
 for item in dat_lst:
     pdx = pd.read_csv(item+'.csv', skiprows = 3)
-    pdx.replace({'Iran, Islamic Rep.': 'Iran', 
-                 'Russian Federation': 'Russia'}, inplace = True)
+    pdx.replace({'Egypt, Arab Rep.': 'Egypt',
+                 'Iran, Islamic Rep.': 'Iran',
+                 'Korea, Rep.': 'South Korea',
+                 'Russian Federation': 'Russia',
+                 'Syrian Arab Republic': 'Syria',
+                 'Venezuela, RB': 'Venezuela'}, inplace = True)
     pdx[item] = pdx.iloc[:,-5:].mean(axis = 1)
     pdx = pdx[['Country Name',item]]
     df_wbank = pd.merge(df_wbank,pdx)

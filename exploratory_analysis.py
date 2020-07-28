@@ -7,7 +7,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import scipy.stats as stats
-
+import os
+f_path = r'C:\\Users\\JJ\\Desktop\\Data Science Projects\\India_Covid-19_Prediction'
+os.chdir(f_path)
 dat_f = pd.read_csv('data_full.csv')
 
 def dat_con(dat, con):
@@ -51,6 +53,7 @@ for item in country_list:
     static_dat = static_dat.append(pd.DataFrame(dat_con(
             dat_f,item)[static_var].iloc[-1,:].values[np.newaxis]))
 static_dat.columns = static_var    
+static_dat.reset_index(drop = True, inplace = True)
 
 # Calculate & plot correlation matrix
 corr_df = abs(static_dat.iloc[:,1:].astype(float).corr())
@@ -71,7 +74,7 @@ cvd_over = pd.DataFrame(columns = ['location','total_cases','population'])
 for item in country_list:
     dx = dat_con(dat_f,item)
     dxn = dx.iloc[-1]
-    if (dxn.new_cases / dx.max().new_cases) <= 0.05:
+    if (dxn.new_cases / dx.max().new_cases) <= 0.02:
         cvd_over = cvd_over.append({'location': item,
                                     'total_cases': dxn.total_cases,
                                     'population': dxn.population},

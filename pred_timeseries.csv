@@ -1,0 +1,11249 @@
+location,days,new_cases
+Afghanistan,0,3
+Afghanistan,2,4
+Afghanistan,4,6
+Afghanistan,6,9
+Afghanistan,8,12
+Afghanistan,11,16
+Afghanistan,13,21
+Afghanistan,15,25
+Afghanistan,17,31
+Afghanistan,20,37
+Afghanistan,22,46
+Afghanistan,24,57
+Afghanistan,26,71
+Afghanistan,29,83
+Afghanistan,31,98
+Afghanistan,33,115
+Afghanistan,35,136
+Afghanistan,37,161
+Afghanistan,40,187
+Afghanistan,42,215
+Afghanistan,44,243
+Afghanistan,46,274
+Afghanistan,49,306
+Afghanistan,51,343
+Afghanistan,53,389
+Afghanistan,55,434
+Afghanistan,58,471
+Afghanistan,60,498
+Afghanistan,62,520
+Afghanistan,64,547
+Afghanistan,66,570
+Afghanistan,69,597
+Afghanistan,71,615
+Afghanistan,73,623
+Afghanistan,75,615
+Afghanistan,78,598
+Afghanistan,80,583
+Afghanistan,82,573
+Afghanistan,84,568
+Afghanistan,87,562
+Afghanistan,89,549
+Afghanistan,91,528
+Afghanistan,93,502
+Afghanistan,96,481
+Afghanistan,98,470
+Afghanistan,100,469
+Afghanistan,102,468
+Afghanistan,104,463
+Afghanistan,107,450
+Afghanistan,109,432
+Afghanistan,111,417
+Afghanistan,113,408
+Afghanistan,116,407
+Afghanistan,118,406
+Afghanistan,120,398
+Afghanistan,122,385
+Afghanistan,125,369
+Afghanistan,127,356
+Afghanistan,129,346
+Afghanistan,131,339
+Afghanistan,133,335
+Afghanistan,136,325
+Afghanistan,138,312
+Afghanistan,140,295
+Afghanistan,142,282
+Afghanistan,145,272
+Afghanistan,147,264
+Afghanistan,149,254
+Afghanistan,151,239
+Afghanistan,154,221
+Afghanistan,156,207
+Afghanistan,158,194
+Afghanistan,160,186
+Afghanistan,162,178
+Afghanistan,165,169
+Afghanistan,167,158
+Afghanistan,169,147
+Afghanistan,171,138
+Afghanistan,174,132
+Afghanistan,176,125
+Afghanistan,178,122
+Afghanistan,180,117
+Afghanistan,183,111
+Afghanistan,185,103
+Afghanistan,187,97
+Afghanistan,189,93
+Afghanistan,192,91
+Afghanistan,194,87
+Afghanistan,196,83
+Afghanistan,198,77
+Afghanistan,200,72
+Afghanistan,203,68
+Afghanistan,205,65
+Afghanistan,207,64
+Afghanistan,209,63
+Afghanistan,212,61
+Afghanistan,214,57
+Afghanistan,216,53
+Afghanistan,218,49
+Afghanistan,221,45
+Afghanistan,223,44
+Afghanistan,225,43
+Afghanistan,227,42
+Afghanistan,229,39
+Afghanistan,232,36
+Afghanistan,234,33
+Afghanistan,236,32
+Afghanistan,238,31
+Afghanistan,241,31
+Afghanistan,243,31
+Afghanistan,245,32
+Afghanistan,247,31
+Afghanistan,250,31
+Afghanistan,252,31
+Afghanistan,254,31
+Afghanistan,256,31
+Afghanistan,258,31
+Afghanistan,261,30
+Afghanistan,263,31
+Afghanistan,265,31
+Afghanistan,267,32
+Afghanistan,270,31
+Afghanistan,272,30
+Afghanistan,274,29
+Afghanistan,276,28
+Afghanistan,279,26
+Afghanistan,281,25
+Afghanistan,283,25
+Afghanistan,285,25
+Afghanistan,288,24
+Afghanistan,290,23
+Afghanistan,292,21
+Afghanistan,294,20
+Afghanistan,296,20
+Afghanistan,299,21
+Afghanistan,301,22
+Afghanistan,303,22
+Afghanistan,305,23
+Afghanistan,308,22
+Afghanistan,310,22
+Afghanistan,312,21
+Afghanistan,314,21
+Afghanistan,317,22
+Afghanistan,319,22
+Afghanistan,321,23
+Afghanistan,323,22
+Afghanistan,325,21
+Afghanistan,328,20
+Afghanistan,330,20
+Afghanistan,332,19
+Afghanistan,334,19
+Afghanistan,337,19
+Algeria,0,2
+Algeria,4,3
+Algeria,8,5
+Algeria,13,6
+Algeria,17,9
+Algeria,22,12
+Algeria,26,16
+Algeria,31,19
+Algeria,35,23
+Algeria,40,28
+Algeria,44,35
+Algeria,49,43
+Algeria,53,54
+Algeria,57,64
+Algeria,62,75
+Algeria,66,88
+Algeria,71,104
+Algeria,75,123
+Algeria,80,143
+Algeria,84,165
+Algeria,89,186
+Algeria,93,209
+Algeria,98,234
+Algeria,102,262
+Algeria,106,298
+Algeria,111,331
+Algeria,115,360
+Algeria,120,381
+Algeria,124,398
+Algeria,129,418
+Algeria,133,436
+Algeria,138,456
+Algeria,142,470
+Algeria,147,476
+Algeria,151,470
+Algeria,156,457
+Algeria,160,445
+Algeria,164,438
+Algeria,169,434
+Algeria,173,430
+Algeria,178,420
+Algeria,182,403
+Algeria,187,384
+Algeria,191,368
+Algeria,196,359
+Algeria,200,358
+Algeria,205,358
+Algeria,209,354
+Algeria,213,344
+Algeria,218,330
+Algeria,222,319
+Algeria,227,312
+Algeria,231,311
+Algeria,236,310
+Algeria,240,304
+Algeria,245,294
+Algeria,249,282
+Algeria,254,272
+Algeria,258,264
+Algeria,263,259
+Algeria,267,256
+Algeria,271,248
+Algeria,276,238
+Algeria,280,226
+Algeria,285,215
+Algeria,289,208
+Algeria,294,202
+Algeria,298,194
+Algeria,303,183
+Algeria,307,169
+Algeria,312,158
+Algeria,316,148
+Algeria,320,142
+Algeria,325,136
+Algeria,329,129
+Algeria,334,120
+Algeria,338,113
+Algeria,343,106
+Algeria,347,101
+Algeria,352,96
+Algeria,356,93
+Algeria,361,89
+Algeria,365,84
+Algeria,370,79
+Algeria,374,74
+Algeria,378,71
+Algeria,383,69
+Algeria,387,67
+Algeria,392,64
+Algeria,396,59
+Algeria,401,55
+Algeria,405,52
+Algeria,410,50
+Algeria,414,49
+Algeria,419,48
+Algeria,423,46
+Algeria,427,43
+Algeria,432,40
+Algeria,436,37
+Algeria,441,35
+Algeria,445,33
+Algeria,450,33
+Algeria,454,32
+Algeria,459,30
+Algeria,463,27
+Algeria,468,25
+Algeria,472,24
+Algeria,477,24
+Algeria,481,24
+Algeria,485,24
+Algeria,490,24
+Algeria,494,24
+Algeria,499,24
+Algeria,503,23
+Algeria,508,24
+Algeria,512,24
+Algeria,517,24
+Algeria,521,23
+Algeria,526,23
+Algeria,530,24
+Algeria,534,24
+Algeria,539,24
+Algeria,543,23
+Algeria,548,22
+Algeria,552,21
+Algeria,557,20
+Algeria,561,19
+Algeria,566,19
+Algeria,570,19
+Algeria,575,18
+Algeria,579,17
+Algeria,584,16
+Algeria,588,15
+Algeria,592,15
+Algeria,597,16
+Algeria,601,16
+Algeria,606,17
+Algeria,610,17
+Algeria,615,17
+Algeria,619,16
+Algeria,624,16
+Algeria,628,16
+Algeria,633,16
+Algeria,637,17
+Algeria,641,17
+Algeria,646,17
+Algeria,650,16
+Algeria,655,15
+Algeria,659,15
+Algeria,664,14
+Algeria,668,14
+Algeria,673,14
+Argentina,0,19
+Argentina,3,24
+Argentina,7,34
+Argentina,11,47
+Argentina,15,65
+Argentina,19,85
+Argentina,23,109
+Argentina,27,133
+Argentina,31,162
+Argentina,35,196
+Argentina,39,241
+Argentina,43,299
+Argentina,47,372
+Argentina,51,437
+Argentina,55,514
+Argentina,59,601
+Argentina,62,713
+Argentina,66,842
+Argentina,70,974
+Argentina,74,1125
+Argentina,78,1270
+Argentina,82,1428
+Argentina,86,1596
+Argentina,90,1790
+Argentina,94,2030
+Argentina,98,2260
+Argentina,102,2454
+Argentina,106,2597
+Argentina,110,2713
+Argentina,114,2850
+Argentina,118,2974
+Argentina,121,3110
+Argentina,125,3206
+Argentina,129,3245
+Argentina,133,3206
+Argentina,137,3118
+Argentina,141,3036
+Argentina,145,2986
+Argentina,149,2959
+Argentina,153,2931
+Argentina,157,2863
+Argentina,161,2750
+Argentina,165,2616
+Argentina,169,2508
+Argentina,173,2451
+Argentina,177,2442
+Argentina,180,2440
+Argentina,184,2412
+Argentina,188,2345
+Argentina,192,2252
+Argentina,196,2176
+Argentina,200,2127
+Argentina,204,2124
+Argentina,208,2116
+Argentina,212,2076
+Argentina,216,2006
+Argentina,220,1926
+Argentina,224,1856
+Argentina,228,1804
+Argentina,232,1766
+Argentina,236,1746
+Argentina,239,1693
+Argentina,243,1626
+Argentina,247,1541
+Argentina,251,1470
+Argentina,255,1419
+Argentina,259,1379
+Argentina,263,1324
+Argentina,267,1249
+Argentina,271,1155
+Argentina,275,1079
+Argentina,279,1012
+Argentina,283,972
+Argentina,287,931
+Argentina,291,883
+Argentina,295,823
+Argentina,298,770
+Argentina,302,722
+Argentina,306,688
+Argentina,310,655
+Argentina,314,637
+Argentina,318,612
+Argentina,322,578
+Argentina,326,539
+Argentina,330,506
+Argentina,334,486
+Argentina,338,474
+Argentina,342,457
+Argentina,346,436
+Argentina,350,405
+Argentina,354,379
+Argentina,357,355
+Argentina,361,341
+Argentina,365,336
+Argentina,369,329
+Argentina,373,317
+Argentina,377,297
+Argentina,381,277
+Argentina,385,257
+Argentina,389,238
+Argentina,393,230
+Argentina,397,225
+Argentina,401,220
+Argentina,405,205
+Argentina,409,189
+Argentina,413,175
+Argentina,416,168
+Argentina,420,164
+Argentina,424,165
+Argentina,428,166
+Argentina,432,169
+Argentina,436,166
+Argentina,440,163
+Argentina,444,161
+Argentina,448,164
+Argentina,452,165
+Argentina,456,164
+Argentina,460,159
+Argentina,464,162
+Argentina,468,164
+Argentina,472,169
+Argentina,475,164
+Argentina,479,160
+Argentina,483,153
+Argentina,487,146
+Argentina,491,137
+Argentina,495,132
+Argentina,499,130
+Argentina,503,132
+Argentina,507,128
+Argentina,511,121
+Argentina,515,111
+Argentina,519,108
+Argentina,523,107
+Argentina,527,110
+Argentina,531,114
+Argentina,534,119
+Argentina,538,120
+Argentina,542,118
+Argentina,546,115
+Argentina,550,112
+Argentina,554,112
+Argentina,558,115
+Argentina,562,118
+Argentina,566,120
+Argentina,570,117
+Argentina,574,113
+Argentina,578,108
+Argentina,582,104
+Argentina,586,102
+Argentina,590,100
+Argentina,594,100
+Australia,0,2
+Australia,6,2
+Australia,13,3
+Australia,20,4
+Australia,27,6
+Australia,34,8
+Australia,41,11
+Australia,48,13
+Australia,55,17
+Australia,62,20
+Australia,69,25
+Australia,76,31
+Australia,83,39
+Australia,90,45
+Australia,97,53
+Australia,104,63
+Australia,111,74
+Australia,118,88
+Australia,125,102
+Australia,132,117
+Australia,138,133
+Australia,145,149
+Australia,152,167
+Australia,159,187
+Australia,166,212
+Australia,173,236
+Australia,180,257
+Australia,187,272
+Australia,194,284
+Australia,201,298
+Australia,208,311
+Australia,215,326
+Australia,222,336
+Australia,229,340
+Australia,236,336
+Australia,243,326
+Australia,250,318
+Australia,257,313
+Australia,264,310
+Australia,271,307
+Australia,277,300
+Australia,284,288
+Australia,291,274
+Australia,298,262
+Australia,305,256
+Australia,312,256
+Australia,319,255
+Australia,326,252
+Australia,333,245
+Australia,340,236
+Australia,347,228
+Australia,354,222
+Australia,361,222
+Australia,368,221
+Australia,375,217
+Australia,382,210
+Australia,389,201
+Australia,396,194
+Australia,403,189
+Australia,410,185
+Australia,416,183
+Australia,423,177
+Australia,430,170
+Australia,437,161
+Australia,444,154
+Australia,451,148
+Australia,458,144
+Australia,465,138
+Australia,472,130
+Australia,479,121
+Australia,486,113
+Australia,493,106
+Australia,500,101
+Australia,507,97
+Australia,514,92
+Australia,521,86
+Australia,528,80
+Australia,535,75
+Australia,542,72
+Australia,549,68
+Australia,555,66
+Australia,562,64
+Australia,569,60
+Australia,576,56
+Australia,583,53
+Australia,590,51
+Australia,597,49
+Australia,604,47
+Australia,611,45
+Australia,618,42
+Australia,625,39
+Australia,632,37
+Australia,639,35
+Australia,646,35
+Australia,653,34
+Australia,660,33
+Australia,667,31
+Australia,674,29
+Australia,681,26
+Australia,688,25
+Australia,694,24
+Australia,701,23
+Australia,708,23
+Australia,715,21
+Australia,722,19
+Australia,729,18
+Australia,736,17
+Australia,743,17
+Australia,750,17
+Australia,757,17
+Australia,764,17
+Australia,771,17
+Australia,778,17
+Australia,785,16
+Australia,792,17
+Australia,799,17
+Australia,806,17
+Australia,813,16
+Australia,820,17
+Australia,827,17
+Australia,833,17
+Australia,840,17
+Australia,847,16
+Australia,854,16
+Australia,861,15
+Australia,868,14
+Australia,875,13
+Australia,882,13
+Australia,889,13
+Australia,896,13
+Australia,903,12
+Australia,910,11
+Australia,917,11
+Australia,924,11
+Australia,931,11
+Australia,938,12
+Australia,945,12
+Australia,952,12
+Australia,959,12
+Australia,966,12
+Australia,972,11
+Australia,979,11
+Australia,986,12
+Australia,993,12
+Australia,1000,12
+Australia,1007,12
+Australia,1014,11
+Australia,1021,11
+Australia,1028,10
+Australia,1035,10
+Australia,1042,10
+Australia,1049,10
+Austria,0,3
+Austria,0,4
+Austria,1,6
+Austria,2,9
+Austria,3,12
+Austria,4,16
+Austria,5,21
+Austria,6,26
+Austria,7,31
+Austria,8,38
+Austria,9,47
+Austria,10,58
+Austria,11,73
+Austria,12,85
+Austria,13,101
+Austria,14,118
+Austria,15,140
+Austria,16,165
+Austria,17,191
+Austria,18,220
+Austria,19,249
+Austria,20,280
+Austria,21,313
+Austria,22,351
+Austria,23,398
+Austria,24,443
+Austria,25,481
+Austria,26,509
+Austria,27,532
+Austria,28,559
+Austria,29,583
+Austria,29,610
+Austria,30,629
+Austria,31,637
+Austria,32,629
+Austria,33,612
+Austria,34,596
+Austria,35,586
+Austria,36,580
+Austria,37,575
+Austria,38,562
+Austria,39,539
+Austria,40,513
+Austria,41,492
+Austria,42,481
+Austria,43,479
+Austria,44,479
+Austria,45,473
+Austria,46,460
+Austria,47,442
+Austria,48,427
+Austria,49,417
+Austria,50,417
+Austria,51,415
+Austria,52,407
+Austria,53,393
+Austria,54,378
+Austria,55,364
+Austria,56,354
+Austria,57,346
+Austria,58,342
+Austria,58,332
+Austria,59,319
+Austria,60,302
+Austria,61,288
+Austria,62,278
+Austria,63,270
+Austria,64,260
+Austria,65,245
+Austria,66,226
+Austria,67,211
+Austria,68,198
+Austria,69,190
+Austria,70,182
+Austria,71,173
+Austria,72,161
+Austria,73,151
+Austria,74,141
+Austria,75,135
+Austria,76,128
+Austria,77,125
+Austria,78,120
+Austria,79,113
+Austria,80,105
+Austria,81,99
+Austria,82,95
+Austria,83,93
+Austria,84,89
+Austria,85,85
+Austria,86,79
+Austria,87,74
+Austria,87,69
+Austria,88,67
+Austria,89,66
+Austria,90,64
+Austria,91,62
+Austria,92,58
+Austria,93,54
+Austria,94,50
+Austria,95,46
+Austria,96,45
+Austria,97,44
+Austria,98,43
+Austria,99,40
+Austria,100,37
+Austria,101,34
+Austria,102,33
+Austria,103,32
+Austria,104,32
+Austria,105,32
+Austria,106,33
+Austria,107,32
+Austria,108,32
+Austria,109,31
+Austria,110,32
+Austria,111,32
+Austria,112,32
+Austria,113,31
+Austria,114,31
+Austria,115,32
+Austria,116,33
+Austria,116,32
+Austria,117,31
+Austria,118,30
+Austria,119,28
+Austria,120,27
+Austria,121,26
+Austria,122,25
+Austria,123,26
+Austria,124,25
+Austria,125,23
+Austria,126,21
+Austria,127,21
+Austria,128,21
+Austria,129,21
+Austria,130,22
+Austria,131,23
+Austria,132,23
+Austria,133,23
+Austria,134,22
+Austria,135,22
+Austria,136,22
+Austria,137,22
+Austria,138,23
+Austria,139,23
+Austria,140,23
+Austria,141,22
+Austria,142,21
+Austria,143,20
+Austria,144,20
+Austria,145,19
+Austria,146,19
+Azerbaijan,0,2
+Azerbaijan,3,3
+Azerbaijan,7,5
+Azerbaijan,10,6
+Azerbaijan,14,9
+Azerbaijan,18,12
+Azerbaijan,21,16
+Azerbaijan,25,19
+Azerbaijan,28,23
+Azerbaijan,32,28
+Azerbaijan,36,35
+Azerbaijan,39,43
+Azerbaijan,43,54
+Azerbaijan,46,64
+Azerbaijan,50,75
+Azerbaijan,54,88
+Azerbaijan,57,104
+Azerbaijan,61,123
+Azerbaijan,64,142
+Azerbaijan,68,164
+Azerbaijan,72,186
+Azerbaijan,75,209
+Azerbaijan,79,234
+Azerbaijan,82,262
+Azerbaijan,86,297
+Azerbaijan,90,331
+Azerbaijan,93,359
+Azerbaijan,97,380
+Azerbaijan,100,397
+Azerbaijan,104,417
+Azerbaijan,108,435
+Azerbaijan,111,455
+Azerbaijan,115,469
+Azerbaijan,118,475
+Azerbaijan,122,469
+Azerbaijan,126,457
+Azerbaijan,129,445
+Azerbaijan,133,437
+Azerbaijan,137,433
+Azerbaijan,140,429
+Azerbaijan,144,419
+Azerbaijan,147,403
+Azerbaijan,151,383
+Azerbaijan,155,367
+Azerbaijan,158,359
+Azerbaijan,162,358
+Azerbaijan,165,357
+Azerbaijan,169,353
+Azerbaijan,173,343
+Azerbaijan,176,330
+Azerbaijan,180,319
+Azerbaijan,183,311
+Azerbaijan,187,311
+Azerbaijan,191,310
+Azerbaijan,194,304
+Azerbaijan,198,294
+Azerbaijan,201,282
+Azerbaijan,205,272
+Azerbaijan,209,264
+Azerbaijan,212,258
+Azerbaijan,216,256
+Azerbaijan,219,248
+Azerbaijan,223,238
+Azerbaijan,227,225
+Azerbaijan,230,215
+Azerbaijan,234,208
+Azerbaijan,237,202
+Azerbaijan,241,194
+Azerbaijan,245,183
+Azerbaijan,248,169
+Azerbaijan,252,158
+Azerbaijan,256,148
+Azerbaijan,259,142
+Azerbaijan,263,136
+Azerbaijan,266,129
+Azerbaijan,270,120
+Azerbaijan,274,112
+Azerbaijan,277,105
+Azerbaijan,281,100
+Azerbaijan,284,96
+Azerbaijan,288,93
+Azerbaijan,292,89
+Azerbaijan,295,84
+Azerbaijan,299,79
+Azerbaijan,302,74
+Azerbaijan,306,71
+Azerbaijan,310,69
+Azerbaijan,313,67
+Azerbaijan,317,63
+Azerbaijan,320,59
+Azerbaijan,324,55
+Azerbaijan,328,52
+Azerbaijan,331,50
+Azerbaijan,335,49
+Azerbaijan,338,48
+Azerbaijan,342,46
+Azerbaijan,346,43
+Azerbaijan,349,40
+Azerbaijan,353,37
+Azerbaijan,356,35
+Azerbaijan,360,33
+Azerbaijan,364,33
+Azerbaijan,367,32
+Azerbaijan,371,30
+Azerbaijan,375,27
+Azerbaijan,378,25
+Azerbaijan,382,24
+Azerbaijan,385,24
+Azerbaijan,389,24
+Azerbaijan,393,24
+Azerbaijan,396,24
+Azerbaijan,400,24
+Azerbaijan,403,24
+Azerbaijan,407,23
+Azerbaijan,411,24
+Azerbaijan,414,24
+Azerbaijan,418,24
+Azerbaijan,421,23
+Azerbaijan,425,23
+Azerbaijan,429,24
+Azerbaijan,432,24
+Azerbaijan,436,24
+Azerbaijan,439,23
+Azerbaijan,443,22
+Azerbaijan,447,21
+Azerbaijan,450,20
+Azerbaijan,454,19
+Azerbaijan,457,19
+Azerbaijan,461,19
+Azerbaijan,465,18
+Azerbaijan,468,17
+Azerbaijan,472,16
+Azerbaijan,475,15
+Azerbaijan,479,15
+Azerbaijan,483,16
+Azerbaijan,486,16
+Azerbaijan,490,17
+Azerbaijan,494,17
+Azerbaijan,497,17
+Azerbaijan,501,16
+Azerbaijan,504,16
+Azerbaijan,508,16
+Azerbaijan,512,16
+Azerbaijan,515,17
+Azerbaijan,519,17
+Azerbaijan,522,17
+Azerbaijan,526,16
+Azerbaijan,530,15
+Azerbaijan,533,15
+Azerbaijan,537,14
+Azerbaijan,540,14
+Azerbaijan,544,14
+Bahrain,0,3
+Bahrain,3,4
+Bahrain,7,6
+Bahrain,10,8
+Bahrain,14,11
+Bahrain,18,15
+Bahrain,21,19
+Bahrain,25,23
+Bahrain,28,29
+Bahrain,32,35
+Bahrain,36,43
+Bahrain,39,53
+Bahrain,43,66
+Bahrain,46,78
+Bahrain,50,92
+Bahrain,54,108
+Bahrain,57,128
+Bahrain,61,151
+Bahrain,64,175
+Bahrain,68,202
+Bahrain,72,228
+Bahrain,75,256
+Bahrain,79,287
+Bahrain,82,321
+Bahrain,86,365
+Bahrain,90,406
+Bahrain,93,441
+Bahrain,97,466
+Bahrain,100,487
+Bahrain,104,512
+Bahrain,108,534
+Bahrain,111,559
+Bahrain,115,576
+Bahrain,118,583
+Bahrain,122,576
+Bahrain,126,560
+Bahrain,129,545
+Bahrain,133,536
+Bahrain,137,531
+Bahrain,140,527
+Bahrain,144,514
+Bahrain,147,494
+Bahrain,151,470
+Bahrain,155,451
+Bahrain,158,440
+Bahrain,162,439
+Bahrain,165,438
+Bahrain,169,433
+Bahrain,173,421
+Bahrain,176,404
+Bahrain,180,391
+Bahrain,183,382
+Bahrain,187,381
+Bahrain,191,380
+Bahrain,194,373
+Bahrain,198,360
+Bahrain,201,346
+Bahrain,205,333
+Bahrain,209,324
+Bahrain,212,317
+Bahrain,216,314
+Bahrain,219,304
+Bahrain,223,292
+Bahrain,227,277
+Bahrain,230,264
+Bahrain,234,255
+Bahrain,237,247
+Bahrain,241,238
+Bahrain,245,224
+Bahrain,248,207
+Bahrain,252,194
+Bahrain,256,182
+Bahrain,259,174
+Bahrain,263,167
+Bahrain,266,158
+Bahrain,270,148
+Bahrain,274,138
+Bahrain,277,129
+Bahrain,281,123
+Bahrain,284,117
+Bahrain,288,114
+Bahrain,292,110
+Bahrain,295,104
+Bahrain,299,96
+Bahrain,302,90
+Bahrain,306,87
+Bahrain,310,85
+Bahrain,313,82
+Bahrain,317,78
+Bahrain,320,72
+Bahrain,324,68
+Bahrain,328,63
+Bahrain,331,61
+Bahrain,335,60
+Bahrain,338,59
+Bahrain,342,57
+Bahrain,346,53
+Bahrain,349,49
+Bahrain,353,46
+Bahrain,356,42
+Bahrain,360,41
+Bahrain,364,40
+Bahrain,367,39
+Bahrain,371,37
+Bahrain,375,34
+Bahrain,378,31
+Bahrain,382,30
+Bahrain,385,29
+Bahrain,389,29
+Bahrain,393,29
+Bahrain,396,30
+Bahrain,400,29
+Bahrain,403,29
+Bahrain,407,29
+Bahrain,411,29
+Bahrain,414,29
+Bahrain,418,29
+Bahrain,421,28
+Bahrain,425,29
+Bahrain,429,29
+Bahrain,432,30
+Bahrain,436,29
+Bahrain,439,28
+Bahrain,443,27
+Bahrain,447,26
+Bahrain,450,24
+Bahrain,454,23
+Bahrain,457,23
+Bahrain,461,23
+Bahrain,465,23
+Bahrain,468,21
+Bahrain,472,20
+Bahrain,475,19
+Bahrain,479,19
+Bahrain,483,19
+Bahrain,486,20
+Bahrain,490,21
+Bahrain,494,21
+Bahrain,497,21
+Bahrain,501,20
+Bahrain,504,20
+Bahrain,508,20
+Bahrain,512,20
+Bahrain,515,21
+Bahrain,519,21
+Bahrain,522,21
+Bahrain,526,20
+Bahrain,530,19
+Bahrain,533,18
+Bahrain,537,18
+Bahrain,540,18
+Bahrain,544,18
+Bangladesh,0,17
+Bangladesh,2,22
+Bangladesh,5,31
+Bangladesh,8,43
+Bangladesh,11,59
+Bangladesh,14,78
+Bangladesh,17,99
+Bangladesh,20,121
+Bangladesh,23,148
+Bangladesh,26,179
+Bangladesh,29,220
+Bangladesh,31,272
+Bangladesh,34,338
+Bangladesh,37,398
+Bangladesh,40,468
+Bangladesh,43,547
+Bangladesh,46,650
+Bangladesh,49,767
+Bangladesh,52,888
+Bangladesh,55,1024
+Bangladesh,58,1157
+Bangladesh,60,1301
+Bangladesh,63,1454
+Bangladesh,66,1631
+Bangladesh,69,1850
+Bangladesh,72,2059
+Bangladesh,75,2236
+Bangladesh,78,2366
+Bangladesh,81,2471
+Bangladesh,84,2596
+Bangladesh,87,2709
+Bangladesh,90,2833
+Bangladesh,92,2921
+Bangladesh,95,2956
+Bangladesh,98,2921
+Bangladesh,101,2840
+Bangladesh,104,2766
+Bangladesh,107,2720
+Bangladesh,110,2695
+Bangladesh,113,2670
+Bangladesh,116,2608
+Bangladesh,119,2505
+Bangladesh,121,2383
+Bangladesh,124,2285
+Bangladesh,127,2233
+Bangladesh,130,2225
+Bangladesh,133,2223
+Bangladesh,136,2198
+Bangladesh,139,2136
+Bangladesh,142,2051
+Bangladesh,145,1982
+Bangladesh,148,1938
+Bangladesh,150,1935
+Bangladesh,153,1928
+Bangladesh,156,1891
+Bangladesh,159,1827
+Bangladesh,162,1755
+Bangladesh,165,1691
+Bangladesh,168,1644
+Bangladesh,171,1609
+Bangladesh,174,1591
+Bangladesh,177,1543
+Bangladesh,180,1482
+Bangladesh,182,1403
+Bangladesh,185,1339
+Bangladesh,188,1293
+Bangladesh,191,1256
+Bangladesh,194,1206
+Bangladesh,197,1138
+Bangladesh,200,1052
+Bangladesh,203,983
+Bangladesh,206,922
+Bangladesh,209,886
+Bangladesh,211,848
+Bangladesh,214,805
+Bangladesh,217,750
+Bangladesh,220,702
+Bangladesh,223,658
+Bangladesh,226,626
+Bangladesh,229,597
+Bangladesh,232,580
+Bangladesh,235,558
+Bangladesh,238,527
+Bangladesh,240,491
+Bangladesh,243,461
+Bangladesh,246,443
+Bangladesh,249,432
+Bangladesh,252,416
+Bangladesh,255,397
+Bangladesh,258,369
+Bangladesh,261,345
+Bangladesh,264,323
+Bangladesh,267,311
+Bangladesh,270,306
+Bangladesh,272,299
+Bangladesh,275,289
+Bangladesh,278,270
+Bangladesh,281,252
+Bangladesh,284,234
+Bangladesh,287,217
+Bangladesh,290,209
+Bangladesh,293,205
+Bangladesh,296,200
+Bangladesh,299,187
+Bangladesh,301,172
+Bangladesh,304,160
+Bangladesh,307,153
+Bangladesh,310,150
+Bangladesh,313,150
+Bangladesh,316,151
+Bangladesh,319,153
+Bangladesh,322,151
+Bangladesh,325,149
+Bangladesh,328,147
+Bangladesh,330,150
+Bangladesh,333,151
+Bangladesh,336,150
+Bangladesh,339,145
+Bangladesh,342,148
+Bangladesh,345,149
+Bangladesh,348,154
+Bangladesh,351,149
+Bangladesh,354,146
+Bangladesh,357,140
+Bangladesh,360,133
+Bangladesh,362,125
+Bangladesh,365,120
+Bangladesh,368,119
+Bangladesh,371,120
+Bangladesh,374,116
+Bangladesh,377,111
+Bangladesh,380,101
+Bangladesh,383,98
+Bangladesh,386,97
+Bangladesh,389,100
+Bangladesh,391,104
+Bangladesh,394,108
+Bangladesh,397,109
+Bangladesh,400,108
+Bangladesh,403,104
+Bangladesh,406,102
+Bangladesh,409,102
+Bangladesh,412,105
+Bangladesh,415,107
+Bangladesh,418,109
+Bangladesh,421,107
+Bangladesh,423,103
+Bangladesh,426,98
+Bangladesh,429,95
+Bangladesh,432,92
+Bangladesh,435,91
+Bangladesh,438,91
+Belarus,0,4
+Belarus,1,5
+Belarus,3,7
+Belarus,4,10
+Belarus,6,14
+Belarus,8,19
+Belarus,9,24
+Belarus,11,29
+Belarus,12,36
+Belarus,14,44
+Belarus,16,54
+Belarus,17,67
+Belarus,19,83
+Belarus,20,98
+Belarus,22,115
+Belarus,24,135
+Belarus,25,160
+Belarus,27,189
+Belarus,28,218
+Belarus,30,252
+Belarus,32,285
+Belarus,33,320
+Belarus,35,358
+Belarus,36,402
+Belarus,38,456
+Belarus,40,507
+Belarus,41,551
+Belarus,43,583
+Belarus,44,609
+Belarus,46,640
+Belarus,48,668
+Belarus,49,698
+Belarus,51,720
+Belarus,53,728
+Belarus,54,720
+Belarus,56,700
+Belarus,57,682
+Belarus,59,670
+Belarus,61,664
+Belarus,62,658
+Belarus,64,643
+Belarus,65,617
+Belarus,67,587
+Belarus,69,563
+Belarus,70,550
+Belarus,72,548
+Belarus,73,548
+Belarus,75,541
+Belarus,77,526
+Belarus,78,505
+Belarus,80,488
+Belarus,81,477
+Belarus,83,477
+Belarus,85,475
+Belarus,86,466
+Belarus,88,450
+Belarus,89,432
+Belarus,91,416
+Belarus,93,405
+Belarus,94,396
+Belarus,96,392
+Belarus,98,380
+Belarus,99,365
+Belarus,101,346
+Belarus,102,330
+Belarus,104,318
+Belarus,106,309
+Belarus,107,297
+Belarus,109,280
+Belarus,110,259
+Belarus,112,242
+Belarus,114,227
+Belarus,115,218
+Belarus,117,209
+Belarus,118,198
+Belarus,120,184
+Belarus,122,173
+Belarus,123,162
+Belarus,125,154
+Belarus,126,147
+Belarus,128,143
+Belarus,130,137
+Belarus,131,129
+Belarus,133,121
+Belarus,134,113
+Belarus,136,109
+Belarus,138,106
+Belarus,139,102
+Belarus,141,98
+Belarus,143,90
+Belarus,144,85
+Belarus,146,79
+Belarus,147,76
+Belarus,149,75
+Belarus,151,73
+Belarus,152,71
+Belarus,154,66
+Belarus,155,62
+Belarus,157,57
+Belarus,159,53
+Belarus,160,51
+Belarus,162,50
+Belarus,163,49
+Belarus,165,46
+Belarus,167,42
+Belarus,168,39
+Belarus,170,37
+Belarus,171,37
+Belarus,173,37
+Belarus,175,37
+Belarus,176,37
+Belarus,178,37
+Belarus,179,36
+Belarus,181,36
+Belarus,183,37
+Belarus,184,37
+Belarus,186,37
+Belarus,188,35
+Belarus,189,36
+Belarus,191,36
+Belarus,192,38
+Belarus,194,36
+Belarus,196,36
+Belarus,197,34
+Belarus,199,32
+Belarus,200,30
+Belarus,202,29
+Belarus,204,29
+Belarus,205,29
+Belarus,207,28
+Belarus,208,27
+Belarus,210,25
+Belarus,212,24
+Belarus,213,24
+Belarus,215,24
+Belarus,216,25
+Belarus,218,26
+Belarus,220,27
+Belarus,221,26
+Belarus,223,25
+Belarus,224,25
+Belarus,226,25
+Belarus,228,25
+Belarus,229,26
+Belarus,231,27
+Belarus,233,26
+Belarus,234,25
+Belarus,236,24
+Belarus,237,23
+Belarus,239,22
+Belarus,241,22
+Belarus,242,22
+Belgium,0,9
+Belgium,0,11
+Belgium,1,16
+Belgium,2,22
+Belgium,3,31
+Belgium,4,41
+Belgium,5,52
+Belgium,6,63
+Belgium,7,77
+Belgium,8,94
+Belgium,9,115
+Belgium,10,143
+Belgium,11,178
+Belgium,12,209
+Belgium,13,246
+Belgium,14,287
+Belgium,15,341
+Belgium,16,403
+Belgium,17,466
+Belgium,18,538
+Belgium,19,607
+Belgium,20,683
+Belgium,20,764
+Belgium,21,856
+Belgium,22,971
+Belgium,23,1081
+Belgium,24,1174
+Belgium,25,1242
+Belgium,26,1298
+Belgium,27,1363
+Belgium,28,1423
+Belgium,29,1488
+Belgium,30,1534
+Belgium,31,1552
+Belgium,32,1534
+Belgium,33,1492
+Belgium,34,1453
+Belgium,35,1428
+Belgium,36,1415
+Belgium,37,1402
+Belgium,38,1369
+Belgium,39,1316
+Belgium,40,1251
+Belgium,41,1200
+Belgium,41,1172
+Belgium,42,1168
+Belgium,43,1167
+Belgium,44,1154
+Belgium,45,1122
+Belgium,46,1077
+Belgium,47,1041
+Belgium,48,1018
+Belgium,49,1016
+Belgium,50,1012
+Belgium,51,993
+Belgium,52,959
+Belgium,53,921
+Belgium,54,888
+Belgium,55,863
+Belgium,56,845
+Belgium,57,835
+Belgium,58,810
+Belgium,59,778
+Belgium,60,737
+Belgium,61,703
+Belgium,61,679
+Belgium,62,660
+Belgium,63,633
+Belgium,64,597
+Belgium,65,552
+Belgium,66,516
+Belgium,67,484
+Belgium,68,465
+Belgium,69,445
+Belgium,70,422
+Belgium,71,393
+Belgium,72,368
+Belgium,73,345
+Belgium,74,329
+Belgium,75,313
+Belgium,76,305
+Belgium,77,293
+Belgium,78,276
+Belgium,79,258
+Belgium,80,242
+Belgium,81,232
+Belgium,82,227
+Belgium,82,218
+Belgium,83,208
+Belgium,84,193
+Belgium,85,181
+Belgium,86,170
+Belgium,87,163
+Belgium,88,160
+Belgium,89,157
+Belgium,90,152
+Belgium,91,142
+Belgium,92,132
+Belgium,93,123
+Belgium,94,114
+Belgium,95,110
+Belgium,96,108
+Belgium,97,105
+Belgium,98,98
+Belgium,99,90
+Belgium,100,84
+Belgium,101,80
+Belgium,102,78
+Belgium,102,79
+Belgium,103,79
+Belgium,104,80
+Belgium,105,79
+Belgium,106,78
+Belgium,107,77
+Belgium,108,78
+Belgium,109,79
+Belgium,110,78
+Belgium,111,76
+Belgium,112,77
+Belgium,113,78
+Belgium,114,80
+Belgium,115,78
+Belgium,116,76
+Belgium,117,73
+Belgium,118,70
+Belgium,119,66
+Belgium,120,63
+Belgium,121,62
+Belgium,122,63
+Belgium,123,61
+Belgium,123,58
+Belgium,124,53
+Belgium,125,51
+Belgium,126,51
+Belgium,127,53
+Belgium,128,55
+Belgium,129,57
+Belgium,130,57
+Belgium,131,56
+Belgium,132,55
+Belgium,133,53
+Belgium,134,53
+Belgium,135,55
+Belgium,136,56
+Belgium,137,57
+Belgium,138,56
+Belgium,139,54
+Belgium,140,51
+Belgium,141,49
+Belgium,142,48
+Belgium,143,48
+Belgium,144,48
+Bolivia,0,8
+Bolivia,4,11
+Bolivia,8,16
+Bolivia,12,21
+Bolivia,17,30
+Bolivia,21,39
+Bolivia,25,50
+Bolivia,29,61
+Bolivia,34,75
+Bolivia,38,90
+Bolivia,42,111
+Bolivia,46,138
+Bolivia,51,171
+Bolivia,55,202
+Bolivia,59,237
+Bolivia,63,277
+Bolivia,68,329
+Bolivia,72,389
+Bolivia,76,450
+Bolivia,80,519
+Bolivia,85,586
+Bolivia,89,659
+Bolivia,93,737
+Bolivia,98,827
+Bolivia,102,938
+Bolivia,106,1044
+Bolivia,110,1134
+Bolivia,115,1200
+Bolivia,119,1253
+Bolivia,123,1316
+Bolivia,127,1374
+Bolivia,132,1437
+Bolivia,136,1481
+Bolivia,140,1499
+Bolivia,144,1481
+Bolivia,149,1440
+Bolivia,153,1403
+Bolivia,157,1379
+Bolivia,161,1367
+Bolivia,166,1354
+Bolivia,170,1322
+Bolivia,174,1270
+Bolivia,178,1208
+Bolivia,183,1159
+Bolivia,187,1132
+Bolivia,191,1128
+Bolivia,196,1127
+Bolivia,200,1114
+Bolivia,204,1083
+Bolivia,208,1040
+Bolivia,213,1005
+Bolivia,217,982
+Bolivia,221,981
+Bolivia,225,977
+Bolivia,230,959
+Bolivia,234,926
+Bolivia,238,890
+Bolivia,242,857
+Bolivia,247,833
+Bolivia,251,816
+Bolivia,255,807
+Bolivia,259,782
+Bolivia,264,751
+Bolivia,268,711
+Bolivia,272,679
+Bolivia,277,656
+Bolivia,281,637
+Bolivia,285,611
+Bolivia,289,577
+Bolivia,294,533
+Bolivia,298,498
+Bolivia,302,467
+Bolivia,306,449
+Bolivia,311,430
+Bolivia,315,408
+Bolivia,319,380
+Bolivia,323,356
+Bolivia,328,334
+Bolivia,332,317
+Bolivia,336,302
+Bolivia,340,294
+Bolivia,345,283
+Bolivia,349,267
+Bolivia,353,249
+Bolivia,357,233
+Bolivia,362,224
+Bolivia,366,219
+Bolivia,370,211
+Bolivia,375,201
+Bolivia,379,187
+Bolivia,383,175
+Bolivia,387,164
+Bolivia,392,157
+Bolivia,396,155
+Bolivia,400,152
+Bolivia,404,146
+Bolivia,409,137
+Bolivia,413,128
+Bolivia,417,118
+Bolivia,421,110
+Bolivia,426,106
+Bolivia,430,104
+Bolivia,434,101
+Bolivia,438,95
+Bolivia,443,87
+Bolivia,447,81
+Bolivia,451,77
+Bolivia,455,76
+Bolivia,460,76
+Bolivia,464,76
+Bolivia,468,78
+Bolivia,473,76
+Bolivia,477,75
+Bolivia,481,74
+Bolivia,485,76
+Bolivia,490,76
+Bolivia,494,76
+Bolivia,498,73
+Bolivia,502,75
+Bolivia,507,75
+Bolivia,511,78
+Bolivia,515,76
+Bolivia,519,74
+Bolivia,524,71
+Bolivia,528,67
+Bolivia,532,63
+Bolivia,536,61
+Bolivia,541,60
+Bolivia,545,61
+Bolivia,549,59
+Bolivia,554,56
+Bolivia,558,51
+Bolivia,562,49
+Bolivia,566,49
+Bolivia,571,51
+Bolivia,575,53
+Bolivia,579,55
+Bolivia,583,55
+Bolivia,588,54
+Bolivia,592,53
+Bolivia,596,52
+Bolivia,600,51
+Bolivia,605,53
+Bolivia,609,54
+Bolivia,613,55
+Bolivia,617,54
+Bolivia,622,52
+Bolivia,626,49
+Bolivia,630,48
+Bolivia,634,47
+Bolivia,639,46
+Bolivia,643,46
+Brazil,0,889
+Brazil,7,1153
+Brazil,15,1609
+Brazil,22,2198
+Brazil,30,3041
+Brazil,38,3974
+Brazil,45,5083
+Brazil,53,6165
+Brazil,61,7551
+Brazil,68,9125
+Brazil,76,11214
+Brazil,84,13875
+Brazil,91,17245
+Brazil,99,20275
+Brazil,107,23845
+Brazil,114,27860
+Brazil,122,33071
+Brazil,130,39066
+Brazil,137,45181
+Brazil,145,52141
+Brazil,152,58868
+Brazil,160,66189
+Brazil,168,74000
+Brazil,175,82992
+Brazil,183,94129
+Brazil,191,104788
+Brazil,198,113768
+Brazil,206,120391
+Brazil,214,125757
+Brazil,221,132100
+Brazil,229,137835
+Brazil,237,144171
+Brazil,244,148607
+Brazil,252,150397
+Brazil,260,148600
+Brazil,267,144521
+Brazil,275,140754
+Brazil,283,138403
+Brazil,290,137142
+Brazil,298,135879
+Brazil,305,132692
+Brazil,313,127476
+Brazil,321,121243
+Brazil,328,116271
+Brazil,336,113609
+Brazil,344,113223
+Brazil,351,113102
+Brazil,359,111821
+Brazil,367,108694
+Brazil,374,104382
+Brazil,382,100876
+Brazil,390,98604
+Brazil,397,98453
+Brazil,405,98091
+Brazil,413,96219
+Brazil,420,92977
+Brazil,428,89297
+Brazil,435,86027
+Brazil,443,83651
+Brazil,451,81855
+Brazil,458,80962
+Brazil,466,78501
+Brazil,474,75396
+Brazil,481,71421
+Brazil,489,68159
+Brazil,497,65808
+Brazil,504,63929
+Brazil,512,61389
+Brazil,520,57921
+Brazil,527,53538
+Brazil,535,50029
+Brazil,543,46932
+Brazil,550,45091
+Brazil,558,43172
+Brazil,566,40958
+Brazil,573,38157
+Brazil,581,35721
+Brazil,588,33507
+Brazil,596,31892
+Brazil,604,30384
+Brazil,611,29542
+Brazil,619,28394
+Brazil,627,26823
+Brazil,634,24994
+Brazil,642,23453
+Brazil,650,22558
+Brazil,657,22010
+Brazil,665,21203
+Brazil,673,20235
+Brazil,680,18776
+Brazil,688,17596
+Brazil,696,16470
+Brazil,703,15843
+Brazil,711,15591
+Brazil,719,15252
+Brazil,726,14726
+Brazil,734,13767
+Brazil,741,12860
+Brazil,749,11921
+Brazil,757,11073
+Brazil,764,10676
+Brazil,772,10461
+Brazil,780,10218
+Brazil,787,9541
+Brazil,795,8777
+Brazil,803,8155
+Brazil,810,7808
+Brazil,818,7640
+Brazil,826,7671
+Brazil,833,7695
+Brazil,841,7834
+Brazil,849,7697
+Brazil,856,7594
+Brazil,864,7499
+Brazil,871,7643
+Brazil,879,7691
+Brazil,887,7645
+Brazil,894,7395
+Brazil,902,7531
+Brazil,910,7612
+Brazil,917,7842
+Brazil,925,7630
+Brazil,933,7429
+Brazil,940,7131
+Brazil,948,6781
+Brazil,956,6394
+Brazil,963,6153
+Brazil,971,6069
+Brazil,979,6151
+Brazil,986,5938
+Brazil,994,5650
+Brazil,1002,5166
+Brazil,1009,5012
+Brazil,1017,4963
+Brazil,1024,5134
+Brazil,1032,5327
+Brazil,1040,5530
+Brazil,1047,5584
+Brazil,1055,5511
+Brazil,1063,5336
+Brazil,1070,5218
+Brazil,1078,5208
+Brazil,1086,5350
+Brazil,1093,5481
+Brazil,1101,5573
+Brazil,1109,5453
+Brazil,1116,5263
+Brazil,1124,5006
+Brazil,1132,4836
+Brazil,1139,4727
+Brazil,1147,4677
+Brazil,1155,4661
+Cameroon,0,3
+Cameroon,2,4
+Cameroon,5,6
+Cameroon,7,8
+Cameroon,10,11
+Cameroon,12,15
+Cameroon,15,19
+Cameroon,17,24
+Cameroon,20,29
+Cameroon,23,35
+Cameroon,25,43
+Cameroon,28,54
+Cameroon,30,67
+Cameroon,33,79
+Cameroon,35,93
+Cameroon,38,109
+Cameroon,40,129
+Cameroon,43,152
+Cameroon,46,176
+Cameroon,48,204
+Cameroon,51,230
+Cameroon,53,259
+Cameroon,56,289
+Cameroon,58,324
+Cameroon,61,368
+Cameroon,63,410
+Cameroon,66,445
+Cameroon,69,471
+Cameroon,71,492
+Cameroon,74,516
+Cameroon,76,539
+Cameroon,79,564
+Cameroon,81,581
+Cameroon,84,588
+Cameroon,86,581
+Cameroon,89,565
+Cameroon,92,550
+Cameroon,94,541
+Cameroon,97,536
+Cameroon,99,531
+Cameroon,102,519
+Cameroon,104,498
+Cameroon,107,474
+Cameroon,109,455
+Cameroon,112,444
+Cameroon,115,443
+Cameroon,117,442
+Cameroon,120,437
+Cameroon,122,425
+Cameroon,125,408
+Cameroon,127,394
+Cameroon,130,385
+Cameroon,132,385
+Cameroon,135,383
+Cameroon,138,376
+Cameroon,140,363
+Cameroon,143,349
+Cameroon,145,336
+Cameroon,148,327
+Cameroon,150,320
+Cameroon,153,316
+Cameroon,155,307
+Cameroon,158,295
+Cameroon,161,279
+Cameroon,163,266
+Cameroon,166,257
+Cameroon,168,250
+Cameroon,171,240
+Cameroon,173,226
+Cameroon,176,209
+Cameroon,178,195
+Cameroon,181,183
+Cameroon,184,176
+Cameroon,186,168
+Cameroon,189,160
+Cameroon,191,149
+Cameroon,194,139
+Cameroon,196,131
+Cameroon,199,124
+Cameroon,201,118
+Cameroon,204,115
+Cameroon,207,111
+Cameroon,209,104
+Cameroon,212,97
+Cameroon,214,91
+Cameroon,217,88
+Cameroon,219,86
+Cameroon,222,82
+Cameroon,225,79
+Cameroon,227,73
+Cameroon,230,68
+Cameroon,232,64
+Cameroon,235,62
+Cameroon,237,61
+Cameroon,240,59
+Cameroon,242,57
+Cameroon,245,53
+Cameroon,248,50
+Cameroon,250,46
+Cameroon,253,43
+Cameroon,255,41
+Cameroon,258,40
+Cameroon,260,39
+Cameroon,263,37
+Cameroon,265,34
+Cameroon,268,31
+Cameroon,271,30
+Cameroon,273,29
+Cameroon,276,30
+Cameroon,278,30
+Cameroon,281,30
+Cameroon,283,30
+Cameroon,286,29
+Cameroon,288,29
+Cameroon,291,29
+Cameroon,294,30
+Cameroon,296,29
+Cameroon,299,28
+Cameroon,301,29
+Cameroon,304,29
+Cameroon,306,30
+Cameroon,309,29
+Cameroon,311,29
+Cameroon,314,27
+Cameroon,317,26
+Cameroon,319,25
+Cameroon,322,24
+Cameroon,324,23
+Cameroon,327,24
+Cameroon,329,23
+Cameroon,332,22
+Cameroon,334,20
+Cameroon,337,19
+Cameroon,340,19
+Cameroon,342,20
+Cameroon,345,20
+Cameroon,347,21
+Cameroon,350,21
+Cameroon,352,21
+Cameroon,355,20
+Cameroon,357,20
+Cameroon,360,20
+Cameroon,363,20
+Cameroon,365,21
+Cameroon,368,21
+Cameroon,370,21
+Cameroon,373,20
+Cameroon,375,19
+Cameroon,378,18
+Cameroon,380,18
+Cameroon,383,18
+Cameroon,386,18
+Canada,0,9
+Canada,1,12
+Canada,3,16
+Canada,5,23
+Canada,7,31
+Canada,9,41
+Canada,10,53
+Canada,12,64
+Canada,14,79
+Canada,16,95
+Canada,18,117
+Canada,19,145
+Canada,21,181
+Canada,23,212
+Canada,25,250
+Canada,27,292
+Canada,28,347
+Canada,30,410
+Canada,32,474
+Canada,34,547
+Canada,36,618
+Canada,37,695
+Canada,39,777
+Canada,41,871
+Canada,43,988
+Canada,45,1100
+Canada,46,1195
+Canada,48,1264
+Canada,50,1321
+Canada,52,1387
+Canada,54,1447
+Canada,55,1514
+Canada,57,1561
+Canada,59,1579
+Canada,61,1560
+Canada,63,1518
+Canada,64,1478
+Canada,66,1453
+Canada,68,1440
+Canada,70,1427
+Canada,72,1393
+Canada,73,1339
+Canada,75,1273
+Canada,77,1221
+Canada,79,1193
+Canada,81,1189
+Canada,82,1188
+Canada,84,1174
+Canada,86,1141
+Canada,88,1096
+Canada,90,1059
+Canada,91,1035
+Canada,93,1034
+Canada,95,1030
+Canada,97,1010
+Canada,99,976
+Canada,100,938
+Canada,102,903
+Canada,104,878
+Canada,106,859
+Canada,108,850
+Canada,109,824
+Canada,111,792
+Canada,113,750
+Canada,115,715
+Canada,117,691
+Canada,118,671
+Canada,120,644
+Canada,122,608
+Canada,124,562
+Canada,126,525
+Canada,128,493
+Canada,129,473
+Canada,131,453
+Canada,133,430
+Canada,135,400
+Canada,137,375
+Canada,138,351
+Canada,140,335
+Canada,142,319
+Canada,144,310
+Canada,146,298
+Canada,147,281
+Canada,149,262
+Canada,151,246
+Canada,153,236
+Canada,155,231
+Canada,156,222
+Canada,158,212
+Canada,160,197
+Canada,162,184
+Canada,164,173
+Canada,165,166
+Canada,167,163
+Canada,169,160
+Canada,171,154
+Canada,173,144
+Canada,174,135
+Canada,176,125
+Canada,178,116
+Canada,180,112
+Canada,182,109
+Canada,183,107
+Canada,185,100
+Canada,187,92
+Canada,189,85
+Canada,191,82
+Canada,192,80
+Canada,194,80
+Canada,196,80
+Canada,198,82
+Canada,200,80
+Canada,201,79
+Canada,203,78
+Canada,205,80
+Canada,207,80
+Canada,209,80
+Canada,210,77
+Canada,212,79
+Canada,214,79
+Canada,216,82
+Canada,218,80
+Canada,219,78
+Canada,221,74
+Canada,223,71
+Canada,225,67
+Canada,227,64
+Canada,228,63
+Canada,230,64
+Canada,232,62
+Canada,234,59
+Canada,236,54
+Canada,237,52
+Canada,239,52
+Canada,241,53
+Canada,243,55
+Canada,245,58
+Canada,247,58
+Canada,248,57
+Canada,250,56
+Canada,252,54
+Canada,254,54
+Canada,256,56
+Canada,257,57
+Canada,259,58
+Canada,261,57
+Canada,263,55
+Canada,265,52
+Canada,266,50
+Canada,268,49
+Canada,270,49
+Canada,272,48
+Chile,0,304
+Chile,11,394
+Chile,22,551
+Chile,34,752
+Chile,45,1041
+Chile,56,1361
+Chile,68,1741
+Chile,79,2111
+Chile,91,2586
+Chile,102,3126
+Chile,113,3841
+Chile,125,4753
+Chile,136,5907
+Chile,148,6945
+Chile,159,8168
+Chile,170,9543
+Chile,182,11328
+Chile,193,13382
+Chile,205,15477
+Chile,216,17861
+Chile,227,20165
+Chile,239,22673
+Chile,250,25349
+Chile,262,28429
+Chile,273,32244
+Chile,284,35896
+Chile,296,38972
+Chile,307,41240
+Chile,318,43079
+Chile,330,45252
+Chile,341,47216
+Chile,353,49386
+Chile,364,50906
+Chile,375,51519
+Chile,387,50904
+Chile,398,49506
+Chile,410,48216
+Chile,421,47411
+Chile,432,46979
+Chile,444,46546
+Chile,455,45454
+Chile,467,43668
+Chile,478,41532
+Chile,489,39829
+Chile,501,38917
+Chile,512,38785
+Chile,524,38744
+Chile,535,38305
+Chile,546,37234
+Chile,558,35756
+Chile,569,34555
+Chile,580,33777
+Chile,592,33726
+Chile,603,33601
+Chile,615,32960
+Chile,626,31850
+Chile,637,30589
+Chile,649,29469
+Chile,660,28655
+Chile,672,28040
+Chile,683,27734
+Chile,694,26891
+Chile,706,25827
+Chile,717,24465
+Chile,729,23348
+Chile,740,22543
+Chile,751,21899
+Chile,763,21029
+Chile,774,19841
+Chile,786,18339
+Chile,797,17138
+Chile,808,16077
+Chile,820,15446
+Chile,831,14789
+Chile,842,14030
+Chile,854,13071
+Chile,865,12236
+Chile,877,11478
+Chile,888,10925
+Chile,899,10408
+Chile,911,10119
+Chile,922,9726
+Chile,934,9188
+Chile,945,8562
+Chile,956,8034
+Chile,968,7727
+Chile,979,7539
+Chile,991,7263
+Chile,1002,6931
+Chile,1013,6431
+Chile,1025,6027
+Chile,1036,5641
+Chile,1048,5427
+Chile,1059,5340
+Chile,1070,5224
+Chile,1082,5044
+Chile,1093,4716
+Chile,1104,4405
+Chile,1116,4083
+Chile,1127,3793
+Chile,1139,3657
+Chile,1150,3583
+Chile,1161,3500
+Chile,1173,3268
+Chile,1184,3006
+Chile,1196,2793
+Chile,1207,2674
+Chile,1218,2617
+Chile,1230,2627
+Chile,1241,2636
+Chile,1253,2683
+Chile,1264,2636
+Chile,1275,2601
+Chile,1287,2568
+Chile,1298,2618
+Chile,1310,2634
+Chile,1321,2619
+Chile,1332,2533
+Chile,1344,2580
+Chile,1355,2607
+Chile,1366,2686
+Chile,1378,2613
+Chile,1389,2545
+Chile,1401,2442
+Chile,1412,2323
+Chile,1423,2190
+Chile,1435,2107
+Chile,1446,2079
+Chile,1458,2107
+Chile,1469,2034
+Chile,1480,1935
+Chile,1492,1769
+Chile,1503,1717
+Chile,1515,1700
+Chile,1526,1758
+Chile,1537,1824
+Chile,1549,1894
+Chile,1560,1912
+Chile,1572,1888
+Chile,1583,1827
+Chile,1594,1787
+Chile,1606,1784
+Chile,1617,1832
+Chile,1628,1877
+Chile,1640,1909
+Chile,1651,1868
+Chile,1663,1803
+Chile,1674,1714
+Chile,1685,1656
+Chile,1697,1619
+Chile,1708,1602
+Chile,1720,1596
+Colombia,0,165
+Colombia,8,214
+Colombia,17,299
+Colombia,26,409
+Colombia,34,566
+Colombia,43,740
+Colombia,52,947
+Colombia,61,1148
+Colombia,69,1406
+Colombia,78,1700
+Colombia,87,2089
+Colombia,95,2585
+Colombia,104,3212
+Colombia,113,3777
+Colombia,122,4442
+Colombia,130,5190
+Colombia,139,6161
+Colombia,148,7278
+Colombia,156,8417
+Colombia,165,9714
+Colombia,174,10967
+Colombia,183,12331
+Colombia,191,13786
+Colombia,200,15461
+Colombia,209,17536
+Colombia,217,19522
+Colombia,226,21195
+Colombia,235,22429
+Colombia,244,23429
+Colombia,252,24610
+Colombia,261,25679
+Colombia,270,26859
+Colombia,279,27686
+Colombia,287,28019
+Colombia,296,27684
+Colombia,305,26924
+Colombia,313,26223
+Colombia,322,25785
+Colombia,331,25550
+Colombia,340,25314
+Colombia,348,24720
+Colombia,357,23749
+Colombia,366,22587
+Colombia,374,21661
+Colombia,383,21165
+Colombia,392,21093
+Colombia,401,21071
+Colombia,409,20832
+Colombia,418,20250
+Colombia,427,19446
+Colombia,435,18793
+Colombia,444,18370
+Colombia,453,18342
+Colombia,462,18274
+Colombia,470,17926
+Colombia,479,17322
+Colombia,488,16636
+Colombia,497,16027
+Colombia,505,15584
+Colombia,514,15249
+Colombia,523,15083
+Colombia,531,14625
+Colombia,540,14046
+Colombia,549,13305
+Colombia,558,12698
+Colombia,566,12260
+Colombia,575,11910
+Colombia,584,11437
+Colombia,592,10790
+Colombia,601,9974
+Colombia,610,9320
+Colombia,619,8743
+Colombia,627,8400
+Colombia,636,8043
+Colombia,645,7630
+Colombia,653,7108
+Colombia,662,6654
+Colombia,671,6242
+Colombia,680,5941
+Colombia,688,5660
+Colombia,697,5503
+Colombia,706,5290
+Colombia,715,4997
+Colombia,723,4656
+Colombia,732,4369
+Colombia,741,4202
+Colombia,749,4100
+Colombia,758,3950
+Colombia,767,3769
+Colombia,776,3498
+Colombia,784,3278
+Colombia,793,3068
+Colombia,802,2951
+Colombia,810,2904
+Colombia,819,2841
+Colombia,828,2743
+Colombia,837,2564
+Colombia,845,2395
+Colombia,854,2221
+Colombia,863,2062
+Colombia,871,1989
+Colombia,880,1948
+Colombia,889,1903
+Colombia,898,1777
+Colombia,906,1635
+Colombia,915,1519
+Colombia,924,1454
+Colombia,933,1423
+Colombia,941,1429
+Colombia,950,1433
+Colombia,959,1459
+Colombia,967,1434
+Colombia,976,1414
+Colombia,985,1397
+Colombia,994,1423
+Colombia,1002,1432
+Colombia,1011,1424
+Colombia,1020,1377
+Colombia,1028,1403
+Colombia,1037,1418
+Colombia,1046,1461
+Colombia,1055,1421
+Colombia,1063,1384
+Colombia,1072,1328
+Colombia,1081,1263
+Colombia,1089,1191
+Colombia,1098,1146
+Colombia,1107,1130
+Colombia,1116,1146
+Colombia,1124,1106
+Colombia,1133,1052
+Colombia,1142,962
+Colombia,1151,933
+Colombia,1159,924
+Colombia,1168,956
+Colombia,1177,992
+Colombia,1185,1030
+Colombia,1194,1040
+Colombia,1203,1026
+Colombia,1212,994
+Colombia,1220,972
+Colombia,1229,970
+Colombia,1238,996
+Colombia,1246,1021
+Colombia,1255,1038
+Colombia,1264,1015
+Colombia,1273,980
+Colombia,1281,932
+Colombia,1290,901
+Colombia,1299,880
+Colombia,1307,871
+Colombia,1316,868
+Costa Rica,0,2
+Costa Rica,4,3
+Costa Rica,9,4
+Costa Rica,14,5
+Costa Rica,19,8
+Costa Rica,24,10
+Costa Rica,29,13
+Costa Rica,34,16
+Costa Rica,39,19
+Costa Rica,44,24
+Costa Rica,49,29
+Costa Rica,54,36
+Costa Rica,59,45
+Costa Rica,63,53
+Costa Rica,68,62
+Costa Rica,73,73
+Costa Rica,78,87
+Costa Rica,83,103
+Costa Rica,88,119
+Costa Rica,93,137
+Costa Rica,98,155
+Costa Rica,103,174
+Costa Rica,108,195
+Costa Rica,113,219
+Costa Rica,118,248
+Costa Rica,122,276
+Costa Rica,127,300
+Costa Rica,132,317
+Costa Rica,137,332
+Costa Rica,142,348
+Costa Rica,147,363
+Costa Rica,152,380
+Costa Rica,157,392
+Costa Rica,162,397
+Costa Rica,167,392
+Costa Rica,172,381
+Costa Rica,177,371
+Costa Rica,181,365
+Costa Rica,186,362
+Costa Rica,191,358
+Costa Rica,196,350
+Costa Rica,201,336
+Costa Rica,206,320
+Costa Rica,211,307
+Costa Rica,216,299
+Costa Rica,221,298
+Costa Rica,226,298
+Costa Rica,231,295
+Costa Rica,236,287
+Costa Rica,240,275
+Costa Rica,245,266
+Costa Rica,250,260
+Costa Rica,255,259
+Costa Rica,260,259
+Costa Rica,265,254
+Costa Rica,270,245
+Costa Rica,275,235
+Costa Rica,280,227
+Costa Rica,285,220
+Costa Rica,290,216
+Costa Rica,295,213
+Costa Rica,299,207
+Costa Rica,304,199
+Costa Rica,309,188
+Costa Rica,314,179
+Costa Rica,319,173
+Costa Rica,324,168
+Costa Rica,329,162
+Costa Rica,334,152
+Costa Rica,339,141
+Costa Rica,344,132
+Costa Rica,349,123
+Costa Rica,354,119
+Costa Rica,358,113
+Costa Rica,363,108
+Costa Rica,368,100
+Costa Rica,373,94
+Costa Rica,378,88
+Costa Rica,383,84
+Costa Rica,388,80
+Costa Rica,393,78
+Costa Rica,398,74
+Costa Rica,403,70
+Costa Rica,408,65
+Costa Rica,413,61
+Costa Rica,417,59
+Costa Rica,422,58
+Costa Rica,427,55
+Costa Rica,432,53
+Costa Rica,437,49
+Costa Rica,442,46
+Costa Rica,447,43
+Costa Rica,452,41
+Costa Rica,457,41
+Costa Rica,462,40
+Costa Rica,467,38
+Costa Rica,472,36
+Costa Rica,476,33
+Costa Rica,481,31
+Costa Rica,486,29
+Costa Rica,491,28
+Costa Rica,496,27
+Costa Rica,501,26
+Costa Rica,506,25
+Costa Rica,511,23
+Costa Rica,516,21
+Costa Rica,521,20
+Costa Rica,526,20
+Costa Rica,531,20
+Costa Rica,535,20
+Costa Rica,540,20
+Costa Rica,545,20
+Costa Rica,550,20
+Costa Rica,555,19
+Costa Rica,560,20
+Costa Rica,565,20
+Costa Rica,570,20
+Costa Rica,575,19
+Costa Rica,580,19
+Costa Rica,585,20
+Costa Rica,590,20
+Costa Rica,594,20
+Costa Rica,599,19
+Costa Rica,604,18
+Costa Rica,609,17
+Costa Rica,614,16
+Costa Rica,619,16
+Costa Rica,624,16
+Costa Rica,629,16
+Costa Rica,634,15
+Costa Rica,639,14
+Costa Rica,644,13
+Costa Rica,649,13
+Costa Rica,653,13
+Costa Rica,658,13
+Costa Rica,663,14
+Costa Rica,668,14
+Costa Rica,673,14
+Costa Rica,678,14
+Costa Rica,683,14
+Costa Rica,688,13
+Costa Rica,693,13
+Costa Rica,698,14
+Costa Rica,703,14
+Costa Rica,708,14
+Costa Rica,712,14
+Costa Rica,717,13
+Costa Rica,722,13
+Costa Rica,727,12
+Costa Rica,732,12
+Costa Rica,737,12
+Costa Rica,742,12
+Cote d'Ivoire,0,2
+Cote d'Ivoire,3,2
+Cote d'Ivoire,7,3
+Cote d'Ivoire,11,5
+Cote d'Ivoire,14,7
+Cote d'Ivoire,18,9
+Cote d'Ivoire,22,12
+Cote d'Ivoire,26,15
+Cote d'Ivoire,29,18
+Cote d'Ivoire,33,22
+Cote d'Ivoire,37,27
+Cote d'Ivoire,41,34
+Cote d'Ivoire,44,42
+Cote d'Ivoire,48,49
+Cote d'Ivoire,52,58
+Cote d'Ivoire,56,68
+Cote d'Ivoire,59,81
+Cote d'Ivoire,63,96
+Cote d'Ivoire,67,111
+Cote d'Ivoire,71,128
+Cote d'Ivoire,74,144
+Cote d'Ivoire,78,162
+Cote d'Ivoire,82,181
+Cote d'Ivoire,86,204
+Cote d'Ivoire,89,231
+Cote d'Ivoire,93,257
+Cote d'Ivoire,97,279
+Cote d'Ivoire,101,295
+Cote d'Ivoire,104,309
+Cote d'Ivoire,108,324
+Cote d'Ivoire,112,338
+Cote d'Ivoire,116,354
+Cote d'Ivoire,119,365
+Cote d'Ivoire,123,369
+Cote d'Ivoire,127,365
+Cote d'Ivoire,131,355
+Cote d'Ivoire,134,346
+Cote d'Ivoire,138,340
+Cote d'Ivoire,142,337
+Cote d'Ivoire,146,334
+Cote d'Ivoire,149,326
+Cote d'Ivoire,153,313
+Cote d'Ivoire,157,298
+Cote d'Ivoire,161,285
+Cote d'Ivoire,164,279
+Cote d'Ivoire,168,278
+Cote d'Ivoire,172,278
+Cote d'Ivoire,176,274
+Cote d'Ivoire,179,267
+Cote d'Ivoire,183,256
+Cote d'Ivoire,187,248
+Cote d'Ivoire,191,242
+Cote d'Ivoire,194,242
+Cote d'Ivoire,198,241
+Cote d'Ivoire,202,236
+Cote d'Ivoire,206,228
+Cote d'Ivoire,209,219
+Cote d'Ivoire,213,211
+Cote d'Ivoire,217,205
+Cote d'Ivoire,221,201
+Cote d'Ivoire,224,199
+Cote d'Ivoire,228,193
+Cote d'Ivoire,232,185
+Cote d'Ivoire,236,175
+Cote d'Ivoire,239,167
+Cote d'Ivoire,243,161
+Cote d'Ivoire,247,157
+Cote d'Ivoire,251,150
+Cote d'Ivoire,254,142
+Cote d'Ivoire,258,131
+Cote d'Ivoire,262,123
+Cote d'Ivoire,265,115
+Cote d'Ivoire,269,110
+Cote d'Ivoire,273,106
+Cote d'Ivoire,277,100
+Cote d'Ivoire,280,93
+Cote d'Ivoire,284,87
+Cote d'Ivoire,288,82
+Cote d'Ivoire,292,78
+Cote d'Ivoire,295,74
+Cote d'Ivoire,299,72
+Cote d'Ivoire,303,69
+Cote d'Ivoire,307,65
+Cote d'Ivoire,310,61
+Cote d'Ivoire,314,57
+Cote d'Ivoire,318,55
+Cote d'Ivoire,322,54
+Cote d'Ivoire,325,52
+Cote d'Ivoire,329,49
+Cote d'Ivoire,333,46
+Cote d'Ivoire,337,43
+Cote d'Ivoire,340,40
+Cote d'Ivoire,344,38
+Cote d'Ivoire,348,38
+Cote d'Ivoire,352,37
+Cote d'Ivoire,355,36
+Cote d'Ivoire,359,33
+Cote d'Ivoire,363,31
+Cote d'Ivoire,367,29
+Cote d'Ivoire,370,27
+Cote d'Ivoire,374,26
+Cote d'Ivoire,378,25
+Cote d'Ivoire,382,25
+Cote d'Ivoire,385,23
+Cote d'Ivoire,389,21
+Cote d'Ivoire,393,20
+Cote d'Ivoire,397,19
+Cote d'Ivoire,400,18
+Cote d'Ivoire,404,18
+Cote d'Ivoire,408,18
+Cote d'Ivoire,412,19
+Cote d'Ivoire,415,18
+Cote d'Ivoire,419,18
+Cote d'Ivoire,423,18
+Cote d'Ivoire,427,18
+Cote d'Ivoire,430,18
+Cote d'Ivoire,434,18
+Cote d'Ivoire,438,18
+Cote d'Ivoire,442,18
+Cote d'Ivoire,445,18
+Cote d'Ivoire,449,19
+Cote d'Ivoire,453,18
+Cote d'Ivoire,457,18
+Cote d'Ivoire,460,17
+Cote d'Ivoire,464,16
+Cote d'Ivoire,468,15
+Cote d'Ivoire,472,15
+Cote d'Ivoire,475,14
+Cote d'Ivoire,479,15
+Cote d'Ivoire,483,14
+Cote d'Ivoire,487,13
+Cote d'Ivoire,490,12
+Cote d'Ivoire,494,12
+Cote d'Ivoire,498,12
+Cote d'Ivoire,502,12
+Cote d'Ivoire,505,13
+Cote d'Ivoire,509,13
+Cote d'Ivoire,513,13
+Cote d'Ivoire,517,13
+Cote d'Ivoire,520,13
+Cote d'Ivoire,524,12
+Cote d'Ivoire,528,12
+Cote d'Ivoire,531,13
+Cote d'Ivoire,535,13
+Cote d'Ivoire,539,13
+Cote d'Ivoire,543,13
+Cote d'Ivoire,546,12
+Cote d'Ivoire,550,12
+Cote d'Ivoire,554,11
+Cote d'Ivoire,558,11
+Cote d'Ivoire,561,11
+Cote d'Ivoire,565,11
+Czech Republic,0,1
+Czech Republic,0,1
+Czech Republic,1,2
+Czech Republic,2,3
+Czech Republic,3,5
+Czech Republic,4,6
+Czech Republic,5,8
+Czech Republic,6,10
+Czech Republic,7,12
+Czech Republic,8,15
+Czech Republic,9,19
+Czech Republic,10,23
+Czech Republic,11,29
+Czech Republic,12,34
+Czech Republic,13,40
+Czech Republic,14,47
+Czech Republic,15,56
+Czech Republic,15,66
+Czech Republic,16,76
+Czech Republic,17,88
+Czech Republic,18,100
+Czech Republic,19,112
+Czech Republic,20,125
+Czech Republic,21,141
+Czech Republic,22,159
+Czech Republic,23,178
+Czech Republic,24,193
+Czech Republic,25,204
+Czech Republic,26,213
+Czech Republic,27,224
+Czech Republic,28,234
+Czech Republic,29,244
+Czech Republic,30,252
+Czech Republic,31,255
+Czech Republic,31,252
+Czech Republic,32,245
+Czech Republic,33,239
+Czech Republic,34,235
+Czech Republic,35,233
+Czech Republic,36,230
+Czech Republic,37,225
+Czech Republic,38,216
+Czech Republic,39,206
+Czech Republic,40,197
+Czech Republic,41,193
+Czech Republic,42,192
+Czech Republic,43,192
+Czech Republic,44,189
+Czech Republic,45,184
+Czech Republic,46,177
+Czech Republic,47,171
+Czech Republic,47,167
+Czech Republic,48,167
+Czech Republic,49,166
+Czech Republic,50,163
+Czech Republic,51,157
+Czech Republic,52,151
+Czech Republic,53,146
+Czech Republic,54,142
+Czech Republic,55,139
+Czech Republic,56,137
+Czech Republic,57,133
+Czech Republic,58,128
+Czech Republic,59,121
+Czech Republic,60,115
+Czech Republic,61,111
+Czech Republic,62,108
+Czech Republic,63,104
+Czech Republic,63,98
+Czech Republic,64,90
+Czech Republic,65,85
+Czech Republic,66,79
+Czech Republic,67,76
+Czech Republic,68,73
+Czech Republic,69,69
+Czech Republic,70,64
+Czech Republic,71,60
+Czech Republic,72,56
+Czech Republic,73,54
+Czech Republic,74,51
+Czech Republic,75,50
+Czech Republic,76,48
+Czech Republic,77,45
+Czech Republic,78,42
+Czech Republic,78,39
+Czech Republic,79,38
+Czech Republic,80,37
+Czech Republic,81,36
+Czech Republic,82,34
+Czech Republic,83,31
+Czech Republic,84,29
+Czech Republic,85,27
+Czech Republic,86,26
+Czech Republic,87,26
+Czech Republic,88,25
+Czech Republic,89,25
+Czech Republic,90,23
+Czech Republic,91,21
+Czech Republic,92,20
+Czech Republic,93,18
+Czech Republic,94,18
+Czech Republic,94,17
+Czech Republic,95,17
+Czech Republic,96,16
+Czech Republic,97,14
+Czech Republic,98,13
+Czech Republic,99,13
+Czech Republic,100,12
+Czech Republic,101,13
+Czech Republic,102,13
+Czech Republic,103,13
+Czech Republic,104,13
+Czech Republic,105,12
+Czech Republic,106,12
+Czech Republic,107,12
+Czech Republic,108,13
+Czech Republic,109,12
+Czech Republic,110,12
+Czech Republic,110,12
+Czech Republic,111,12
+Czech Republic,112,13
+Czech Republic,113,12
+Czech Republic,114,12
+Czech Republic,115,12
+Czech Republic,116,11
+Czech Republic,117,10
+Czech Republic,118,10
+Czech Republic,119,10
+Czech Republic,120,10
+Czech Republic,121,10
+Czech Republic,122,9
+Czech Republic,123,8
+Czech Republic,124,8
+Czech Republic,125,8
+Czech Republic,126,8
+Czech Republic,126,9
+Czech Republic,127,9
+Czech Republic,128,9
+Czech Republic,129,9
+Czech Republic,130,9
+Czech Republic,131,8
+Czech Republic,132,8
+Czech Republic,133,9
+Czech Republic,134,9
+Czech Republic,135,9
+Czech Republic,136,9
+Czech Republic,137,8
+Czech Republic,138,8
+Czech Republic,139,8
+Czech Republic,140,8
+Czech Republic,141,7
+Czech Republic,142,7
+Denmark,0,1
+Denmark,1,2
+Denmark,2,2
+Denmark,3,3
+Denmark,4,5
+Denmark,5,6
+Denmark,6,8
+Denmark,7,10
+Denmark,9,13
+Denmark,10,15
+Denmark,11,19
+Denmark,12,24
+Denmark,13,29
+Denmark,14,35
+Denmark,15,41
+Denmark,16,48
+Denmark,18,57
+Denmark,19,67
+Denmark,20,78
+Denmark,21,90
+Denmark,22,102
+Denmark,23,115
+Denmark,24,128
+Denmark,25,144
+Denmark,27,163
+Denmark,28,182
+Denmark,29,197
+Denmark,30,209
+Denmark,31,218
+Denmark,32,229
+Denmark,33,239
+Denmark,34,250
+Denmark,36,258
+Denmark,37,261
+Denmark,38,258
+Denmark,39,251
+Denmark,40,244
+Denmark,41,240
+Denmark,42,238
+Denmark,44,236
+Denmark,45,230
+Denmark,46,221
+Denmark,47,210
+Denmark,48,202
+Denmark,49,197
+Denmark,50,196
+Denmark,51,196
+Denmark,53,194
+Denmark,54,189
+Denmark,55,181
+Denmark,56,175
+Denmark,57,171
+Denmark,58,171
+Denmark,59,170
+Denmark,60,167
+Denmark,62,161
+Denmark,63,155
+Denmark,64,149
+Denmark,65,145
+Denmark,66,142
+Denmark,67,140
+Denmark,68,136
+Denmark,69,131
+Denmark,71,124
+Denmark,72,118
+Denmark,73,114
+Denmark,74,111
+Denmark,75,106
+Denmark,76,100
+Denmark,77,93
+Denmark,79,87
+Denmark,80,81
+Denmark,81,78
+Denmark,82,75
+Denmark,83,71
+Denmark,84,66
+Denmark,85,62
+Denmark,86,58
+Denmark,88,55
+Denmark,89,52
+Denmark,90,51
+Denmark,91,49
+Denmark,92,46
+Denmark,93,43
+Denmark,94,40
+Denmark,95,39
+Denmark,97,38
+Denmark,98,36
+Denmark,99,35
+Denmark,100,32
+Denmark,101,30
+Denmark,102,28
+Denmark,103,27
+Denmark,104,27
+Denmark,106,26
+Denmark,107,25
+Denmark,108,23
+Denmark,109,22
+Denmark,110,20
+Denmark,111,19
+Denmark,112,18
+Denmark,113,18
+Denmark,115,17
+Denmark,116,16
+Denmark,117,15
+Denmark,118,14
+Denmark,119,13
+Denmark,120,13
+Denmark,121,13
+Denmark,123,13
+Denmark,124,13
+Denmark,125,13
+Denmark,126,13
+Denmark,127,13
+Denmark,128,13
+Denmark,129,13
+Denmark,130,13
+Denmark,132,12
+Denmark,133,13
+Denmark,134,13
+Denmark,135,13
+Denmark,136,13
+Denmark,137,12
+Denmark,138,12
+Denmark,139,11
+Denmark,141,11
+Denmark,142,10
+Denmark,143,10
+Denmark,144,10
+Denmark,145,10
+Denmark,146,9
+Denmark,147,8
+Denmark,148,8
+Denmark,150,8
+Denmark,151,8
+Denmark,152,9
+Denmark,153,9
+Denmark,154,9
+Denmark,155,9
+Denmark,156,9
+Denmark,158,9
+Denmark,159,9
+Denmark,160,9
+Denmark,161,9
+Denmark,162,9
+Denmark,163,9
+Denmark,164,9
+Denmark,165,8
+Denmark,167,8
+Denmark,168,8
+Denmark,169,8
+Denmark,170,8
+Dominican Republic,0,6
+Dominican Republic,3,7
+Dominican Republic,7,11
+Dominican Republic,11,15
+Dominican Republic,15,21
+Dominican Republic,19,27
+Dominican Republic,23,35
+Dominican Republic,27,42
+Dominican Republic,31,52
+Dominican Republic,35,63
+Dominican Republic,39,77
+Dominican Republic,43,96
+Dominican Republic,47,119
+Dominican Republic,51,140
+Dominican Republic,55,165
+Dominican Republic,59,192
+Dominican Republic,63,228
+Dominican Republic,67,270
+Dominican Republic,71,312
+Dominican Republic,75,361
+Dominican Republic,79,407
+Dominican Republic,83,458
+Dominican Republic,87,512
+Dominican Republic,91,574
+Dominican Republic,95,651
+Dominican Republic,99,725
+Dominican Republic,103,787
+Dominican Republic,107,833
+Dominican Republic,111,870
+Dominican Republic,114,914
+Dominican Republic,118,954
+Dominican Republic,122,998
+Dominican Republic,126,1029
+Dominican Republic,130,1041
+Dominican Republic,134,1028
+Dominican Republic,138,1000
+Dominican Republic,142,974
+Dominican Republic,146,958
+Dominican Republic,150,949
+Dominican Republic,154,940
+Dominican Republic,158,918
+Dominican Republic,162,882
+Dominican Republic,166,839
+Dominican Republic,170,805
+Dominican Republic,174,786
+Dominican Republic,178,784
+Dominican Republic,182,783
+Dominican Republic,186,774
+Dominican Republic,190,752
+Dominican Republic,194,722
+Dominican Republic,198,698
+Dominican Republic,202,682
+Dominican Republic,206,681
+Dominican Republic,210,679
+Dominican Republic,214,666
+Dominican Republic,218,643
+Dominican Republic,222,618
+Dominican Republic,226,595
+Dominican Republic,229,579
+Dominican Republic,233,566
+Dominican Republic,237,560
+Dominican Republic,241,543
+Dominican Republic,245,522
+Dominican Republic,249,494
+Dominican Republic,253,471
+Dominican Republic,257,455
+Dominican Republic,261,442
+Dominican Republic,265,425
+Dominican Republic,269,401
+Dominican Republic,273,370
+Dominican Republic,277,346
+Dominican Republic,281,324
+Dominican Republic,285,312
+Dominican Republic,289,298
+Dominican Republic,293,283
+Dominican Republic,297,264
+Dominican Republic,301,247
+Dominican Republic,305,232
+Dominican Republic,309,220
+Dominican Republic,313,210
+Dominican Republic,317,204
+Dominican Republic,321,196
+Dominican Republic,325,185
+Dominican Republic,329,173
+Dominican Republic,333,162
+Dominican Republic,337,156
+Dominican Republic,340,152
+Dominican Republic,344,146
+Dominican Republic,348,140
+Dominican Republic,352,130
+Dominican Republic,356,121
+Dominican Republic,360,114
+Dominican Republic,364,109
+Dominican Republic,368,107
+Dominican Republic,372,105
+Dominican Republic,376,101
+Dominican Republic,380,95
+Dominican Republic,384,89
+Dominican Republic,388,82
+Dominican Republic,392,76
+Dominican Republic,396,73
+Dominican Republic,400,72
+Dominican Republic,404,70
+Dominican Republic,408,66
+Dominican Republic,412,60
+Dominican Republic,416,56
+Dominican Republic,420,54
+Dominican Republic,424,52
+Dominican Republic,428,53
+Dominican Republic,432,53
+Dominican Republic,436,54
+Dominican Republic,440,53
+Dominican Republic,444,52
+Dominican Republic,448,51
+Dominican Republic,452,52
+Dominican Republic,455,53
+Dominican Republic,459,52
+Dominican Republic,463,51
+Dominican Republic,467,52
+Dominican Republic,471,52
+Dominican Republic,475,54
+Dominican Republic,479,52
+Dominican Republic,483,51
+Dominican Republic,487,49
+Dominican Republic,491,46
+Dominican Republic,495,44
+Dominican Republic,499,42
+Dominican Republic,503,42
+Dominican Republic,507,42
+Dominican Republic,511,41
+Dominican Republic,515,39
+Dominican Republic,519,35
+Dominican Republic,523,34
+Dominican Republic,527,34
+Dominican Republic,531,35
+Dominican Republic,535,36
+Dominican Republic,539,38
+Dominican Republic,543,38
+Dominican Republic,547,38
+Dominican Republic,551,36
+Dominican Republic,555,36
+Dominican Republic,559,36
+Dominican Republic,563,37
+Dominican Republic,566,37
+Dominican Republic,570,38
+Dominican Republic,574,37
+Dominican Republic,578,36
+Dominican Republic,582,34
+Dominican Republic,586,33
+Dominican Republic,590,32
+Dominican Republic,594,32
+Dominican Republic,598,32
+Ecuador,0,19
+Ecuador,6,25
+Ecuador,12,35
+Ecuador,19,48
+Ecuador,25,66
+Ecuador,32,87
+Ecuador,38,111
+Ecuador,44,135
+Ecuador,51,166
+Ecuador,57,200
+Ecuador,64,246
+Ecuador,70,305
+Ecuador,76,379
+Ecuador,83,446
+Ecuador,89,525
+Ecuador,96,613
+Ecuador,102,728
+Ecuador,108,860
+Ecuador,115,994
+Ecuador,121,1148
+Ecuador,128,1296
+Ecuador,134,1457
+Ecuador,140,1629
+Ecuador,147,1827
+Ecuador,153,2072
+Ecuador,160,2307
+Ecuador,166,2504
+Ecuador,172,2650
+Ecuador,179,2768
+Ecuador,185,2908
+Ecuador,192,3034
+Ecuador,198,3174
+Ecuador,204,3271
+Ecuador,211,3311
+Ecuador,217,3271
+Ecuador,224,3182
+Ecuador,230,3099
+Ecuador,236,3047
+Ecuador,243,3019
+Ecuador,249,2991
+Ecuador,256,2921
+Ecuador,262,2806
+Ecuador,269,2669
+Ecuador,275,2560
+Ecuador,281,2501
+Ecuador,288,2492
+Ecuador,294,2490
+Ecuador,301,2462
+Ecuador,307,2393
+Ecuador,313,2298
+Ecuador,320,2221
+Ecuador,326,2171
+Ecuador,333,2167
+Ecuador,339,2159
+Ecuador,345,2118
+Ecuador,352,2047
+Ecuador,358,1966
+Ecuador,365,1894
+Ecuador,371,1841
+Ecuador,377,1802
+Ecuador,384,1782
+Ecuador,390,1728
+Ecuador,397,1660
+Ecuador,403,1572
+Ecuador,409,1500
+Ecuador,416,1448
+Ecuador,422,1407
+Ecuador,429,1351
+Ecuador,435,1275
+Ecuador,441,1178
+Ecuador,448,1101
+Ecuador,454,1033
+Ecuador,461,992
+Ecuador,467,950
+Ecuador,473,901
+Ecuador,480,840
+Ecuador,486,786
+Ecuador,493,737
+Ecuador,499,702
+Ecuador,505,669
+Ecuador,512,650
+Ecuador,518,625
+Ecuador,525,590
+Ecuador,531,550
+Ecuador,538,516
+Ecuador,544,496
+Ecuador,550,484
+Ecuador,557,466
+Ecuador,563,445
+Ecuador,570,413
+Ecuador,576,387
+Ecuador,582,362
+Ecuador,589,348
+Ecuador,595,343
+Ecuador,602,335
+Ecuador,608,324
+Ecuador,614,303
+Ecuador,621,283
+Ecuador,627,262
+Ecuador,634,243
+Ecuador,640,235
+Ecuador,646,230
+Ecuador,653,224
+Ecuador,659,210
+Ecuador,666,193
+Ecuador,672,179
+Ecuador,678,171
+Ecuador,685,168
+Ecuador,691,168
+Ecuador,698,169
+Ecuador,704,172
+Ecuador,710,169
+Ecuador,717,167
+Ecuador,723,165
+Ecuador,730,168
+Ecuador,736,169
+Ecuador,742,168
+Ecuador,749,162
+Ecuador,755,165
+Ecuador,762,167
+Ecuador,768,172
+Ecuador,775,167
+Ecuador,781,163
+Ecuador,787,157
+Ecuador,794,149
+Ecuador,800,140
+Ecuador,807,135
+Ecuador,813,133
+Ecuador,819,135
+Ecuador,826,130
+Ecuador,832,124
+Ecuador,839,113
+Ecuador,845,110
+Ecuador,851,109
+Ecuador,858,113
+Ecuador,864,117
+Ecuador,871,121
+Ecuador,877,122
+Ecuador,883,121
+Ecuador,890,117
+Ecuador,896,114
+Ecuador,903,114
+Ecuador,909,117
+Ecuador,915,120
+Ecuador,922,122
+Ecuador,928,120
+Ecuador,935,115
+Ecuador,941,110
+Ecuador,947,106
+Ecuador,954,104
+Ecuador,960,102
+Ecuador,967,102
+Egypt,0,8
+Egypt,3,11
+Egypt,6,15
+Egypt,9,21
+Egypt,12,29
+Egypt,15,38
+Egypt,18,49
+Egypt,21,60
+Egypt,25,73
+Egypt,28,89
+Egypt,31,109
+Egypt,34,135
+Egypt,37,168
+Egypt,40,198
+Egypt,43,233
+Egypt,47,272
+Egypt,50,324
+Egypt,53,382
+Egypt,56,442
+Egypt,59,510
+Egypt,62,576
+Egypt,65,648
+Egypt,69,725
+Egypt,72,813
+Egypt,75,922
+Egypt,78,1026
+Egypt,81,1114
+Egypt,84,1179
+Egypt,87,1232
+Egypt,90,1294
+Egypt,94,1350
+Egypt,97,1412
+Egypt,100,1455
+Egypt,103,1473
+Egypt,106,1455
+Egypt,109,1415
+Egypt,112,1379
+Egypt,116,1356
+Egypt,119,1343
+Egypt,122,1331
+Egypt,125,1300
+Egypt,128,1248
+Egypt,131,1187
+Egypt,134,1139
+Egypt,138,1113
+Egypt,141,1109
+Egypt,144,1108
+Egypt,147,1095
+Egypt,150,1064
+Egypt,153,1022
+Egypt,156,988
+Egypt,160,966
+Egypt,163,964
+Egypt,166,961
+Egypt,169,942
+Egypt,172,910
+Egypt,175,874
+Egypt,178,842
+Egypt,181,819
+Egypt,185,801
+Egypt,188,793
+Egypt,191,769
+Egypt,194,738
+Egypt,197,699
+Egypt,200,667
+Egypt,203,644
+Egypt,207,626
+Egypt,210,601
+Egypt,213,567
+Egypt,216,524
+Egypt,219,490
+Egypt,222,459
+Egypt,225,441
+Egypt,229,422
+Egypt,232,401
+Egypt,235,373
+Egypt,238,349
+Egypt,241,328
+Egypt,244,312
+Egypt,247,297
+Egypt,251,289
+Egypt,254,278
+Egypt,257,262
+Egypt,260,244
+Egypt,263,229
+Egypt,266,221
+Egypt,269,215
+Egypt,272,207
+Egypt,276,198
+Egypt,279,183
+Egypt,282,172
+Egypt,285,161
+Egypt,288,155
+Egypt,291,152
+Egypt,294,149
+Egypt,298,144
+Egypt,301,134
+Egypt,304,125
+Egypt,307,116
+Egypt,310,108
+Egypt,313,104
+Egypt,316,102
+Egypt,320,100
+Egypt,323,93
+Egypt,326,85
+Egypt,329,79
+Egypt,332,76
+Egypt,335,74
+Egypt,338,75
+Egypt,342,75
+Egypt,345,76
+Egypt,348,75
+Egypt,351,74
+Egypt,354,73
+Egypt,357,74
+Egypt,360,75
+Egypt,363,74
+Egypt,367,72
+Egypt,370,73
+Egypt,373,74
+Egypt,376,76
+Egypt,379,74
+Egypt,382,72
+Egypt,385,69
+Egypt,389,66
+Egypt,392,62
+Egypt,395,60
+Egypt,398,59
+Egypt,401,60
+Egypt,404,58
+Egypt,407,55
+Egypt,411,50
+Egypt,414,49
+Egypt,417,48
+Egypt,420,50
+Egypt,423,52
+Egypt,426,54
+Egypt,429,54
+Egypt,432,53
+Egypt,436,52
+Egypt,439,51
+Egypt,442,51
+Egypt,445,52
+Egypt,448,53
+Egypt,451,54
+Egypt,454,53
+Egypt,458,51
+Egypt,461,49
+Egypt,464,47
+Egypt,467,46
+Egypt,470,45
+Egypt,473,45
+El Salvador,0,1
+El Salvador,3,2
+El Salvador,6,3
+El Salvador,9,4
+El Salvador,12,5
+El Salvador,16,7
+El Salvador,19,9
+El Salvador,22,11
+El Salvador,25,14
+El Salvador,28,17
+El Salvador,32,20
+El Salvador,35,25
+El Salvador,38,32
+El Salvador,41,37
+El Salvador,45,44
+El Salvador,48,52
+El Salvador,51,61
+El Salvador,54,73
+El Salvador,57,84
+El Salvador,61,97
+El Salvador,64,110
+El Salvador,67,123
+El Salvador,70,138
+El Salvador,74,155
+El Salvador,77,176
+El Salvador,80,196
+El Salvador,83,212
+El Salvador,86,225
+El Salvador,90,235
+El Salvador,93,247
+El Salvador,96,257
+El Salvador,99,269
+El Salvador,102,278
+El Salvador,106,281
+El Salvador,109,278
+El Salvador,112,270
+El Salvador,115,263
+El Salvador,119,258
+El Salvador,122,256
+El Salvador,125,254
+El Salvador,128,248
+El Salvador,131,238
+El Salvador,135,226
+El Salvador,138,217
+El Salvador,141,212
+El Salvador,144,211
+El Salvador,148,211
+El Salvador,151,209
+El Salvador,154,203
+El Salvador,157,195
+El Salvador,160,188
+El Salvador,164,184
+El Salvador,167,184
+El Salvador,170,183
+El Salvador,173,180
+El Salvador,177,173
+El Salvador,180,167
+El Salvador,183,160
+El Salvador,186,156
+El Salvador,189,153
+El Salvador,193,151
+El Salvador,196,146
+El Salvador,199,141
+El Salvador,202,133
+El Salvador,205,127
+El Salvador,209,123
+El Salvador,212,119
+El Salvador,215,114
+El Salvador,218,108
+El Salvador,222,100
+El Salvador,225,93
+El Salvador,228,87
+El Salvador,231,84
+El Salvador,234,80
+El Salvador,238,76
+El Salvador,241,71
+El Salvador,244,66
+El Salvador,247,62
+El Salvador,251,59
+El Salvador,254,56
+El Salvador,257,55
+El Salvador,260,53
+El Salvador,263,50
+El Salvador,267,46
+El Salvador,270,43
+El Salvador,273,42
+El Salvador,276,41
+El Salvador,280,39
+El Salvador,283,37
+El Salvador,286,35
+El Salvador,289,32
+El Salvador,292,30
+El Salvador,296,29
+El Salvador,299,29
+El Salvador,302,28
+El Salvador,305,27
+El Salvador,308,25
+El Salvador,312,24
+El Salvador,315,22
+El Salvador,318,20
+El Salvador,321,19
+El Salvador,325,19
+El Salvador,328,19
+El Salvador,331,17
+El Salvador,334,16
+El Salvador,337,15
+El Salvador,341,14
+El Salvador,344,14
+El Salvador,347,14
+El Salvador,350,14
+El Salvador,354,14
+El Salvador,357,14
+El Salvador,360,14
+El Salvador,363,14
+El Salvador,366,14
+El Salvador,370,14
+El Salvador,373,14
+El Salvador,376,13
+El Salvador,379,14
+El Salvador,383,14
+El Salvador,386,14
+El Salvador,389,14
+El Salvador,392,13
+El Salvador,395,13
+El Salvador,399,12
+El Salvador,402,11
+El Salvador,405,11
+El Salvador,408,11
+El Salvador,411,11
+El Salvador,415,11
+El Salvador,418,10
+El Salvador,421,9
+El Salvador,424,9
+El Salvador,428,9
+El Salvador,431,9
+El Salvador,434,9
+El Salvador,437,10
+El Salvador,440,10
+El Salvador,444,10
+El Salvador,447,9
+El Salvador,450,9
+El Salvador,453,9
+El Salvador,457,10
+El Salvador,460,10
+El Salvador,463,10
+El Salvador,466,10
+El Salvador,469,9
+El Salvador,473,9
+El Salvador,476,9
+El Salvador,479,8
+El Salvador,482,8
+El Salvador,485,8
+Ethiopia,0,2
+Ethiopia,3,2
+Ethiopia,7,3
+Ethiopia,11,5
+Ethiopia,15,7
+Ethiopia,19,9
+Ethiopia,23,12
+Ethiopia,27,14
+Ethiopia,31,17
+Ethiopia,35,21
+Ethiopia,39,26
+Ethiopia,43,32
+Ethiopia,47,40
+Ethiopia,51,47
+Ethiopia,55,56
+Ethiopia,59,65
+Ethiopia,62,78
+Ethiopia,66,92
+Ethiopia,70,106
+Ethiopia,74,123
+Ethiopia,78,139
+Ethiopia,82,156
+Ethiopia,86,174
+Ethiopia,90,196
+Ethiopia,94,222
+Ethiopia,98,247
+Ethiopia,102,268
+Ethiopia,106,284
+Ethiopia,110,297
+Ethiopia,114,312
+Ethiopia,118,325
+Ethiopia,121,340
+Ethiopia,125,351
+Ethiopia,129,355
+Ethiopia,133,351
+Ethiopia,137,341
+Ethiopia,141,332
+Ethiopia,145,327
+Ethiopia,149,324
+Ethiopia,153,321
+Ethiopia,157,313
+Ethiopia,161,301
+Ethiopia,165,286
+Ethiopia,169,274
+Ethiopia,173,268
+Ethiopia,177,267
+Ethiopia,180,267
+Ethiopia,184,264
+Ethiopia,188,256
+Ethiopia,192,246
+Ethiopia,196,238
+Ethiopia,200,233
+Ethiopia,204,232
+Ethiopia,208,231
+Ethiopia,212,227
+Ethiopia,216,219
+Ethiopia,220,211
+Ethiopia,224,203
+Ethiopia,228,197
+Ethiopia,232,193
+Ethiopia,236,191
+Ethiopia,239,185
+Ethiopia,243,178
+Ethiopia,247,168
+Ethiopia,251,161
+Ethiopia,255,155
+Ethiopia,259,151
+Ethiopia,263,145
+Ethiopia,267,136
+Ethiopia,271,126
+Ethiopia,275,118
+Ethiopia,279,110
+Ethiopia,283,106
+Ethiopia,287,102
+Ethiopia,291,96
+Ethiopia,295,90
+Ethiopia,298,84
+Ethiopia,302,79
+Ethiopia,306,75
+Ethiopia,310,71
+Ethiopia,314,69
+Ethiopia,318,67
+Ethiopia,322,63
+Ethiopia,326,59
+Ethiopia,330,55
+Ethiopia,334,53
+Ethiopia,338,52
+Ethiopia,342,50
+Ethiopia,346,47
+Ethiopia,350,44
+Ethiopia,354,41
+Ethiopia,357,38
+Ethiopia,361,37
+Ethiopia,365,36
+Ethiopia,369,36
+Ethiopia,373,34
+Ethiopia,377,32
+Ethiopia,381,30
+Ethiopia,385,28
+Ethiopia,389,26
+Ethiopia,393,25
+Ethiopia,397,24
+Ethiopia,401,24
+Ethiopia,405,22
+Ethiopia,409,20
+Ethiopia,413,19
+Ethiopia,416,18
+Ethiopia,420,18
+Ethiopia,424,18
+Ethiopia,428,18
+Ethiopia,432,18
+Ethiopia,436,18
+Ethiopia,440,17
+Ethiopia,444,17
+Ethiopia,448,18
+Ethiopia,452,18
+Ethiopia,456,18
+Ethiopia,460,17
+Ethiopia,464,17
+Ethiopia,468,17
+Ethiopia,472,18
+Ethiopia,475,18
+Ethiopia,479,17
+Ethiopia,483,16
+Ethiopia,487,16
+Ethiopia,491,15
+Ethiopia,495,14
+Ethiopia,499,14
+Ethiopia,503,14
+Ethiopia,507,14
+Ethiopia,511,13
+Ethiopia,515,12
+Ethiopia,519,11
+Ethiopia,523,11
+Ethiopia,527,12
+Ethiopia,531,12
+Ethiopia,534,13
+Ethiopia,538,13
+Ethiopia,542,13
+Ethiopia,546,12
+Ethiopia,550,12
+Ethiopia,554,12
+Ethiopia,558,12
+Ethiopia,562,12
+Ethiopia,566,13
+Ethiopia,570,12
+Ethiopia,574,12
+Ethiopia,578,11
+Ethiopia,582,11
+Ethiopia,586,11
+Ethiopia,590,11
+Ethiopia,594,11
+France,0,24
+France,1,31
+France,2,43
+France,3,59
+France,4,82
+France,5,107
+France,7,137
+France,8,167
+France,9,204
+France,10,247
+France,11,304
+France,12,376
+France,14,467
+France,15,549
+France,16,646
+France,17,755
+France,18,897
+France,19,1059
+France,21,1225
+France,22,1414
+France,23,1596
+France,24,1795
+France,25,2007
+France,26,2251
+France,28,2553
+France,29,2842
+France,30,3085
+France,31,3265
+France,32,3410
+France,33,3583
+France,35,3738
+France,36,3910
+France,37,4030
+France,38,4079
+France,39,4030
+France,41,3919
+France,42,3817
+France,43,3753
+France,44,3719
+France,45,3685
+France,46,3599
+France,48,3457
+France,49,3288
+France,50,3153
+France,51,3081
+France,52,3071
+France,53,3067
+France,55,3032
+France,56,2948
+France,57,2831
+France,58,2736
+France,59,2674
+France,60,2670
+France,62,2660
+France,63,2609
+France,64,2521
+France,65,2422
+France,66,2333
+France,67,2268
+France,69,2220
+France,70,2195
+France,71,2129
+France,72,2045
+France,73,1937
+France,75,1848
+France,76,1784
+France,77,1733
+France,78,1665
+France,79,1571
+France,80,1452
+France,82,1356
+France,83,1272
+France,84,1223
+France,85,1170
+France,86,1110
+France,87,1034
+France,89,968
+France,90,908
+France,91,865
+France,92,824
+France,93,801
+France,94,770
+France,96,727
+France,97,677
+France,98,636
+France,99,611
+France,100,596
+France,101,575
+France,103,548
+France,104,509
+France,105,477
+France,106,446
+France,107,429
+France,108,422
+France,110,413
+France,111,399
+France,112,373
+France,113,348
+France,114,323
+France,116,300
+France,117,289
+France,118,283
+France,119,277
+France,120,258
+France,121,238
+France,123,221
+France,124,211
+France,125,207
+France,126,208
+France,127,208
+France,128,212
+France,130,208
+France,131,205
+France,132,203
+France,133,207
+France,134,208
+France,135,207
+France,137,200
+France,138,204
+France,139,206
+France,140,212
+France,141,206
+France,142,201
+France,144,193
+France,145,183
+France,146,173
+France,147,166
+France,148,164
+France,150,166
+France,151,161
+France,152,153
+France,153,140
+France,154,135
+France,155,134
+France,157,139
+France,158,144
+France,159,150
+France,160,151
+France,161,149
+France,162,144
+France,164,141
+France,165,141
+France,166,145
+France,167,148
+France,168,151
+France,169,147
+France,171,142
+France,172,135
+France,173,131
+France,174,128
+France,175,126
+France,176,126
+Germany,0,119
+Germany,17,154
+Germany,34,216
+Germany,51,295
+Germany,68,408
+Germany,85,533
+Germany,102,682
+Germany,119,828
+Germany,136,1014
+Germany,153,1226
+Germany,170,1506
+Germany,187,1864
+Germany,204,2317
+Germany,221,2724
+Germany,238,3203
+Germany,255,3743
+Germany,272,4443
+Germany,289,5248
+Germany,306,6070
+Germany,323,7005
+Germany,340,7909
+Germany,357,8892
+Germany,375,9942
+Germany,392,11150
+Germany,409,12646
+Germany,426,14078
+Germany,443,15285
+Germany,460,16175
+Germany,477,16896
+Germany,494,17748
+Germany,511,18518
+Germany,528,19370
+Germany,545,19966
+Germany,562,20206
+Germany,579,19965
+Germany,596,19417
+Germany,613,18911
+Germany,630,18595
+Germany,647,18425
+Germany,664,18256
+Germany,681,17827
+Germany,698,17127
+Germany,715,16289
+Germany,732,15621
+Germany,750,15264
+Germany,767,15212
+Germany,784,15195
+Germany,801,15023
+Germany,818,14603
+Germany,835,14024
+Germany,852,13553
+Germany,869,13248
+Germany,886,13227
+Germany,903,13179
+Germany,920,12927
+Germany,937,12491
+Germany,954,11997
+Germany,971,11558
+Germany,988,11238
+Germany,1005,10997
+Germany,1022,10877
+Germany,1039,10547
+Germany,1056,10129
+Germany,1073,9595
+Germany,1090,9157
+Germany,1108,8841
+Germany,1125,8589
+Germany,1142,8248
+Germany,1159,7782
+Germany,1176,7193
+Germany,1193,6721
+Germany,1210,6305
+Germany,1227,6058
+Germany,1244,5800
+Germany,1261,5502
+Germany,1278,5126
+Germany,1295,4799
+Germany,1312,4501
+Germany,1329,4284
+Germany,1346,4082
+Germany,1363,3969
+Germany,1380,3814
+Germany,1397,3603
+Germany,1414,3358
+Germany,1431,3151
+Germany,1448,3030
+Germany,1465,2957
+Germany,1483,2848
+Germany,1500,2718
+Germany,1517,2522
+Germany,1534,2364
+Germany,1551,2212
+Germany,1568,2128
+Germany,1585,2094
+Germany,1602,2049
+Germany,1619,1978
+Germany,1636,1849
+Germany,1653,1727
+Germany,1670,1601
+Germany,1687,1487
+Germany,1704,1434
+Germany,1721,1405
+Germany,1738,1372
+Germany,1755,1281
+Germany,1772,1179
+Germany,1789,1095
+Germany,1806,1049
+Germany,1823,1026
+Germany,1841,1030
+Germany,1858,1033
+Germany,1875,1052
+Germany,1892,1034
+Germany,1909,1020
+Germany,1926,1007
+Germany,1943,1026
+Germany,1960,1033
+Germany,1977,1027
+Germany,1994,993
+Germany,2011,1011
+Germany,2028,1022
+Germany,2045,1053
+Germany,2062,1025
+Germany,2079,998
+Germany,2096,958
+Germany,2113,911
+Germany,2130,859
+Germany,2147,826
+Germany,2164,815
+Germany,2181,826
+Germany,2198,797
+Germany,2216,759
+Germany,2233,694
+Germany,2250,673
+Germany,2267,666
+Germany,2284,689
+Germany,2301,715
+Germany,2318,743
+Germany,2335,750
+Germany,2352,740
+Germany,2369,716
+Germany,2386,701
+Germany,2403,699
+Germany,2420,718
+Germany,2437,736
+Germany,2454,748
+Germany,2471,732
+Germany,2488,707
+Germany,2505,672
+Germany,2522,649
+Germany,2539,635
+Germany,2556,628
+Germany,2574,626
+Ghana,0,4
+Ghana,2,5
+Ghana,5,7
+Ghana,8,10
+Ghana,11,15
+Ghana,14,19
+Ghana,17,25
+Ghana,20,30
+Ghana,23,37
+Ghana,26,45
+Ghana,28,55
+Ghana,31,68
+Ghana,34,85
+Ghana,37,100
+Ghana,40,118
+Ghana,43,138
+Ghana,46,163
+Ghana,49,193
+Ghana,52,223
+Ghana,54,258
+Ghana,57,291
+Ghana,60,328
+Ghana,63,366
+Ghana,66,411
+Ghana,69,466
+Ghana,72,519
+Ghana,75,563
+Ghana,78,596
+Ghana,80,623
+Ghana,83,654
+Ghana,86,683
+Ghana,89,714
+Ghana,92,736
+Ghana,95,745
+Ghana,98,736
+Ghana,101,716
+Ghana,104,697
+Ghana,106,685
+Ghana,109,679
+Ghana,112,673
+Ghana,115,657
+Ghana,118,631
+Ghana,121,600
+Ghana,124,576
+Ghana,127,563
+Ghana,130,561
+Ghana,132,560
+Ghana,135,554
+Ghana,138,538
+Ghana,141,517
+Ghana,144,499
+Ghana,147,488
+Ghana,150,487
+Ghana,153,486
+Ghana,156,476
+Ghana,158,460
+Ghana,161,442
+Ghana,164,426
+Ghana,167,414
+Ghana,170,405
+Ghana,173,401
+Ghana,176,389
+Ghana,179,373
+Ghana,182,353
+Ghana,185,337
+Ghana,187,326
+Ghana,190,316
+Ghana,193,304
+Ghana,196,287
+Ghana,199,265
+Ghana,202,247
+Ghana,205,232
+Ghana,208,223
+Ghana,211,213
+Ghana,213,202
+Ghana,216,189
+Ghana,219,177
+Ghana,222,166
+Ghana,225,158
+Ghana,228,150
+Ghana,231,146
+Ghana,234,140
+Ghana,237,132
+Ghana,239,123
+Ghana,242,116
+Ghana,245,111
+Ghana,248,109
+Ghana,251,105
+Ghana,254,100
+Ghana,257,93
+Ghana,260,87
+Ghana,263,81
+Ghana,265,78
+Ghana,268,77
+Ghana,271,75
+Ghana,274,72
+Ghana,277,68
+Ghana,280,63
+Ghana,283,59
+Ghana,286,54
+Ghana,289,52
+Ghana,291,51
+Ghana,294,50
+Ghana,297,47
+Ghana,300,43
+Ghana,303,40
+Ghana,306,38
+Ghana,309,37
+Ghana,312,38
+Ghana,315,38
+Ghana,317,38
+Ghana,320,38
+Ghana,323,37
+Ghana,326,37
+Ghana,329,37
+Ghana,332,38
+Ghana,335,37
+Ghana,338,36
+Ghana,341,37
+Ghana,343,37
+Ghana,346,38
+Ghana,349,37
+Ghana,352,36
+Ghana,355,35
+Ghana,358,33
+Ghana,361,31
+Ghana,364,30
+Ghana,367,30
+Ghana,370,30
+Ghana,372,29
+Ghana,375,28
+Ghana,378,25
+Ghana,381,24
+Ghana,384,24
+Ghana,387,25
+Ghana,390,26
+Ghana,393,27
+Ghana,396,27
+Ghana,398,27
+Ghana,401,26
+Ghana,404,25
+Ghana,407,25
+Ghana,410,26
+Ghana,413,27
+Ghana,416,27
+Ghana,419,27
+Ghana,422,26
+Ghana,424,24
+Ghana,427,23
+Ghana,430,23
+Ghana,433,23
+Ghana,436,23
+Guatemala,0,8
+Guatemala,4,11
+Guatemala,9,16
+Guatemala,14,22
+Guatemala,19,30
+Guatemala,24,39
+Guatemala,29,51
+Guatemala,34,61
+Guatemala,39,75
+Guatemala,44,91
+Guatemala,48,112
+Guatemala,53,139
+Guatemala,58,173
+Guatemala,63,203
+Guatemala,68,239
+Guatemala,73,279
+Guatemala,78,332
+Guatemala,83,392
+Guatemala,88,454
+Guatemala,93,524
+Guatemala,97,591
+Guatemala,102,665
+Guatemala,107,743
+Guatemala,112,834
+Guatemala,117,945
+Guatemala,122,1053
+Guatemala,127,1143
+Guatemala,132,1209
+Guatemala,137,1263
+Guatemala,142,1327
+Guatemala,146,1385
+Guatemala,151,1448
+Guatemala,156,1493
+Guatemala,161,1511
+Guatemala,166,1493
+Guatemala,171,1452
+Guatemala,176,1414
+Guatemala,181,1390
+Guatemala,186,1378
+Guatemala,191,1365
+Guatemala,195,1333
+Guatemala,200,1281
+Guatemala,205,1218
+Guatemala,210,1168
+Guatemala,215,1141
+Guatemala,220,1137
+Guatemala,225,1136
+Guatemala,230,1123
+Guatemala,235,1092
+Guatemala,239,1049
+Guatemala,244,1013
+Guatemala,249,990
+Guatemala,254,989
+Guatemala,259,985
+Guatemala,264,966
+Guatemala,269,934
+Guatemala,274,897
+Guatemala,279,864
+Guatemala,284,840
+Guatemala,288,822
+Guatemala,293,813
+Guatemala,298,788
+Guatemala,303,757
+Guatemala,308,717
+Guatemala,313,684
+Guatemala,318,661
+Guatemala,323,642
+Guatemala,328,616
+Guatemala,333,582
+Guatemala,337,538
+Guatemala,342,502
+Guatemala,347,471
+Guatemala,352,453
+Guatemala,357,433
+Guatemala,362,411
+Guatemala,367,383
+Guatemala,372,358
+Guatemala,377,336
+Guatemala,382,320
+Guatemala,386,305
+Guatemala,391,296
+Guatemala,396,285
+Guatemala,401,269
+Guatemala,406,251
+Guatemala,411,235
+Guatemala,416,226
+Guatemala,421,221
+Guatemala,426,213
+Guatemala,431,203
+Guatemala,435,188
+Guatemala,440,176
+Guatemala,445,165
+Guatemala,450,159
+Guatemala,455,156
+Guatemala,460,153
+Guatemala,465,147
+Guatemala,470,138
+Guatemala,475,129
+Guatemala,479,119
+Guatemala,484,111
+Guatemala,489,107
+Guatemala,494,105
+Guatemala,499,102
+Guatemala,504,95
+Guatemala,509,88
+Guatemala,514,81
+Guatemala,519,78
+Guatemala,524,76
+Guatemala,528,77
+Guatemala,533,77
+Guatemala,538,78
+Guatemala,543,77
+Guatemala,548,76
+Guatemala,553,75
+Guatemala,558,76
+Guatemala,563,77
+Guatemala,568,76
+Guatemala,573,74
+Guatemala,577,75
+Guatemala,582,76
+Guatemala,587,78
+Guatemala,592,76
+Guatemala,597,74
+Guatemala,602,71
+Guatemala,607,68
+Guatemala,612,64
+Guatemala,617,61
+Guatemala,622,60
+Guatemala,626,61
+Guatemala,631,59
+Guatemala,636,56
+Guatemala,641,51
+Guatemala,646,50
+Guatemala,651,49
+Guatemala,656,51
+Guatemala,661,53
+Guatemala,666,55
+Guatemala,671,56
+Guatemala,675,55
+Guatemala,680,53
+Guatemala,685,52
+Guatemala,690,52
+Guatemala,695,53
+Guatemala,700,55
+Guatemala,705,56
+Guatemala,710,54
+Guatemala,715,52
+Guatemala,719,50
+Guatemala,724,48
+Guatemala,729,47
+Guatemala,734,47
+Guatemala,739,46
+Honduras,0,5
+Honduras,4,7
+Honduras,8,10
+Honduras,12,14
+Honduras,16,19
+Honduras,20,25
+Honduras,25,32
+Honduras,29,39
+Honduras,33,48
+Honduras,37,58
+Honduras,41,71
+Honduras,46,88
+Honduras,50,110
+Honduras,54,129
+Honduras,58,152
+Honduras,62,178
+Honduras,67,211
+Honduras,71,249
+Honduras,75,289
+Honduras,79,333
+Honduras,83,376
+Honduras,88,423
+Honduras,92,473
+Honduras,96,530
+Honduras,100,602
+Honduras,104,670
+Honduras,109,727
+Honduras,113,770
+Honduras,117,804
+Honduras,121,845
+Honduras,125,881
+Honduras,130,922
+Honduras,134,950
+Honduras,138,962
+Honduras,142,950
+Honduras,146,924
+Honduras,151,900
+Honduras,155,885
+Honduras,159,877
+Honduras,163,869
+Honduras,167,848
+Honduras,172,815
+Honduras,176,775
+Honduras,180,743
+Honduras,184,726
+Honduras,188,724
+Honduras,193,723
+Honduras,197,715
+Honduras,201,695
+Honduras,205,667
+Honduras,209,645
+Honduras,213,630
+Honduras,218,629
+Honduras,222,627
+Honduras,226,615
+Honduras,230,594
+Honduras,234,571
+Honduras,239,550
+Honduras,243,535
+Honduras,247,523
+Honduras,251,517
+Honduras,255,502
+Honduras,260,482
+Honduras,264,456
+Honduras,268,436
+Honduras,272,421
+Honduras,276,408
+Honduras,281,392
+Honduras,285,370
+Honduras,289,342
+Honduras,293,320
+Honduras,297,300
+Honduras,302,288
+Honduras,306,276
+Honduras,310,262
+Honduras,314,244
+Honduras,318,228
+Honduras,323,214
+Honduras,327,204
+Honduras,331,194
+Honduras,335,188
+Honduras,339,181
+Honduras,344,171
+Honduras,348,159
+Honduras,352,150
+Honduras,356,144
+Honduras,360,140
+Honduras,365,135
+Honduras,369,129
+Honduras,373,120
+Honduras,377,112
+Honduras,381,105
+Honduras,386,101
+Honduras,390,99
+Honduras,394,97
+Honduras,398,94
+Honduras,402,88
+Honduras,407,82
+Honduras,411,76
+Honduras,415,70
+Honduras,419,68
+Honduras,423,66
+Honduras,427,65
+Honduras,432,61
+Honduras,436,56
+Honduras,440,52
+Honduras,444,49
+Honduras,448,48
+Honduras,453,49
+Honduras,457,49
+Honduras,461,50
+Honduras,465,49
+Honduras,469,48
+Honduras,474,47
+Honduras,478,48
+Honduras,482,49
+Honduras,486,48
+Honduras,490,47
+Honduras,495,48
+Honduras,499,48
+Honduras,503,50
+Honduras,507,48
+Honduras,511,47
+Honduras,516,45
+Honduras,520,43
+Honduras,524,40
+Honduras,528,39
+Honduras,532,38
+Honduras,537,39
+Honduras,541,37
+Honduras,545,36
+Honduras,549,33
+Honduras,553,32
+Honduras,558,31
+Honduras,562,32
+Honduras,566,34
+Honduras,570,35
+Honduras,574,35
+Honduras,579,35
+Honduras,583,34
+Honduras,587,33
+Honduras,591,33
+Honduras,595,34
+Honduras,600,35
+Honduras,604,35
+Honduras,608,34
+Honduras,612,33
+Honduras,616,32
+Honduras,621,30
+Honduras,625,30
+Honduras,629,29
+Honduras,633,29
+India,0,721
+India,8,935
+India,17,1305
+India,25,1783
+India,34,2467
+India,42,3224
+India,51,4124
+India,60,5001
+India,68,6126
+India,77,7403
+India,85,9098
+India,94,11257
+India,102,13991
+India,111,16449
+India,120,19345
+India,128,22602
+India,137,26830
+India,145,31694
+India,154,36655
+India,163,42302
+India,171,47760
+India,180,53699
+India,188,60036
+India,197,67331
+India,205,76366
+India,214,85015
+India,223,92300
+India,231,97673
+India,240,102027
+India,248,107173
+India,257,111825
+India,266,116966
+India,274,120565
+India,283,122017
+India,291,120559
+India,300,117250
+India,308,114194
+India,317,112286
+India,326,111263
+India,334,110239
+India,343,107653
+India,351,103422
+India,360,98364
+India,369,94330
+India,377,92171
+India,386,91858
+India,394,91760
+India,403,90721
+India,411,88184
+India,420,84685
+India,429,81841
+India,437,79998
+India,446,79875
+India,454,79581
+India,463,78063
+India,472,75432
+India,480,72446
+India,489,69794
+India,497,67866
+India,506,66409
+India,514,65685
+India,523,63688
+India,532,61169
+India,540,57943
+India,549,55298
+India,557,53390
+India,566,51865
+India,575,49805
+India,583,46991
+India,592,43435
+India,600,40589
+India,609,38076
+India,617,36582
+India,626,35026
+India,635,33229
+India,643,30957
+India,652,28980
+India,660,27184
+India,669,25874
+India,678,24651
+India,686,23967
+India,695,23036
+India,703,21761
+India,712,20278
+India,720,19027
+India,729,18302
+India,738,17856
+India,746,17202
+India,755,16417
+India,763,15233
+India,772,14275
+India,781,13362
+India,789,12853
+India,798,12649
+India,806,12374
+India,815,11947
+India,823,11169
+India,832,10433
+India,841,9671
+India,849,8983
+India,858,8662
+India,866,8487
+India,875,8290
+India,884,7741
+India,892,7121
+India,901,6616
+India,909,6335
+India,918,6199
+India,926,6223
+India,935,6243
+India,944,6355
+India,952,6244
+India,961,6161
+India,969,6084
+India,978,6201
+India,987,6240
+India,995,6203
+India,1004,5999
+India,1012,6110
+India,1021,6175
+India,1029,6362
+India,1038,6190
+India,1047,6027
+India,1055,5785
+India,1064,5502
+India,1072,5187
+India,1081,4992
+India,1090,4924
+India,1098,4991
+India,1107,4817
+India,1115,4584
+India,1124,4191
+India,1132,4066
+India,1141,4027
+India,1150,4165
+India,1158,4322
+India,1167,4486
+India,1175,4530
+India,1184,4471
+India,1193,4329
+India,1201,4233
+India,1210,4225
+India,1218,4340
+India,1227,4446
+India,1235,4522
+India,1244,4424
+India,1253,4270
+India,1261,4061
+India,1270,3924
+India,1278,3835
+India,1287,3795
+India,1296,3781
+Indonesia,0,9
+Indonesia,3,11
+Indonesia,7,16
+Indonesia,11,22
+Indonesia,15,31
+Indonesia,19,40
+Indonesia,23,52
+Indonesia,26,63
+Indonesia,30,77
+Indonesia,34,94
+Indonesia,38,115
+Indonesia,42,143
+Indonesia,46,177
+Indonesia,50,208
+Indonesia,53,245
+Indonesia,57,287
+Indonesia,61,340
+Indonesia,65,402
+Indonesia,69,465
+Indonesia,73,537
+Indonesia,76,606
+Indonesia,80,682
+Indonesia,84,762
+Indonesia,88,855
+Indonesia,92,970
+Indonesia,96,1080
+Indonesia,100,1172
+Indonesia,103,1240
+Indonesia,107,1296
+Indonesia,111,1361
+Indonesia,115,1420
+Indonesia,119,1486
+Indonesia,123,1531
+Indonesia,126,1550
+Indonesia,130,1531
+Indonesia,134,1489
+Indonesia,138,1450
+Indonesia,142,1426
+Indonesia,146,1413
+Indonesia,150,1400
+Indonesia,153,1367
+Indonesia,157,1313
+Indonesia,161,1249
+Indonesia,165,1198
+Indonesia,169,1171
+Indonesia,173,1167
+Indonesia,177,1165
+Indonesia,180,1152
+Indonesia,184,1120
+Indonesia,188,1075
+Indonesia,192,1039
+Indonesia,196,1016
+Indonesia,200,1014
+Indonesia,203,1011
+Indonesia,207,991
+Indonesia,211,958
+Indonesia,215,920
+Indonesia,219,886
+Indonesia,223,862
+Indonesia,227,843
+Indonesia,230,834
+Indonesia,234,809
+Indonesia,238,777
+Indonesia,242,736
+Indonesia,246,702
+Indonesia,250,678
+Indonesia,253,658
+Indonesia,257,632
+Indonesia,261,597
+Indonesia,265,551
+Indonesia,269,515
+Indonesia,273,483
+Indonesia,277,464
+Indonesia,280,445
+Indonesia,284,422
+Indonesia,288,393
+Indonesia,292,368
+Indonesia,296,345
+Indonesia,300,328
+Indonesia,304,313
+Indonesia,307,304
+Indonesia,311,292
+Indonesia,315,276
+Indonesia,319,257
+Indonesia,323,241
+Indonesia,327,232
+Indonesia,330,226
+Indonesia,334,218
+Indonesia,338,208
+Indonesia,342,193
+Indonesia,346,181
+Indonesia,350,169
+Indonesia,354,163
+Indonesia,357,160
+Indonesia,361,157
+Indonesia,365,151
+Indonesia,369,141
+Indonesia,373,132
+Indonesia,377,122
+Indonesia,380,114
+Indonesia,384,110
+Indonesia,388,107
+Indonesia,392,105
+Indonesia,396,98
+Indonesia,400,90
+Indonesia,404,84
+Indonesia,407,80
+Indonesia,411,78
+Indonesia,415,79
+Indonesia,419,79
+Indonesia,423,80
+Indonesia,427,79
+Indonesia,431,78
+Indonesia,434,77
+Indonesia,438,78
+Indonesia,442,79
+Indonesia,446,78
+Indonesia,450,76
+Indonesia,454,77
+Indonesia,457,78
+Indonesia,461,80
+Indonesia,465,78
+Indonesia,469,76
+Indonesia,473,73
+Indonesia,477,69
+Indonesia,481,65
+Indonesia,484,63
+Indonesia,488,62
+Indonesia,492,63
+Indonesia,496,61
+Indonesia,500,58
+Indonesia,504,53
+Indonesia,507,51
+Indonesia,511,51
+Indonesia,515,52
+Indonesia,519,54
+Indonesia,523,57
+Indonesia,527,57
+Indonesia,531,56
+Indonesia,534,55
+Indonesia,538,53
+Indonesia,542,53
+Indonesia,546,55
+Indonesia,550,56
+Indonesia,554,57
+Indonesia,557,56
+Indonesia,561,54
+Indonesia,565,51
+Indonesia,569,49
+Indonesia,573,48
+Indonesia,577,48
+Indonesia,581,48
+Iran,0,16
+Iran,3,21
+Iran,6,30
+Iran,9,41
+Iran,12,57
+Iran,15,74
+Iran,18,95
+Iran,21,115
+Iran,25,141
+Iran,28,171
+Iran,31,210
+Iran,34,260
+Iran,37,323
+Iran,40,380
+Iran,43,447
+Iran,47,522
+Iran,50,620
+Iran,53,732
+Iran,56,847
+Iran,59,977
+Iran,62,1104
+Iran,65,1241
+Iran,68,1387
+Iran,72,1556
+Iran,75,1765
+Iran,78,1965
+Iran,81,2133
+Iran,84,2257
+Iran,87,2358
+Iran,90,2477
+Iran,94,2584
+Iran,97,2703
+Iran,100,2787
+Iran,103,2820
+Iran,106,2786
+Iran,109,2710
+Iran,112,2639
+Iran,115,2595
+Iran,119,2571
+Iran,122,2548
+Iran,125,2488
+Iran,128,2390
+Iran,131,2273
+Iran,134,2180
+Iran,137,2130
+Iran,141,2123
+Iran,144,2121
+Iran,147,2097
+Iran,150,2038
+Iran,153,1957
+Iran,156,1891
+Iran,159,1849
+Iran,163,1846
+Iran,166,1839
+Iran,169,1804
+Iran,172,1743
+Iran,175,1674
+Iran,178,1613
+Iran,181,1568
+Iran,184,1535
+Iran,188,1518
+Iran,191,1472
+Iran,194,1413
+Iran,197,1339
+Iran,200,1278
+Iran,203,1234
+Iran,206,1198
+Iran,210,1151
+Iran,213,1086
+Iran,216,1004
+Iran,219,938
+Iran,222,880
+Iran,225,845
+Iran,228,809
+Iran,231,768
+Iran,235,715
+Iran,238,669
+Iran,241,628
+Iran,244,598
+Iran,247,569
+Iran,250,554
+Iran,253,532
+Iran,257,503
+Iran,260,468
+Iran,263,439
+Iran,266,423
+Iran,269,412
+Iran,272,397
+Iran,275,379
+Iran,278,352
+Iran,282,330
+Iran,285,308
+Iran,288,297
+Iran,291,292
+Iran,294,286
+Iran,297,276
+Iran,300,258
+Iran,304,241
+Iran,307,223
+Iran,310,207
+Iran,313,200
+Iran,316,196
+Iran,319,191
+Iran,322,178
+Iran,326,164
+Iran,329,152
+Iran,332,146
+Iran,335,143
+Iran,338,143
+Iran,341,144
+Iran,344,146
+Iran,347,144
+Iran,351,142
+Iran,354,140
+Iran,357,143
+Iran,360,144
+Iran,363,143
+Iran,366,138
+Iran,369,141
+Iran,373,142
+Iran,376,147
+Iran,379,143
+Iran,382,139
+Iran,385,133
+Iran,388,127
+Iran,391,119
+Iran,394,115
+Iran,398,113
+Iran,401,115
+Iran,404,111
+Iran,407,105
+Iran,410,96
+Iran,413,94
+Iran,416,93
+Iran,420,96
+Iran,423,99
+Iran,426,103
+Iran,429,104
+Iran,432,103
+Iran,435,100
+Iran,438,97
+Iran,441,97
+Iran,445,100
+Iran,448,102
+Iran,451,104
+Iran,454,102
+Iran,457,98
+Iran,460,93
+Iran,463,90
+Iran,467,88
+Iran,470,87
+Iran,473,87
+Iraq,0,11
+Iraq,4,15
+Iraq,8,21
+Iraq,12,29
+Iraq,16,40
+Iraq,20,52
+Iraq,24,67
+Iraq,28,81
+Iraq,32,100
+Iraq,36,121
+Iraq,40,149
+Iraq,44,184
+Iraq,48,229
+Iraq,52,269
+Iraq,56,316
+Iraq,60,370
+Iraq,64,439
+Iraq,68,519
+Iraq,72,600
+Iraq,77,693
+Iraq,81,782
+Iraq,85,879
+Iraq,89,983
+Iraq,93,1103
+Iraq,97,1251
+Iraq,101,1392
+Iraq,105,1512
+Iraq,109,1600
+Iraq,113,1671
+Iraq,117,1756
+Iraq,121,1832
+Iraq,125,1916
+Iraq,129,1975
+Iraq,133,1999
+Iraq,137,1975
+Iraq,141,1921
+Iraq,145,1871
+Iraq,149,1839
+Iraq,154,1823
+Iraq,158,1806
+Iraq,162,1763
+Iraq,166,1694
+Iraq,170,1611
+Iraq,174,1545
+Iraq,178,1510
+Iraq,182,1505
+Iraq,186,1503
+Iraq,190,1486
+Iraq,194,1444
+Iraq,198,1387
+Iraq,202,1340
+Iraq,206,1310
+Iraq,210,1308
+Iraq,214,1303
+Iraq,218,1279
+Iraq,222,1235
+Iraq,226,1187
+Iraq,231,1143
+Iraq,235,1111
+Iraq,239,1088
+Iraq,243,1076
+Iraq,247,1043
+Iraq,251,1002
+Iraq,255,949
+Iraq,259,906
+Iraq,263,874
+Iraq,267,849
+Iraq,271,816
+Iraq,275,769
+Iraq,279,711
+Iraq,283,665
+Iraq,287,623
+Iraq,291,599
+Iraq,295,573
+Iraq,299,544
+Iraq,303,507
+Iraq,308,474
+Iraq,312,445
+Iraq,316,423
+Iraq,320,403
+Iraq,324,392
+Iraq,328,377
+Iraq,332,356
+Iraq,336,332
+Iraq,340,311
+Iraq,344,299
+Iraq,348,292
+Iraq,352,281
+Iraq,356,268
+Iraq,360,249
+Iraq,364,233
+Iraq,368,218
+Iraq,372,210
+Iraq,376,207
+Iraq,380,202
+Iraq,385,195
+Iraq,389,183
+Iraq,393,170
+Iraq,397,158
+Iraq,401,147
+Iraq,405,141
+Iraq,409,139
+Iraq,413,135
+Iraq,417,126
+Iraq,421,116
+Iraq,425,108
+Iraq,429,103
+Iraq,433,101
+Iraq,437,101
+Iraq,441,102
+Iraq,445,104
+Iraq,449,102
+Iraq,453,100
+Iraq,457,99
+Iraq,462,101
+Iraq,466,102
+Iraq,470,101
+Iraq,474,98
+Iraq,478,100
+Iraq,482,101
+Iraq,486,104
+Iraq,490,101
+Iraq,494,98
+Iraq,498,94
+Iraq,502,90
+Iraq,506,85
+Iraq,510,81
+Iraq,514,80
+Iraq,518,81
+Iraq,522,78
+Iraq,526,75
+Iraq,530,68
+Iraq,534,66
+Iraq,539,65
+Iraq,543,68
+Iraq,547,70
+Iraq,551,73
+Iraq,555,74
+Iraq,559,73
+Iraq,563,70
+Iraq,567,69
+Iraq,571,69
+Iraq,575,71
+Iraq,579,72
+Iraq,583,74
+Iraq,587,72
+Iraq,591,69
+Iraq,595,66
+Iraq,599,64
+Iraq,603,62
+Iraq,607,62
+Iraq,612,61
+Ireland,0,4
+Ireland,1,5
+Ireland,2,7
+Ireland,3,10
+Ireland,4,14
+Ireland,5,18
+Ireland,6,24
+Ireland,7,29
+Ireland,8,35
+Ireland,9,43
+Ireland,10,53
+Ireland,11,66
+Ireland,13,82
+Ireland,14,96
+Ireland,15,113
+Ireland,16,132
+Ireland,17,157
+Ireland,18,186
+Ireland,19,215
+Ireland,20,248
+Ireland,21,280
+Ireland,22,315
+Ireland,23,352
+Ireland,25,395
+Ireland,26,448
+Ireland,27,499
+Ireland,28,542
+Ireland,29,573
+Ireland,30,599
+Ireland,31,629
+Ireland,32,656
+Ireland,33,687
+Ireland,34,708
+Ireland,35,716
+Ireland,36,708
+Ireland,38,688
+Ireland,39,670
+Ireland,40,659
+Ireland,41,653
+Ireland,42,647
+Ireland,43,632
+Ireland,44,607
+Ireland,45,577
+Ireland,46,554
+Ireland,47,541
+Ireland,48,539
+Ireland,50,538
+Ireland,51,532
+Ireland,52,517
+Ireland,53,497
+Ireland,54,480
+Ireland,55,469
+Ireland,56,469
+Ireland,57,467
+Ireland,58,458
+Ireland,59,443
+Ireland,60,425
+Ireland,61,409
+Ireland,63,398
+Ireland,64,390
+Ireland,65,385
+Ireland,66,374
+Ireland,67,359
+Ireland,68,340
+Ireland,69,324
+Ireland,70,313
+Ireland,71,304
+Ireland,72,292
+Ireland,73,276
+Ireland,75,255
+Ireland,76,238
+Ireland,77,223
+Ireland,78,214
+Ireland,79,205
+Ireland,80,195
+Ireland,81,181
+Ireland,82,170
+Ireland,83,159
+Ireland,84,151
+Ireland,85,144
+Ireland,87,140
+Ireland,88,135
+Ireland,89,127
+Ireland,90,119
+Ireland,91,111
+Ireland,92,107
+Ireland,93,104
+Ireland,94,101
+Ireland,95,96
+Ireland,96,89
+Ireland,97,83
+Ireland,98,78
+Ireland,100,75
+Ireland,101,74
+Ireland,102,72
+Ireland,103,70
+Ireland,104,65
+Ireland,105,61
+Ireland,106,56
+Ireland,107,52
+Ireland,108,50
+Ireland,109,49
+Ireland,110,48
+Ireland,112,45
+Ireland,113,41
+Ireland,114,38
+Ireland,115,37
+Ireland,116,36
+Ireland,117,36
+Ireland,118,36
+Ireland,119,37
+Ireland,120,36
+Ireland,121,36
+Ireland,122,35
+Ireland,123,36
+Ireland,125,36
+Ireland,126,36
+Ireland,127,35
+Ireland,128,35
+Ireland,129,36
+Ireland,130,37
+Ireland,131,36
+Ireland,132,35
+Ireland,133,33
+Ireland,134,32
+Ireland,135,30
+Ireland,137,29
+Ireland,138,28
+Ireland,139,29
+Ireland,140,28
+Ireland,141,26
+Ireland,142,24
+Ireland,143,23
+Ireland,144,23
+Ireland,145,24
+Ireland,146,25
+Ireland,147,26
+Ireland,148,26
+Ireland,150,26
+Ireland,151,25
+Ireland,152,24
+Ireland,153,24
+Ireland,154,25
+Ireland,155,26
+Ireland,156,26
+Ireland,157,25
+Ireland,158,25
+Ireland,159,23
+Ireland,160,23
+Ireland,162,22
+Ireland,163,22
+Ireland,164,22
+Israel,0,9
+Israel,5,11
+Israel,10,16
+Israel,16,22
+Israel,21,31
+Israel,27,40
+Israel,32,52
+Israel,38,63
+Israel,43,77
+Israel,49,94
+Israel,54,115
+Israel,60,142
+Israel,65,177
+Israel,71,208
+Israel,76,245
+Israel,82,287
+Israel,87,340
+Israel,93,402
+Israel,98,465
+Israel,104,537
+Israel,109,606
+Israel,115,682
+Israel,120,762
+Israel,125,855
+Israel,131,969
+Israel,136,1079
+Israel,142,1172
+Israel,147,1240
+Israel,153,1295
+Israel,158,1361
+Israel,164,1420
+Israel,169,1485
+Israel,175,1531
+Israel,180,1549
+Israel,186,1531
+Israel,191,1489
+Israel,197,1450
+Israel,202,1426
+Israel,208,1413
+Israel,213,1400
+Israel,219,1367
+Israel,224,1313
+Israel,230,1249
+Israel,235,1198
+Israel,240,1170
+Israel,246,1166
+Israel,251,1165
+Israel,257,1152
+Israel,262,1120
+Israel,268,1075
+Israel,273,1039
+Israel,279,1016
+Israel,284,1014
+Israel,290,1010
+Israel,295,991
+Israel,301,958
+Israel,306,920
+Israel,312,886
+Israel,317,861
+Israel,323,843
+Israel,328,834
+Israel,334,808
+Israel,339,776
+Israel,345,735
+Israel,350,702
+Israel,355,678
+Israel,361,658
+Israel,366,632
+Israel,372,596
+Israel,377,551
+Israel,383,515
+Israel,388,483
+Israel,394,464
+Israel,399,444
+Israel,405,422
+Israel,410,393
+Israel,416,368
+Israel,421,345
+Israel,427,328
+Israel,432,313
+Israel,438,304
+Israel,443,292
+Israel,449,276
+Israel,454,257
+Israel,460,241
+Israel,465,232
+Israel,470,226
+Israel,476,218
+Israel,481,208
+Israel,487,193
+Israel,492,181
+Israel,498,169
+Israel,503,163
+Israel,509,160
+Israel,514,157
+Israel,520,151
+Israel,525,141
+Israel,531,132
+Israel,536,122
+Israel,542,114
+Israel,547,110
+Israel,553,107
+Israel,558,105
+Israel,564,98
+Israel,569,90
+Israel,575,84
+Israel,580,80
+Israel,585,78
+Israel,591,79
+Israel,596,79
+Israel,602,80
+Israel,607,79
+Israel,613,78
+Israel,618,77
+Israel,624,78
+Israel,629,79
+Israel,635,78
+Israel,640,76
+Israel,646,77
+Israel,651,78
+Israel,657,80
+Israel,662,78
+Israel,668,76
+Israel,673,73
+Israel,679,69
+Israel,684,65
+Israel,690,63
+Israel,695,62
+Israel,700,63
+Israel,706,61
+Israel,711,58
+Israel,717,53
+Israel,722,51
+Israel,728,51
+Israel,733,52
+Israel,739,54
+Israel,744,56
+Israel,750,57
+Israel,755,56
+Israel,761,54
+Israel,766,53
+Israel,772,53
+Israel,777,55
+Israel,783,56
+Israel,788,57
+Israel,794,56
+Israel,799,54
+Israel,805,51
+Israel,810,49
+Israel,815,48
+Israel,821,48
+Israel,826,48
+Italy,0,35
+Italy,1,45
+Italy,2,63
+Italy,3,87
+Italy,4,120
+Italy,5,157
+Italy,6,201
+Italy,7,244
+Italy,8,299
+Italy,9,361
+Italy,10,444
+Italy,11,549
+Italy,12,683
+Italy,13,803
+Italy,14,944
+Italy,15,1104
+Italy,16,1310
+Italy,17,1548
+Italy,18,1790
+Italy,19,2066
+Italy,20,2332
+Italy,21,2623
+Italy,22,2932
+Italy,23,3288
+Italy,24,3730
+Italy,25,4152
+Italy,26,4508
+Italy,27,4771
+Italy,28,4983
+Italy,29,5235
+Italy,30,5462
+Italy,31,5713
+Italy,32,5889
+Italy,33,5960
+Italy,34,5889
+Italy,35,5727
+Italy,36,5578
+Italy,37,5484
+Italy,38,5434
+Italy,39,5384
+Italy,40,5258
+Italy,41,5051
+Italy,42,4804
+Italy,43,4607
+Italy,44,4502
+Italy,45,4487
+Italy,46,4482
+Italy,47,4431
+Italy,48,4307
+Italy,49,4136
+Italy,50,3997
+Italy,51,3907
+Italy,52,3901
+Italy,53,3887
+Italy,54,3813
+Italy,55,3684
+Italy,56,3538
+Italy,57,3409
+Italy,58,3315
+Italy,59,3243
+Italy,60,3208
+Italy,61,3111
+Italy,62,2987
+Italy,63,2830
+Italy,64,2701
+Italy,65,2608
+Italy,66,2533
+Italy,67,2432
+Italy,68,2295
+Italy,69,2121
+Italy,70,1982
+Italy,71,1859
+Italy,72,1786
+Italy,73,1710
+Italy,74,1623
+Italy,75,1512
+Italy,76,1415
+Italy,77,1327
+Italy,78,1263
+Italy,79,1204
+Italy,80,1170
+Italy,81,1125
+Italy,82,1063
+Italy,83,990
+Italy,84,929
+Italy,85,894
+Italy,86,872
+Italy,87,840
+Italy,88,801
+Italy,89,744
+Italy,90,697
+Italy,91,652
+Italy,92,627
+Italy,93,617
+Italy,94,604
+Italy,95,583
+Italy,96,545
+Italy,97,509
+Italy,98,472
+Italy,99,438
+Italy,100,423
+Italy,101,414
+Italy,102,404
+Italy,103,378
+Italy,104,347
+Italy,105,323
+Italy,106,309
+Italy,107,302
+Italy,108,304
+Italy,109,304
+Italy,110,310
+Italy,111,305
+Italy,112,300
+Italy,113,297
+Italy,114,302
+Italy,115,304
+Italy,116,303
+Italy,117,293
+Italy,118,298
+Italy,119,301
+Italy,120,310
+Italy,121,302
+Italy,122,294
+Italy,123,282
+Italy,124,268
+Italy,125,253
+Italy,126,243
+Italy,127,240
+Italy,128,243
+Italy,129,235
+Italy,130,223
+Italy,131,204
+Italy,132,198
+Italy,133,196
+Italy,134,203
+Italy,135,211
+Italy,136,219
+Italy,137,221
+Italy,138,218
+Italy,139,211
+Italy,140,206
+Italy,141,206
+Italy,142,212
+Italy,143,217
+Italy,144,220
+Italy,145,216
+Italy,146,208
+Italy,147,198
+Italy,148,191
+Italy,149,187
+Italy,150,185
+Italy,152,184
+Japan,0,4
+Japan,7,5
+Japan,14,7
+Japan,21,10
+Japan,28,14
+Japan,35,19
+Japan,43,24
+Japan,50,29
+Japan,57,36
+Japan,64,44
+Japan,71,54
+Japan,78,67
+Japan,86,83
+Japan,93,97
+Japan,100,115
+Japan,107,134
+Japan,114,159
+Japan,121,188
+Japan,129,218
+Japan,136,251
+Japan,143,284
+Japan,150,319
+Japan,157,357
+Japan,164,400
+Japan,172,454
+Japan,179,506
+Japan,186,549
+Japan,193,581
+Japan,200,607
+Japan,207,637
+Japan,215,665
+Japan,222,696
+Japan,229,717
+Japan,236,726
+Japan,243,717
+Japan,250,697
+Japan,258,679
+Japan,265,668
+Japan,272,662
+Japan,279,656
+Japan,286,640
+Japan,293,615
+Japan,301,585
+Japan,308,561
+Japan,315,548
+Japan,322,546
+Japan,329,546
+Japan,336,540
+Japan,344,524
+Japan,351,504
+Japan,358,487
+Japan,365,476
+Japan,372,475
+Japan,379,473
+Japan,387,464
+Japan,394,449
+Japan,401,431
+Japan,408,415
+Japan,415,404
+Japan,422,395
+Japan,430,391
+Japan,437,379
+Japan,444,364
+Japan,451,344
+Japan,458,329
+Japan,465,317
+Japan,473,308
+Japan,480,296
+Japan,487,279
+Japan,494,258
+Japan,501,241
+Japan,508,226
+Japan,516,217
+Japan,523,208
+Japan,530,197
+Japan,537,184
+Japan,544,172
+Japan,551,161
+Japan,559,154
+Japan,566,146
+Japan,573,142
+Japan,580,137
+Japan,587,129
+Japan,594,120
+Japan,602,113
+Japan,609,108
+Japan,616,106
+Japan,623,102
+Japan,630,97
+Japan,637,90
+Japan,645,84
+Japan,652,79
+Japan,659,76
+Japan,666,75
+Japan,673,73
+Japan,680,71
+Japan,688,66
+Japan,695,62
+Japan,702,57
+Japan,709,53
+Japan,716,51
+Japan,723,50
+Japan,731,49
+Japan,738,46
+Japan,745,42
+Japan,752,39
+Japan,759,37
+Japan,766,36
+Japan,774,37
+Japan,781,37
+Japan,788,37
+Japan,795,37
+Japan,802,36
+Japan,810,36
+Japan,817,36
+Japan,824,37
+Japan,831,36
+Japan,838,35
+Japan,845,36
+Japan,853,36
+Japan,860,37
+Japan,867,36
+Japan,874,35
+Japan,881,34
+Japan,888,32
+Japan,896,30
+Japan,903,29
+Japan,910,29
+Japan,917,29
+Japan,924,28
+Japan,931,27
+Japan,939,24
+Japan,946,24
+Japan,953,23
+Japan,960,24
+Japan,967,25
+Japan,974,26
+Japan,982,26
+Japan,989,26
+Japan,996,25
+Japan,1003,25
+Japan,1010,25
+Japan,1017,25
+Japan,1025,26
+Japan,1032,26
+Japan,1039,26
+Japan,1046,25
+Japan,1053,24
+Japan,1060,23
+Japan,1068,22
+Japan,1075,22
+Japan,1082,22
+Kazakhstan,0,144
+Kazakhstan,11,187
+Kazakhstan,23,261
+Kazakhstan,35,356
+Kazakhstan,47,493
+Kazakhstan,59,645
+Kazakhstan,71,825
+Kazakhstan,83,1001
+Kazakhstan,95,1226
+Kazakhstan,107,1482
+Kazakhstan,119,1821
+Kazakhstan,131,2253
+Kazakhstan,143,2800
+Kazakhstan,155,3292
+Kazakhstan,167,3872
+Kazakhstan,179,4524
+Kazakhstan,191,5370
+Kazakhstan,203,6344
+Kazakhstan,215,7337
+Kazakhstan,227,8468
+Kazakhstan,239,9560
+Kazakhstan,251,10749
+Kazakhstan,263,12018
+Kazakhstan,275,13478
+Kazakhstan,287,15287
+Kazakhstan,299,17018
+Kazakhstan,311,18476
+Kazakhstan,323,19552
+Kazakhstan,335,20423
+Kazakhstan,347,21453
+Kazakhstan,359,22385
+Kazakhstan,371,23414
+Kazakhstan,383,24134
+Kazakhstan,395,24425
+Kazakhstan,407,24133
+Kazakhstan,419,23471
+Kazakhstan,431,22859
+Kazakhstan,443,22477
+Kazakhstan,455,22272
+Kazakhstan,467,22067
+Kazakhstan,479,21549
+Kazakhstan,491,20702
+Kazakhstan,503,19690
+Kazakhstan,515,18883
+Kazakhstan,527,18450
+Kazakhstan,539,18388
+Kazakhstan,551,18368
+Kazakhstan,563,18160
+Kazakhstan,575,17652
+Kazakhstan,587,16952
+Kazakhstan,599,16382
+Kazakhstan,611,16013
+Kazakhstan,623,15989
+Kazakhstan,635,15930
+Kazakhstan,647,15626
+Kazakhstan,659,15100
+Kazakhstan,671,14502
+Kazakhstan,683,13971
+Kazakhstan,695,13585
+Kazakhstan,707,13293
+Kazakhstan,719,13148
+Kazakhstan,731,12749
+Kazakhstan,743,12244
+Kazakhstan,755,11599
+Kazakhstan,767,11069
+Kazakhstan,779,10687
+Kazakhstan,791,10382
+Kazakhstan,803,9970
+Kazakhstan,815,9406
+Kazakhstan,827,8694
+Kazakhstan,839,8125
+Kazakhstan,851,7622
+Kazakhstan,863,7323
+Kazakhstan,875,7011
+Kazakhstan,887,6651
+Kazakhstan,899,6196
+Kazakhstan,911,5801
+Kazakhstan,923,5441
+Kazakhstan,935,5179
+Kazakhstan,947,4934
+Kazakhstan,959,4797
+Kazakhstan,971,4611
+Kazakhstan,983,4356
+Kazakhstan,995,4059
+Kazakhstan,1007,3808
+Kazakhstan,1019,3663
+Kazakhstan,1031,3574
+Kazakhstan,1043,3443
+Kazakhstan,1055,3286
+Kazakhstan,1066,3049
+Kazakhstan,1078,2857
+Kazakhstan,1090,2674
+Kazakhstan,1102,2573
+Kazakhstan,1114,2532
+Kazakhstan,1126,2477
+Kazakhstan,1138,2391
+Kazakhstan,1150,2235
+Kazakhstan,1162,2088
+Kazakhstan,1174,1936
+Kazakhstan,1186,1798
+Kazakhstan,1198,1733
+Kazakhstan,1210,1698
+Kazakhstan,1222,1659
+Kazakhstan,1234,1549
+Kazakhstan,1246,1425
+Kazakhstan,1258,1324
+Kazakhstan,1270,1268
+Kazakhstan,1282,1240
+Kazakhstan,1294,1245
+Kazakhstan,1306,1249
+Kazakhstan,1318,1272
+Kazakhstan,1330,1250
+Kazakhstan,1342,1233
+Kazakhstan,1354,1217
+Kazakhstan,1366,1241
+Kazakhstan,1378,1249
+Kazakhstan,1390,1241
+Kazakhstan,1402,1201
+Kazakhstan,1414,1223
+Kazakhstan,1426,1236
+Kazakhstan,1438,1273
+Kazakhstan,1450,1239
+Kazakhstan,1462,1206
+Kazakhstan,1474,1158
+Kazakhstan,1486,1101
+Kazakhstan,1498,1038
+Kazakhstan,1510,999
+Kazakhstan,1522,985
+Kazakhstan,1534,999
+Kazakhstan,1546,964
+Kazakhstan,1558,917
+Kazakhstan,1570,839
+Kazakhstan,1582,814
+Kazakhstan,1594,806
+Kazakhstan,1606,833
+Kazakhstan,1618,865
+Kazakhstan,1630,898
+Kazakhstan,1642,906
+Kazakhstan,1654,895
+Kazakhstan,1666,866
+Kazakhstan,1678,847
+Kazakhstan,1690,845
+Kazakhstan,1702,868
+Kazakhstan,1714,890
+Kazakhstan,1726,905
+Kazakhstan,1738,885
+Kazakhstan,1750,854
+Kazakhstan,1762,813
+Kazakhstan,1774,785
+Kazakhstan,1786,767
+Kazakhstan,1798,759
+Kazakhstan,1810,757
+Kenya,0,2
+Kenya,4,3
+Kenya,8,4
+Kenya,12,6
+Kenya,16,8
+Kenya,21,11
+Kenya,25,14
+Kenya,29,17
+Kenya,33,21
+Kenya,38,26
+Kenya,42,32
+Kenya,46,39
+Kenya,50,49
+Kenya,55,58
+Kenya,59,68
+Kenya,63,80
+Kenya,67,95
+Kenya,72,112
+Kenya,76,130
+Kenya,80,150
+Kenya,84,169
+Kenya,89,190
+Kenya,93,212
+Kenya,97,238
+Kenya,101,270
+Kenya,106,301
+Kenya,110,327
+Kenya,114,346
+Kenya,118,361
+Kenya,123,380
+Kenya,127,396
+Kenya,131,414
+Kenya,135,427
+Kenya,140,432
+Kenya,144,427
+Kenya,148,415
+Kenya,152,405
+Kenya,157,398
+Kenya,161,394
+Kenya,165,391
+Kenya,169,381
+Kenya,174,366
+Kenya,178,348
+Kenya,182,334
+Kenya,186,326
+Kenya,190,325
+Kenya,195,325
+Kenya,199,321
+Kenya,203,312
+Kenya,207,300
+Kenya,212,290
+Kenya,216,283
+Kenya,220,283
+Kenya,224,282
+Kenya,229,276
+Kenya,233,267
+Kenya,237,256
+Kenya,241,247
+Kenya,246,240
+Kenya,250,235
+Kenya,254,233
+Kenya,258,225
+Kenya,263,216
+Kenya,267,205
+Kenya,271,196
+Kenya,275,189
+Kenya,280,183
+Kenya,284,176
+Kenya,288,166
+Kenya,292,154
+Kenya,297,143
+Kenya,301,135
+Kenya,305,129
+Kenya,309,124
+Kenya,314,117
+Kenya,318,109
+Kenya,322,102
+Kenya,326,96
+Kenya,331,91
+Kenya,335,87
+Kenya,339,85
+Kenya,343,81
+Kenya,348,77
+Kenya,352,71
+Kenya,356,67
+Kenya,360,64
+Kenya,365,63
+Kenya,369,61
+Kenya,373,58
+Kenya,377,54
+Kenya,381,50
+Kenya,386,47
+Kenya,390,45
+Kenya,394,44
+Kenya,398,43
+Kenya,403,42
+Kenya,407,39
+Kenya,411,37
+Kenya,415,34
+Kenya,420,31
+Kenya,424,30
+Kenya,428,30
+Kenya,432,29
+Kenya,437,27
+Kenya,441,25
+Kenya,445,23
+Kenya,449,22
+Kenya,454,21
+Kenya,458,22
+Kenya,462,22
+Kenya,466,22
+Kenya,471,22
+Kenya,475,21
+Kenya,479,21
+Kenya,483,21
+Kenya,488,22
+Kenya,492,22
+Kenya,496,21
+Kenya,500,21
+Kenya,505,21
+Kenya,509,22
+Kenya,513,21
+Kenya,517,21
+Kenya,522,20
+Kenya,526,19
+Kenya,530,18
+Kenya,534,17
+Kenya,539,17
+Kenya,543,17
+Kenya,547,17
+Kenya,551,16
+Kenya,556,14
+Kenya,560,14
+Kenya,564,14
+Kenya,568,14
+Kenya,572,15
+Kenya,577,15
+Kenya,581,16
+Kenya,585,15
+Kenya,589,15
+Kenya,594,15
+Kenya,598,14
+Kenya,602,15
+Kenya,606,15
+Kenya,611,16
+Kenya,615,15
+Kenya,619,15
+Kenya,623,14
+Kenya,628,13
+Kenya,632,13
+Kenya,636,13
+Kenya,640,13
+Kuwait,0,4
+Kuwait,2,5
+Kuwait,5,8
+Kuwait,8,10
+Kuwait,11,15
+Kuwait,13,19
+Kuwait,16,25
+Kuwait,19,30
+Kuwait,22,37
+Kuwait,25,45
+Kuwait,27,55
+Kuwait,30,69
+Kuwait,33,86
+Kuwait,36,101
+Kuwait,39,118
+Kuwait,41,138
+Kuwait,44,164
+Kuwait,47,194
+Kuwait,50,225
+Kuwait,53,260
+Kuwait,55,293
+Kuwait,58,330
+Kuwait,61,369
+Kuwait,64,413
+Kuwait,67,469
+Kuwait,69,522
+Kuwait,72,567
+Kuwait,75,600
+Kuwait,78,627
+Kuwait,81,658
+Kuwait,83,687
+Kuwait,86,719
+Kuwait,89,741
+Kuwait,92,750
+Kuwait,95,741
+Kuwait,97,720
+Kuwait,100,702
+Kuwait,103,690
+Kuwait,106,684
+Kuwait,109,677
+Kuwait,111,661
+Kuwait,114,635
+Kuwait,117,604
+Kuwait,120,579
+Kuwait,123,566
+Kuwait,125,564
+Kuwait,128,564
+Kuwait,131,557
+Kuwait,134,542
+Kuwait,137,520
+Kuwait,139,503
+Kuwait,142,491
+Kuwait,145,491
+Kuwait,148,489
+Kuwait,150,479
+Kuwait,153,463
+Kuwait,156,445
+Kuwait,159,429
+Kuwait,162,417
+Kuwait,164,408
+Kuwait,167,403
+Kuwait,170,391
+Kuwait,173,376
+Kuwait,176,356
+Kuwait,178,339
+Kuwait,181,328
+Kuwait,184,318
+Kuwait,187,306
+Kuwait,190,288
+Kuwait,192,267
+Kuwait,195,249
+Kuwait,198,234
+Kuwait,201,224
+Kuwait,204,215
+Kuwait,206,204
+Kuwait,209,190
+Kuwait,212,178
+Kuwait,215,167
+Kuwait,218,159
+Kuwait,220,151
+Kuwait,223,147
+Kuwait,226,141
+Kuwait,229,133
+Kuwait,232,124
+Kuwait,234,116
+Kuwait,237,112
+Kuwait,240,109
+Kuwait,243,105
+Kuwait,246,100
+Kuwait,248,93
+Kuwait,251,87
+Kuwait,254,82
+Kuwait,257,79
+Kuwait,260,77
+Kuwait,262,76
+Kuwait,265,73
+Kuwait,268,68
+Kuwait,271,64
+Kuwait,274,59
+Kuwait,276,55
+Kuwait,279,53
+Kuwait,282,52
+Kuwait,285,50
+Kuwait,287,47
+Kuwait,290,43
+Kuwait,293,40
+Kuwait,296,38
+Kuwait,299,38
+Kuwait,301,38
+Kuwait,304,38
+Kuwait,307,39
+Kuwait,310,38
+Kuwait,313,37
+Kuwait,315,37
+Kuwait,318,38
+Kuwait,321,38
+Kuwait,324,38
+Kuwait,327,36
+Kuwait,329,37
+Kuwait,332,37
+Kuwait,335,39
+Kuwait,338,38
+Kuwait,341,37
+Kuwait,343,35
+Kuwait,346,33
+Kuwait,349,31
+Kuwait,352,30
+Kuwait,355,30
+Kuwait,357,30
+Kuwait,360,29
+Kuwait,363,28
+Kuwait,366,25
+Kuwait,369,25
+Kuwait,371,24
+Kuwait,374,25
+Kuwait,377,26
+Kuwait,380,27
+Kuwait,383,27
+Kuwait,385,27
+Kuwait,388,26
+Kuwait,391,26
+Kuwait,394,25
+Kuwait,397,26
+Kuwait,399,27
+Kuwait,402,27
+Kuwait,405,27
+Kuwait,408,26
+Kuwait,411,24
+Kuwait,413,24
+Kuwait,416,23
+Kuwait,419,23
+Kuwait,422,23
+Mexico,0,131
+Mexico,6,170
+Mexico,13,238
+Mexico,20,325
+Mexico,27,450
+Mexico,34,589
+Mexico,41,753
+Mexico,48,913
+Mexico,55,1119
+Mexico,62,1352
+Mexico,69,1662
+Mexico,76,2056
+Mexico,82,2555
+Mexico,89,3005
+Mexico,96,3534
+Mexico,103,4129
+Mexico,110,4901
+Mexico,117,5790
+Mexico,124,6696
+Mexico,131,7727
+Mexico,138,8725
+Mexico,145,9810
+Mexico,152,10967
+Mexico,158,12300
+Mexico,165,13950
+Mexico,172,15530
+Mexico,179,16861
+Mexico,186,17843
+Mexico,193,18638
+Mexico,200,19578
+Mexico,207,20428
+Mexico,214,21367
+Mexico,221,22025
+Mexico,228,22290
+Mexico,234,22024
+Mexico,241,21419
+Mexico,248,20861
+Mexico,255,20512
+Mexico,262,20325
+Mexico,269,20138
+Mexico,276,19666
+Mexico,283,18893
+Mexico,290,17969
+Mexico,297,17232
+Mexico,304,16838
+Mexico,310,16780
+Mexico,317,16763
+Mexico,324,16573
+Mexico,331,16109
+Mexico,338,15470
+Mexico,345,14950
+Mexico,352,14614
+Mexico,359,14591
+Mexico,366,14538
+Mexico,373,14260
+Mexico,380,13780
+Mexico,386,13234
+Mexico,393,12750
+Mexico,400,12398
+Mexico,407,12131
+Mexico,414,11999
+Mexico,421,11634
+Mexico,428,11174
+Mexico,435,10585
+Mexico,442,10102
+Mexico,449,9753
+Mexico,456,9475
+Mexico,462,9098
+Mexico,469,8584
+Mexico,476,7934
+Mexico,483,7414
+Mexico,490,6955
+Mexico,497,6683
+Mexico,504,6398
+Mexico,511,6070
+Mexico,518,5655
+Mexico,525,5294
+Mexico,532,4966
+Mexico,538,4726
+Mexico,545,4503
+Mexico,552,4378
+Mexico,559,4208
+Mexico,566,3975
+Mexico,573,3704
+Mexico,580,3476
+Mexico,587,3343
+Mexico,594,3262
+Mexico,601,3142
+Mexico,608,2999
+Mexico,614,2782
+Mexico,621,2607
+Mexico,628,2441
+Mexico,635,2348
+Mexico,642,2310
+Mexico,649,2260
+Mexico,656,2182
+Mexico,663,2040
+Mexico,670,1905
+Mexico,677,1766
+Mexico,684,1641
+Mexico,690,1582
+Mexico,697,1550
+Mexico,704,1514
+Mexico,711,1414
+Mexico,718,1300
+Mexico,725,1208
+Mexico,732,1157
+Mexico,739,1132
+Mexico,746,1136
+Mexico,753,1140
+Mexico,760,1161
+Mexico,766,1140
+Mexico,773,1125
+Mexico,780,1111
+Mexico,787,1132
+Mexico,794,1139
+Mexico,801,1133
+Mexico,808,1096
+Mexico,815,1116
+Mexico,822,1128
+Mexico,829,1162
+Mexico,836,1130
+Mexico,842,1101
+Mexico,849,1056
+Mexico,856,1005
+Mexico,863,947
+Mexico,870,912
+Mexico,877,899
+Mexico,884,911
+Mexico,891,880
+Mexico,898,837
+Mexico,905,765
+Mexico,912,742
+Mexico,918,735
+Mexico,925,760
+Mexico,932,789
+Mexico,939,819
+Mexico,946,827
+Mexico,953,816
+Mexico,960,790
+Mexico,967,773
+Mexico,974,771
+Mexico,981,792
+Mexico,988,812
+Mexico,994,826
+Mexico,1001,808
+Mexico,1008,780
+Mexico,1015,741
+Mexico,1022,716
+Mexico,1029,700
+Mexico,1036,693
+Mexico,1043,690
+Moldova,0,1
+Moldova,3,2
+Moldova,6,3
+Moldova,9,4
+Moldova,12,6
+Moldova,15,8
+Moldova,18,10
+Moldova,22,13
+Moldova,25,16
+Moldova,28,19
+Moldova,31,24
+Moldova,34,29
+Moldova,37,36
+Moldova,41,43
+Moldova,44,51
+Moldova,47,59
+Moldova,50,70
+Moldova,53,83
+Moldova,56,96
+Moldova,60,111
+Moldova,63,126
+Moldova,66,142
+Moldova,69,158
+Moldova,72,178
+Moldova,75,201
+Moldova,79,224
+Moldova,82,244
+Moldova,85,258
+Moldova,88,269
+Moldova,91,283
+Moldova,94,295
+Moldova,97,309
+Moldova,101,318
+Moldova,104,322
+Moldova,107,318
+Moldova,110,310
+Moldova,113,301
+Moldova,116,296
+Moldova,120,294
+Moldova,123,291
+Moldova,126,284
+Moldova,129,273
+Moldova,132,260
+Moldova,135,249
+Moldova,139,243
+Moldova,142,242
+Moldova,145,242
+Moldova,148,239
+Moldova,151,233
+Moldova,154,223
+Moldova,158,216
+Moldova,161,211
+Moldova,164,211
+Moldova,167,210
+Moldova,170,206
+Moldova,173,199
+Moldova,177,191
+Moldova,180,184
+Moldova,183,179
+Moldova,186,175
+Moldova,189,173
+Moldova,192,168
+Moldova,195,161
+Moldova,199,153
+Moldova,202,146
+Moldova,205,141
+Moldova,208,137
+Moldova,211,131
+Moldova,214,124
+Moldova,218,114
+Moldova,221,107
+Moldova,224,100
+Moldova,227,96
+Moldova,230,92
+Moldova,233,87
+Moldova,237,81
+Moldova,240,76
+Moldova,243,71
+Moldova,246,68
+Moldova,249,65
+Moldova,252,63
+Moldova,256,60
+Moldova,259,57
+Moldova,262,53
+Moldova,265,50
+Moldova,268,48
+Moldova,271,47
+Moldova,275,45
+Moldova,278,43
+Moldova,281,40
+Moldova,284,37
+Moldova,287,35
+Moldova,290,33
+Moldova,293,33
+Moldova,297,32
+Moldova,300,31
+Moldova,303,29
+Moldova,306,27
+Moldova,309,25
+Moldova,312,23
+Moldova,316,22
+Moldova,319,22
+Moldova,322,21
+Moldova,325,20
+Moldova,328,18
+Moldova,331,17
+Moldova,335,16
+Moldova,338,16
+Moldova,341,16
+Moldova,344,16
+Moldova,347,16
+Moldova,350,16
+Moldova,354,16
+Moldova,357,16
+Moldova,360,16
+Moldova,363,16
+Moldova,366,16
+Moldova,369,15
+Moldova,373,16
+Moldova,376,16
+Moldova,379,16
+Moldova,382,16
+Moldova,385,15
+Moldova,388,15
+Moldova,391,14
+Moldova,395,13
+Moldova,398,13
+Moldova,401,13
+Moldova,404,13
+Moldova,407,12
+Moldova,410,12
+Moldova,414,11
+Moldova,417,10
+Moldova,420,10
+Moldova,423,11
+Moldova,426,11
+Moldova,429,11
+Moldova,433,11
+Moldova,436,11
+Moldova,439,11
+Moldova,442,11
+Moldova,445,11
+Moldova,448,11
+Moldova,452,11
+Moldova,455,11
+Moldova,458,11
+Moldova,461,11
+Moldova,464,10
+Moldova,467,10
+Moldova,470,10
+Moldova,474,10
+Moldova,477,10
+Morocco,0,2
+Morocco,4,2
+Morocco,9,3
+Morocco,13,5
+Morocco,18,7
+Morocco,22,9
+Morocco,27,11
+Morocco,32,14
+Morocco,36,17
+Morocco,41,21
+Morocco,45,25
+Morocco,50,31
+Morocco,55,39
+Morocco,59,46
+Morocco,64,54
+Morocco,68,64
+Morocco,73,76
+Morocco,78,90
+Morocco,82,104
+Morocco,87,120
+Morocco,91,135
+Morocco,96,152
+Morocco,100,170
+Morocco,105,191
+Morocco,110,216
+Morocco,114,241
+Morocco,119,262
+Morocco,123,277
+Morocco,128,289
+Morocco,133,304
+Morocco,137,317
+Morocco,142,332
+Morocco,146,342
+Morocco,151,346
+Morocco,156,342
+Morocco,160,333
+Morocco,165,324
+Morocco,169,319
+Morocco,174,316
+Morocco,178,313
+Morocco,183,305
+Morocco,188,293
+Morocco,192,279
+Morocco,197,268
+Morocco,201,261
+Morocco,206,261
+Morocco,211,260
+Morocco,215,257
+Morocco,220,250
+Morocco,224,240
+Morocco,229,232
+Morocco,234,227
+Morocco,238,226
+Morocco,243,226
+Morocco,247,221
+Morocco,252,214
+Morocco,257,205
+Morocco,261,198
+Morocco,266,192
+Morocco,270,188
+Morocco,275,186
+Morocco,279,180
+Morocco,284,173
+Morocco,289,164
+Morocco,293,157
+Morocco,298,151
+Morocco,302,147
+Morocco,307,141
+Morocco,312,133
+Morocco,316,123
+Morocco,321,115
+Morocco,325,108
+Morocco,330,103
+Morocco,335,99
+Morocco,339,94
+Morocco,344,87
+Morocco,348,82
+Morocco,353,77
+Morocco,357,73
+Morocco,362,70
+Morocco,367,68
+Morocco,371,65
+Morocco,376,61
+Morocco,380,57
+Morocco,385,54
+Morocco,390,52
+Morocco,394,50
+Morocco,399,48
+Morocco,403,46
+Morocco,408,43
+Morocco,413,40
+Morocco,417,37
+Morocco,422,36
+Morocco,426,35
+Morocco,431,35
+Morocco,435,33
+Morocco,440,31
+Morocco,445,29
+Morocco,449,27
+Morocco,454,25
+Morocco,458,24
+Morocco,463,24
+Morocco,468,23
+Morocco,472,21
+Morocco,477,20
+Morocco,481,18
+Morocco,486,18
+Morocco,491,17
+Morocco,495,17
+Morocco,500,17
+Morocco,504,18
+Morocco,509,17
+Morocco,514,17
+Morocco,518,17
+Morocco,523,17
+Morocco,527,17
+Morocco,532,17
+Morocco,536,17
+Morocco,541,17
+Morocco,546,17
+Morocco,550,18
+Morocco,555,17
+Morocco,559,17
+Morocco,564,16
+Morocco,569,15
+Morocco,573,14
+Morocco,578,14
+Morocco,582,13
+Morocco,587,14
+Morocco,592,13
+Morocco,596,13
+Morocco,601,11
+Morocco,605,11
+Morocco,610,11
+Morocco,614,11
+Morocco,619,12
+Morocco,624,12
+Morocco,628,12
+Morocco,633,12
+Morocco,637,12
+Morocco,642,12
+Morocco,647,12
+Morocco,651,12
+Morocco,656,12
+Morocco,660,12
+Morocco,665,12
+Morocco,670,12
+Morocco,674,11
+Morocco,679,11
+Morocco,683,10
+Morocco,688,10
+Morocco,693,10
+Nepal,0,3
+Nepal,2,4
+Nepal,4,5
+Nepal,6,7
+Nepal,8,10
+Nepal,10,13
+Nepal,12,17
+Nepal,14,21
+Nepal,16,26
+Nepal,18,32
+Nepal,20,39
+Nepal,22,48
+Nepal,24,60
+Nepal,26,71
+Nepal,28,83
+Nepal,30,97
+Nepal,32,116
+Nepal,34,137
+Nepal,36,158
+Nepal,38,183
+Nepal,40,206
+Nepal,42,232
+Nepal,44,260
+Nepal,46,291
+Nepal,48,330
+Nepal,50,368
+Nepal,52,399
+Nepal,54,423
+Nepal,56,441
+Nepal,58,464
+Nepal,60,484
+Nepal,62,506
+Nepal,64,522
+Nepal,66,528
+Nepal,68,522
+Nepal,70,507
+Nepal,72,494
+Nepal,74,486
+Nepal,76,481
+Nepal,78,477
+Nepal,80,466
+Nepal,82,447
+Nepal,84,426
+Nepal,86,408
+Nepal,88,399
+Nepal,90,397
+Nepal,92,397
+Nepal,94,392
+Nepal,96,381
+Nepal,98,366
+Nepal,100,354
+Nepal,102,346
+Nepal,104,345
+Nepal,106,344
+Nepal,108,338
+Nepal,110,326
+Nepal,112,313
+Nepal,114,302
+Nepal,116,293
+Nepal,118,287
+Nepal,120,284
+Nepal,122,275
+Nepal,124,264
+Nepal,126,250
+Nepal,128,239
+Nepal,130,231
+Nepal,132,224
+Nepal,134,215
+Nepal,136,203
+Nepal,138,188
+Nepal,140,175
+Nepal,142,164
+Nepal,144,158
+Nepal,146,151
+Nepal,148,143
+Nepal,150,134
+Nepal,152,125
+Nepal,154,117
+Nepal,156,112
+Nepal,158,106
+Nepal,160,103
+Nepal,162,99
+Nepal,164,94
+Nepal,166,87
+Nepal,168,82
+Nepal,170,79
+Nepal,172,77
+Nepal,174,74
+Nepal,176,71
+Nepal,178,65
+Nepal,180,61
+Nepal,182,57
+Nepal,184,55
+Nepal,186,54
+Nepal,188,53
+Nepal,191,51
+Nepal,193,48
+Nepal,195,45
+Nepal,197,41
+Nepal,199,38
+Nepal,201,37
+Nepal,203,36
+Nepal,205,35
+Nepal,207,33
+Nepal,209,30
+Nepal,211,28
+Nepal,213,27
+Nepal,215,26
+Nepal,217,26
+Nepal,219,27
+Nepal,221,27
+Nepal,223,27
+Nepal,225,26
+Nepal,227,26
+Nepal,229,26
+Nepal,231,27
+Nepal,233,26
+Nepal,235,25
+Nepal,237,26
+Nepal,239,26
+Nepal,241,27
+Nepal,243,26
+Nepal,245,26
+Nepal,247,25
+Nepal,249,23
+Nepal,251,22
+Nepal,253,21
+Nepal,255,21
+Nepal,257,21
+Nepal,259,20
+Nepal,261,19
+Nepal,263,18
+Nepal,265,17
+Nepal,267,17
+Nepal,269,18
+Nepal,271,18
+Nepal,273,19
+Nepal,275,19
+Nepal,277,19
+Nepal,279,18
+Nepal,281,18
+Nepal,283,18
+Nepal,285,18
+Nepal,287,19
+Nepal,289,19
+Nepal,291,19
+Nepal,293,18
+Nepal,295,17
+Nepal,297,16
+Nepal,299,16
+Nepal,301,16
+Nepal,303,16
+Netherlands,0,5
+Netherlands,1,7
+Netherlands,2,10
+Netherlands,3,14
+Netherlands,4,19
+Netherlands,5,25
+Netherlands,6,33
+Netherlands,7,40
+Netherlands,8,49
+Netherlands,9,59
+Netherlands,10,72
+Netherlands,11,90
+Netherlands,12,112
+Netherlands,13,131
+Netherlands,14,155
+Netherlands,16,181
+Netherlands,17,215
+Netherlands,18,254
+Netherlands,19,293
+Netherlands,20,339
+Netherlands,21,383
+Netherlands,22,430
+Netherlands,23,481
+Netherlands,24,540
+Netherlands,25,612
+Netherlands,26,681
+Netherlands,27,740
+Netherlands,28,783
+Netherlands,29,818
+Netherlands,30,859
+Netherlands,32,896
+Netherlands,33,938
+Netherlands,34,966
+Netherlands,35,978
+Netherlands,36,966
+Netherlands,37,940
+Netherlands,38,915
+Netherlands,39,900
+Netherlands,40,892
+Netherlands,41,884
+Netherlands,42,863
+Netherlands,43,829
+Netherlands,44,788
+Netherlands,45,756
+Netherlands,46,739
+Netherlands,48,736
+Netherlands,49,735
+Netherlands,50,727
+Netherlands,51,707
+Netherlands,52,679
+Netherlands,53,656
+Netherlands,54,641
+Netherlands,55,640
+Netherlands,56,638
+Netherlands,57,626
+Netherlands,58,604
+Netherlands,59,581
+Netherlands,60,559
+Netherlands,61,544
+Netherlands,63,532
+Netherlands,64,526
+Netherlands,65,510
+Netherlands,66,490
+Netherlands,67,464
+Netherlands,68,443
+Netherlands,69,428
+Netherlands,70,415
+Netherlands,71,399
+Netherlands,72,376
+Netherlands,73,348
+Netherlands,74,325
+Netherlands,75,305
+Netherlands,76,293
+Netherlands,77,280
+Netherlands,79,266
+Netherlands,80,248
+Netherlands,81,232
+Netherlands,82,218
+Netherlands,83,207
+Netherlands,84,197
+Netherlands,85,192
+Netherlands,86,184
+Netherlands,87,174
+Netherlands,88,162
+Netherlands,89,152
+Netherlands,90,146
+Netherlands,91,143
+Netherlands,92,137
+Netherlands,93,131
+Netherlands,95,122
+Netherlands,96,114
+Netherlands,97,107
+Netherlands,98,103
+Netherlands,99,101
+Netherlands,100,99
+Netherlands,101,95
+Netherlands,102,89
+Netherlands,103,83
+Netherlands,104,77
+Netherlands,105,72
+Netherlands,106,69
+Netherlands,107,68
+Netherlands,108,66
+Netherlands,110,62
+Netherlands,111,57
+Netherlands,112,53
+Netherlands,113,50
+Netherlands,114,49
+Netherlands,115,49
+Netherlands,116,50
+Netherlands,117,50
+Netherlands,118,50
+Netherlands,119,49
+Netherlands,120,48
+Netherlands,121,49
+Netherlands,122,50
+Netherlands,123,49
+Netherlands,124,48
+Netherlands,126,49
+Netherlands,127,49
+Netherlands,128,51
+Netherlands,129,49
+Netherlands,130,48
+Netherlands,131,46
+Netherlands,132,44
+Netherlands,133,41
+Netherlands,134,40
+Netherlands,135,39
+Netherlands,136,40
+Netherlands,137,38
+Netherlands,138,36
+Netherlands,139,33
+Netherlands,140,32
+Netherlands,142,32
+Netherlands,143,33
+Netherlands,144,34
+Netherlands,145,35
+Netherlands,146,36
+Netherlands,147,35
+Netherlands,148,34
+Netherlands,149,33
+Netherlands,150,33
+Netherlands,151,34
+Netherlands,152,35
+Netherlands,153,36
+Netherlands,154,35
+Netherlands,155,34
+Netherlands,157,32
+Netherlands,158,31
+Netherlands,159,30
+Netherlands,160,30
+Netherlands,161,30
+Nigeria,0,3
+Nigeria,3,4
+Nigeria,6,5
+Nigeria,9,7
+Nigeria,12,10
+Nigeria,15,13
+Nigeria,18,17
+Nigeria,21,21
+Nigeria,24,26
+Nigeria,27,31
+Nigeria,30,39
+Nigeria,33,48
+Nigeria,36,60
+Nigeria,39,70
+Nigeria,42,83
+Nigeria,45,97
+Nigeria,48,115
+Nigeria,52,136
+Nigeria,55,157
+Nigeria,58,182
+Nigeria,61,205
+Nigeria,64,231
+Nigeria,67,258
+Nigeria,70,289
+Nigeria,73,328
+Nigeria,76,365
+Nigeria,79,397
+Nigeria,82,420
+Nigeria,85,439
+Nigeria,88,461
+Nigeria,91,481
+Nigeria,94,503
+Nigeria,97,518
+Nigeria,100,525
+Nigeria,104,518
+Nigeria,107,504
+Nigeria,110,491
+Nigeria,113,483
+Nigeria,116,478
+Nigeria,119,474
+Nigeria,122,463
+Nigeria,125,445
+Nigeria,128,423
+Nigeria,131,405
+Nigeria,134,396
+Nigeria,137,395
+Nigeria,140,394
+Nigeria,143,390
+Nigeria,146,379
+Nigeria,149,364
+Nigeria,152,352
+Nigeria,156,344
+Nigeria,159,343
+Nigeria,162,342
+Nigeria,165,335
+Nigeria,168,324
+Nigeria,171,311
+Nigeria,174,300
+Nigeria,177,292
+Nigeria,180,285
+Nigeria,183,282
+Nigeria,186,274
+Nigeria,189,263
+Nigeria,192,249
+Nigeria,195,237
+Nigeria,198,229
+Nigeria,201,223
+Nigeria,204,214
+Nigeria,208,202
+Nigeria,211,186
+Nigeria,214,174
+Nigeria,217,163
+Nigeria,220,157
+Nigeria,223,150
+Nigeria,226,142
+Nigeria,229,133
+Nigeria,232,124
+Nigeria,235,116
+Nigeria,238,111
+Nigeria,241,106
+Nigeria,244,103
+Nigeria,247,99
+Nigeria,250,93
+Nigeria,253,87
+Nigeria,257,81
+Nigeria,260,78
+Nigeria,263,76
+Nigeria,266,74
+Nigeria,269,70
+Nigeria,272,65
+Nigeria,275,61
+Nigeria,278,57
+Nigeria,281,55
+Nigeria,284,54
+Nigeria,287,53
+Nigeria,290,51
+Nigeria,293,48
+Nigeria,296,44
+Nigeria,299,41
+Nigeria,302,38
+Nigeria,305,37
+Nigeria,309,36
+Nigeria,312,35
+Nigeria,315,33
+Nigeria,318,30
+Nigeria,321,28
+Nigeria,324,27
+Nigeria,327,26
+Nigeria,330,26
+Nigeria,333,26
+Nigeria,336,27
+Nigeria,339,26
+Nigeria,342,26
+Nigeria,345,26
+Nigeria,348,26
+Nigeria,351,26
+Nigeria,354,26
+Nigeria,357,25
+Nigeria,361,26
+Nigeria,364,26
+Nigeria,367,27
+Nigeria,370,26
+Nigeria,373,25
+Nigeria,376,24
+Nigeria,379,23
+Nigeria,382,22
+Nigeria,385,21
+Nigeria,388,21
+Nigeria,391,21
+Nigeria,394,20
+Nigeria,397,19
+Nigeria,400,18
+Nigeria,403,17
+Nigeria,406,17
+Nigeria,409,17
+Nigeria,413,18
+Nigeria,416,19
+Nigeria,419,19
+Nigeria,422,19
+Nigeria,425,18
+Nigeria,428,18
+Nigeria,431,18
+Nigeria,434,18
+Nigeria,437,19
+Nigeria,440,19
+Nigeria,443,19
+Nigeria,446,18
+Nigeria,449,17
+Nigeria,452,16
+Nigeria,455,16
+Nigeria,458,16
+Nigeria,461,16
+Oman,0,7
+Oman,3,10
+Oman,7,14
+Oman,11,19
+Oman,14,26
+Oman,18,35
+Oman,22,44
+Oman,25,54
+Oman,29,66
+Oman,33,80
+Oman,37,98
+Oman,40,122
+Oman,44,151
+Oman,48,178
+Oman,51,210
+Oman,55,245
+Oman,59,291
+Oman,62,344
+Oman,66,398
+Oman,70,459
+Oman,74,518
+Oman,77,583
+Oman,81,651
+Oman,85,731
+Oman,88,829
+Oman,92,923
+Oman,96,1002
+Oman,100,1060
+Oman,103,1107
+Oman,107,1163
+Oman,111,1214
+Oman,114,1270
+Oman,118,1309
+Oman,122,1325
+Oman,125,1309
+Oman,129,1273
+Oman,133,1240
+Oman,137,1219
+Oman,140,1208
+Oman,144,1197
+Oman,148,1169
+Oman,151,1123
+Oman,155,1068
+Oman,159,1024
+Oman,163,1000
+Oman,166,997
+Oman,170,996
+Oman,174,985
+Oman,177,957
+Oman,181,919
+Oman,185,888
+Oman,188,868
+Oman,192,867
+Oman,196,864
+Oman,200,847
+Oman,203,819
+Oman,207,786
+Oman,211,757
+Oman,214,737
+Oman,218,721
+Oman,222,713
+Oman,226,691
+Oman,229,664
+Oman,233,629
+Oman,237,600
+Oman,240,579
+Oman,244,563
+Oman,248,540
+Oman,251,510
+Oman,255,471
+Oman,259,440
+Oman,263,413
+Oman,266,397
+Oman,270,380
+Oman,274,360
+Oman,277,336
+Oman,281,314
+Oman,285,295
+Oman,289,280
+Oman,292,267
+Oman,296,260
+Oman,300,250
+Oman,303,236
+Oman,307,220
+Oman,311,206
+Oman,314,198
+Oman,318,193
+Oman,322,186
+Oman,326,178
+Oman,329,165
+Oman,333,155
+Oman,337,145
+Oman,340,139
+Oman,344,137
+Oman,348,134
+Oman,352,129
+Oman,355,121
+Oman,359,113
+Oman,363,105
+Oman,366,97
+Oman,370,94
+Oman,374,92
+Oman,377,90
+Oman,381,84
+Oman,385,77
+Oman,389,71
+Oman,392,68
+Oman,396,67
+Oman,400,67
+Oman,403,67
+Oman,407,69
+Oman,411,67
+Oman,415,66
+Oman,418,66
+Oman,422,67
+Oman,426,67
+Oman,429,67
+Oman,433,65
+Oman,437,66
+Oman,440,67
+Oman,444,69
+Oman,448,67
+Oman,452,65
+Oman,455,62
+Oman,459,59
+Oman,463,56
+Oman,466,54
+Oman,470,53
+Oman,474,54
+Oman,478,52
+Oman,481,49
+Oman,485,45
+Oman,489,44
+Oman,492,43
+Oman,496,45
+Oman,500,46
+Oman,503,48
+Oman,507,49
+Oman,511,48
+Oman,515,47
+Oman,518,45
+Oman,522,45
+Oman,526,47
+Oman,529,48
+Oman,533,49
+Oman,537,48
+Oman,541,46
+Oman,544,44
+Oman,548,42
+Oman,552,41
+Oman,555,41
+Oman,559,41
+Pakistan,0,127
+Pakistan,7,165
+Pakistan,15,231
+Pakistan,23,315
+Pakistan,31,437
+Pakistan,39,571
+Pakistan,47,730
+Pakistan,55,885
+Pakistan,62,1085
+Pakistan,70,1311
+Pakistan,78,1611
+Pakistan,86,1994
+Pakistan,94,2478
+Pakistan,102,2913
+Pakistan,110,3426
+Pakistan,118,4003
+Pakistan,125,4752
+Pakistan,133,5614
+Pakistan,141,6493
+Pakistan,149,7493
+Pakistan,157,8460
+Pakistan,165,9512
+Pakistan,173,10634
+Pakistan,180,11926
+Pakistan,188,13527
+Pakistan,196,15059
+Pakistan,204,16349
+Pakistan,212,17301
+Pakistan,220,18072
+Pakistan,228,18984
+Pakistan,236,19808
+Pakistan,243,20718
+Pakistan,251,21356
+Pakistan,259,21613
+Pakistan,267,21355
+Pakistan,275,20769
+Pakistan,283,20227
+Pakistan,291,19889
+Pakistan,298,19708
+Pakistan,306,19527
+Pakistan,314,19069
+Pakistan,322,18319
+Pakistan,330,17423
+Pakistan,338,16709
+Pakistan,346,16326
+Pakistan,354,16271
+Pakistan,361,16253
+Pakistan,369,16069
+Pakistan,377,15620
+Pakistan,385,15000
+Pakistan,393,14496
+Pakistan,401,14170
+Pakistan,409,14148
+Pakistan,416,14096
+Pakistan,424,13827
+Pakistan,432,13361
+Pakistan,440,12832
+Pakistan,448,12363
+Pakistan,456,12021
+Pakistan,464,11763
+Pakistan,472,11635
+Pakistan,479,11281
+Pakistan,487,10835
+Pakistan,495,10263
+Pakistan,503,9795
+Pakistan,511,9457
+Pakistan,519,9187
+Pakistan,527,8822
+Pakistan,534,8323
+Pakistan,542,7693
+Pakistan,550,7189
+Pakistan,558,6744
+Pakistan,566,6480
+Pakistan,574,6204
+Pakistan,582,5886
+Pakistan,590,5483
+Pakistan,597,5133
+Pakistan,605,4815
+Pakistan,613,4583
+Pakistan,621,4366
+Pakistan,629,4245
+Pakistan,637,4080
+Pakistan,645,3854
+Pakistan,653,3591
+Pakistan,660,3370
+Pakistan,668,3241
+Pakistan,676,3163
+Pakistan,684,3047
+Pakistan,692,2908
+Pakistan,700,2698
+Pakistan,708,2528
+Pakistan,715,2366
+Pakistan,723,2276
+Pakistan,731,2240
+Pakistan,739,2191
+Pakistan,747,2116
+Pakistan,755,1978
+Pakistan,763,1848
+Pakistan,771,1713
+Pakistan,778,1591
+Pakistan,786,1534
+Pakistan,794,1503
+Pakistan,802,1468
+Pakistan,810,1371
+Pakistan,818,1261
+Pakistan,826,1171
+Pakistan,833,1122
+Pakistan,841,1098
+Pakistan,849,1102
+Pakistan,857,1105
+Pakistan,865,1125
+Pakistan,873,1106
+Pakistan,881,1091
+Pakistan,889,1077
+Pakistan,896,1098
+Pakistan,904,1105
+Pakistan,912,1098
+Pakistan,920,1062
+Pakistan,928,1082
+Pakistan,936,1093
+Pakistan,944,1127
+Pakistan,951,1096
+Pakistan,959,1067
+Pakistan,967,1024
+Pakistan,975,974
+Pakistan,983,918
+Pakistan,991,884
+Pakistan,999,872
+Pakistan,1007,884
+Pakistan,1014,853
+Pakistan,1022,812
+Pakistan,1030,742
+Pakistan,1038,720
+Pakistan,1046,713
+Pakistan,1054,737
+Pakistan,1062,765
+Pakistan,1069,794
+Pakistan,1077,802
+Pakistan,1085,792
+Pakistan,1093,766
+Pakistan,1101,749
+Pakistan,1109,748
+Pakistan,1117,768
+Pakistan,1125,787
+Pakistan,1132,801
+Pakistan,1140,783
+Pakistan,1148,756
+Pakistan,1156,719
+Pakistan,1164,695
+Pakistan,1172,679
+Pakistan,1180,672
+Pakistan,1188,669
+Panama,0,5
+Panama,3,7
+Panama,7,10
+Panama,11,14
+Panama,15,20
+Panama,19,26
+Panama,23,33
+Panama,27,40
+Panama,31,49
+Panama,35,60
+Panama,39,73
+Panama,43,91
+Panama,47,113
+Panama,51,133
+Panama,55,157
+Panama,59,183
+Panama,63,218
+Panama,67,257
+Panama,71,297
+Panama,75,343
+Panama,79,388
+Panama,83,436
+Panama,87,487
+Panama,91,547
+Panama,95,620
+Panama,99,691
+Panama,103,750
+Panama,107,793
+Panama,111,829
+Panama,115,871
+Panama,119,908
+Panama,123,950
+Panama,127,979
+Panama,131,991
+Panama,135,979
+Panama,139,953
+Panama,143,928
+Panama,147,912
+Panama,151,904
+Panama,155,896
+Panama,159,875
+Panama,163,840
+Panama,167,799
+Panama,171,766
+Panama,175,749
+Panama,179,746
+Panama,183,745
+Panama,187,737
+Panama,191,716
+Panama,195,688
+Panama,199,665
+Panama,203,650
+Panama,207,649
+Panama,211,646
+Panama,215,634
+Panama,219,613
+Panama,223,588
+Panama,227,567
+Panama,231,551
+Panama,235,539
+Panama,239,533
+Panama,243,517
+Panama,247,497
+Panama,251,470
+Panama,255,449
+Panama,259,433
+Panama,263,421
+Panama,267,404
+Panama,271,381
+Panama,275,353
+Panama,279,329
+Panama,283,309
+Panama,287,297
+Panama,291,284
+Panama,295,270
+Panama,299,251
+Panama,303,235
+Panama,307,220
+Panama,311,210
+Panama,315,200
+Panama,319,194
+Panama,323,187
+Panama,327,176
+Panama,331,164
+Panama,335,154
+Panama,339,148
+Panama,343,145
+Panama,347,139
+Panama,351,133
+Panama,355,123
+Panama,359,116
+Panama,363,108
+Panama,367,104
+Panama,371,102
+Panama,375,100
+Panama,379,97
+Panama,383,90
+Panama,387,84
+Panama,391,78
+Panama,395,73
+Panama,399,70
+Panama,403,68
+Panama,407,67
+Panama,411,62
+Panama,415,57
+Panama,419,53
+Panama,423,51
+Panama,427,50
+Panama,431,50
+Panama,435,50
+Panama,439,51
+Panama,443,50
+Panama,447,50
+Panama,451,49
+Panama,455,50
+Panama,459,50
+Panama,463,50
+Panama,467,48
+Panama,471,49
+Panama,475,50
+Panama,479,51
+Panama,483,50
+Panama,487,48
+Panama,491,47
+Panama,495,44
+Panama,499,42
+Panama,503,40
+Panama,507,40
+Panama,511,40
+Panama,515,39
+Panama,519,37
+Panama,523,34
+Panama,527,33
+Panama,531,32
+Panama,535,33
+Panama,539,35
+Panama,543,36
+Panama,547,36
+Panama,551,36
+Panama,555,35
+Panama,559,34
+Panama,563,34
+Panama,567,35
+Panama,571,36
+Panama,575,36
+Panama,579,35
+Panama,583,34
+Panama,587,33
+Panama,591,31
+Panama,595,31
+Panama,599,30
+Panama,603,30
+Peru,0,150
+Peru,7,195
+Peru,15,272
+Peru,23,372
+Peru,31,515
+Peru,39,674
+Peru,47,862
+Peru,55,1045
+Peru,63,1280
+Peru,71,1547
+Peru,79,1902
+Peru,87,2353
+Peru,95,2924
+Peru,103,3438
+Peru,111,4044
+Peru,119,4725
+Peru,127,5609
+Peru,135,6625
+Peru,143,7663
+Peru,151,8843
+Peru,159,9984
+Peru,167,11226
+Peru,175,12551
+Peru,183,14076
+Peru,191,15964
+Peru,199,17772
+Peru,207,19295
+Peru,215,20419
+Peru,223,21329
+Peru,231,22405
+Peru,239,23377
+Peru,247,24452
+Peru,255,25204
+Peru,263,25508
+Peru,271,25203
+Peru,279,24511
+Peru,287,23873
+Peru,295,23474
+Peru,303,23260
+Peru,311,23046
+Peru,319,22505
+Peru,327,21621
+Peru,335,20563
+Peru,343,19720
+Peru,351,19269
+Peru,359,19203
+Peru,367,19183
+Peru,375,18965
+Peru,383,18435
+Peru,391,17704
+Peru,399,17109
+Peru,407,16724
+Peru,415,16698
+Peru,423,16636
+Peru,431,16319
+Peru,439,15769
+Peru,447,15145
+Peru,455,14590
+Peru,463,14187
+Peru,471,13883
+Peru,479,13731
+Peru,487,13314
+Peru,495,12787
+Peru,503,12113
+Peru,511,11560
+Peru,519,11161
+Peru,527,10842
+Peru,535,10412
+Peru,543,9823
+Peru,551,9080
+Peru,559,8485
+Peru,567,7960
+Peru,575,7647
+Peru,583,7322
+Peru,591,6946
+Peru,599,6471
+Peru,606,6058
+Peru,614,5683
+Peru,622,5409
+Peru,630,5153
+Peru,638,5010
+Peru,646,4815
+Peru,654,4549
+Peru,662,4239
+Peru,670,3977
+Peru,678,3826
+Peru,686,3733
+Peru,694,3596
+Peru,702,3432
+Peru,710,3184
+Peru,718,2984
+Peru,726,2793
+Peru,734,2687
+Peru,742,2644
+Peru,750,2586
+Peru,758,2497
+Peru,766,2335
+Peru,774,2181
+Peru,782,2021
+Peru,790,1878
+Peru,798,1810
+Peru,806,1774
+Peru,814,1733
+Peru,822,1618
+Peru,830,1488
+Peru,838,1383
+Peru,846,1324
+Peru,854,1295
+Peru,862,1301
+Peru,870,1305
+Peru,878,1328
+Peru,886,1305
+Peru,894,1288
+Peru,902,1271
+Peru,910,1296
+Peru,918,1304
+Peru,926,1296
+Peru,934,1254
+Peru,942,1277
+Peru,950,1291
+Peru,958,1330
+Peru,966,1294
+Peru,974,1260
+Peru,982,1209
+Peru,990,1150
+Peru,998,1084
+Peru,1006,1043
+Peru,1014,1029
+Peru,1022,1043
+Peru,1030,1007
+Peru,1038,958
+Peru,1046,876
+Peru,1054,850
+Peru,1062,841
+Peru,1070,870
+Peru,1078,903
+Peru,1086,937
+Peru,1094,947
+Peru,1102,934
+Peru,1110,905
+Peru,1118,885
+Peru,1126,883
+Peru,1134,907
+Peru,1142,929
+Peru,1150,945
+Peru,1158,924
+Peru,1166,892
+Peru,1174,849
+Peru,1182,820
+Peru,1190,801
+Peru,1198,793
+Peru,1206,790
+Philippines,0,12
+Philippines,4,16
+Philippines,9,23
+Philippines,14,31
+Philippines,19,43
+Philippines,24,57
+Philippines,29,73
+Philippines,34,88
+Philippines,39,108
+Philippines,44,131
+Philippines,49,161
+Philippines,54,199
+Philippines,59,247
+Philippines,63,291
+Philippines,68,342
+Philippines,73,400
+Philippines,78,474
+Philippines,83,561
+Philippines,88,648
+Philippines,93,748
+Philippines,98,845
+Philippines,103,950
+Philippines,108,1062
+Philippines,113,1191
+Philippines,118,1351
+Philippines,122,1505
+Philippines,127,1633
+Philippines,132,1729
+Philippines,137,1806
+Philippines,142,1897
+Philippines,147,1979
+Philippines,152,2070
+Philippines,157,2134
+Philippines,162,2160
+Philippines,167,2134
+Philippines,172,2075
+Philippines,177,2021
+Philippines,181,1987
+Philippines,186,1969
+Philippines,191,1951
+Philippines,196,1905
+Philippines,201,1830
+Philippines,206,1741
+Philippines,211,1669
+Philippines,216,1631
+Philippines,221,1626
+Philippines,226,1624
+Philippines,231,1606
+Philippines,236,1561
+Philippines,240,1499
+Philippines,245,1448
+Philippines,250,1416
+Philippines,255,1414
+Philippines,260,1408
+Philippines,265,1381
+Philippines,270,1335
+Philippines,275,1282
+Philippines,280,1235
+Philippines,285,1201
+Philippines,290,1175
+Philippines,295,1162
+Philippines,299,1127
+Philippines,304,1082
+Philippines,309,1025
+Philippines,314,978
+Philippines,319,945
+Philippines,324,918
+Philippines,329,881
+Philippines,334,831
+Philippines,339,768
+Philippines,344,718
+Philippines,349,674
+Philippines,354,647
+Philippines,358,620
+Philippines,363,588
+Philippines,368,548
+Philippines,373,513
+Philippines,378,481
+Philippines,383,458
+Philippines,388,436
+Philippines,393,424
+Philippines,398,407
+Philippines,403,385
+Philippines,408,358
+Philippines,413,336
+Philippines,417,324
+Philippines,422,316
+Philippines,427,304
+Philippines,432,290
+Philippines,437,269
+Philippines,442,252
+Philippines,447,236
+Philippines,452,227
+Philippines,457,223
+Philippines,462,219
+Philippines,467,211
+Philippines,472,197
+Philippines,476,184
+Philippines,481,171
+Philippines,486,159
+Philippines,491,153
+Philippines,496,150
+Philippines,501,146
+Philippines,506,137
+Philippines,511,126
+Philippines,516,117
+Philippines,521,112
+Philippines,526,109
+Philippines,531,110
+Philippines,535,110
+Philippines,540,112
+Philippines,545,110
+Philippines,550,109
+Philippines,555,107
+Philippines,560,109
+Philippines,565,110
+Philippines,570,109
+Philippines,575,106
+Philippines,580,108
+Philippines,585,109
+Philippines,590,112
+Philippines,594,109
+Philippines,599,106
+Philippines,604,102
+Philippines,609,97
+Philippines,614,91
+Philippines,619,88
+Philippines,624,87
+Philippines,629,88
+Philippines,634,85
+Philippines,639,81
+Philippines,644,74
+Philippines,649,71
+Philippines,653,71
+Philippines,658,73
+Philippines,663,76
+Philippines,668,79
+Philippines,673,80
+Philippines,678,79
+Philippines,683,76
+Philippines,688,74
+Philippines,693,74
+Philippines,698,76
+Philippines,703,78
+Philippines,708,80
+Philippines,712,78
+Philippines,717,75
+Philippines,722,71
+Philippines,727,69
+Philippines,732,67
+Philippines,737,67
+Philippines,742,66
+Poland,0,2
+Poland,2,3
+Poland,4,4
+Poland,6,6
+Poland,8,8
+Poland,10,11
+Poland,12,14
+Poland,14,18
+Poland,16,22
+Poland,18,26
+Poland,20,32
+Poland,22,40
+Poland,24,50
+Poland,26,59
+Poland,28,69
+Poland,30,81
+Poland,32,96
+Poland,34,114
+Poland,37,132
+Poland,39,152
+Poland,41,172
+Poland,43,194
+Poland,45,216
+Poland,47,243
+Poland,49,275
+Poland,51,307
+Poland,53,333
+Poland,55,352
+Poland,57,368
+Poland,59,387
+Poland,61,404
+Poland,63,422
+Poland,65,435
+Poland,67,440
+Poland,69,435
+Poland,71,423
+Poland,74,412
+Poland,76,405
+Poland,78,402
+Poland,80,398
+Poland,82,389
+Poland,84,373
+Poland,86,355
+Poland,88,340
+Poland,90,333
+Poland,92,331
+Poland,94,331
+Poland,96,327
+Poland,98,318
+Poland,100,306
+Poland,102,295
+Poland,104,289
+Poland,106,288
+Poland,108,287
+Poland,111,282
+Poland,113,272
+Poland,115,261
+Poland,117,252
+Poland,119,245
+Poland,121,239
+Poland,123,237
+Poland,125,230
+Poland,127,221
+Poland,129,209
+Poland,131,199
+Poland,133,192
+Poland,135,187
+Poland,137,179
+Poland,139,169
+Poland,141,156
+Poland,143,146
+Poland,145,137
+Poland,148,132
+Poland,150,126
+Poland,152,120
+Poland,154,111
+Poland,156,104
+Poland,158,98
+Poland,160,93
+Poland,162,89
+Poland,164,86
+Poland,166,83
+Poland,168,78
+Poland,170,73
+Poland,172,68
+Poland,174,66
+Poland,176,64
+Poland,178,62
+Poland,180,59
+Poland,183,55
+Poland,185,51
+Poland,187,48
+Poland,189,46
+Poland,191,45
+Poland,193,44
+Poland,195,43
+Poland,197,40
+Poland,199,37
+Poland,201,34
+Poland,203,32
+Poland,205,31
+Poland,207,30
+Poland,209,29
+Poland,211,27
+Poland,213,25
+Poland,215,23
+Poland,217,22
+Poland,220,22
+Poland,222,22
+Poland,224,22
+Poland,226,22
+Poland,228,22
+Poland,230,22
+Poland,232,21
+Poland,234,22
+Poland,236,22
+Poland,238,22
+Poland,240,21
+Poland,242,22
+Poland,244,22
+Poland,246,22
+Poland,248,22
+Poland,250,21
+Poland,252,20
+Poland,254,19
+Poland,257,18
+Poland,259,18
+Poland,261,17
+Poland,263,18
+Poland,265,17
+Poland,267,16
+Poland,269,15
+Poland,271,14
+Poland,273,14
+Poland,275,15
+Poland,277,15
+Poland,279,16
+Poland,281,16
+Poland,283,16
+Poland,285,15
+Poland,287,15
+Poland,289,15
+Poland,291,15
+Poland,294,16
+Poland,296,16
+Poland,298,15
+Poland,300,15
+Poland,302,14
+Poland,304,14
+Poland,306,13
+Poland,308,13
+Poland,310,13
+Portugal,0,4
+Portugal,1,5
+Portugal,2,8
+Portugal,3,11
+Portugal,4,15
+Portugal,5,20
+Portugal,6,25
+Portugal,7,31
+Portugal,8,38
+Portugal,9,46
+Portugal,10,57
+Portugal,11,70
+Portugal,12,87
+Portugal,14,103
+Portugal,15,121
+Portugal,16,142
+Portugal,17,168
+Portugal,18,199
+Portugal,19,230
+Portugal,20,266
+Portugal,21,300
+Portugal,22,337
+Portugal,23,377
+Portugal,24,423
+Portugal,25,480
+Portugal,26,534
+Portugal,28,580
+Portugal,29,614
+Portugal,30,641
+Portugal,31,674
+Portugal,32,703
+Portugal,33,735
+Portugal,34,758
+Portugal,35,767
+Portugal,36,758
+Portugal,37,737
+Portugal,38,718
+Portugal,39,706
+Portugal,41,699
+Portugal,42,693
+Portugal,43,677
+Portugal,44,650
+Portugal,45,618
+Portugal,46,593
+Portugal,47,579
+Portugal,48,577
+Portugal,49,577
+Portugal,50,570
+Portugal,51,554
+Portugal,52,532
+Portugal,53,514
+Portugal,55,503
+Portugal,56,502
+Portugal,57,500
+Portugal,58,490
+Portugal,59,474
+Portugal,60,455
+Portugal,61,438
+Portugal,62,426
+Portugal,63,417
+Portugal,64,413
+Portugal,65,400
+Portugal,66,384
+Portugal,68,364
+Portugal,69,347
+Portugal,70,335
+Portugal,71,326
+Portugal,72,313
+Portugal,73,295
+Portugal,74,273
+Portugal,75,255
+Portugal,76,239
+Portugal,77,230
+Portugal,78,220
+Portugal,79,208
+Portugal,80,194
+Portugal,82,182
+Portugal,83,170
+Portugal,84,162
+Portugal,85,155
+Portugal,86,150
+Portugal,87,144
+Portugal,88,136
+Portugal,89,127
+Portugal,90,119
+Portugal,91,115
+Portugal,92,112
+Portugal,93,108
+Portugal,95,103
+Portugal,96,95
+Portugal,97,89
+Portugal,98,84
+Portugal,99,80
+Portugal,100,79
+Portugal,101,77
+Portugal,102,75
+Portugal,103,70
+Portugal,104,65
+Portugal,105,60
+Portugal,106,56
+Portugal,107,54
+Portugal,109,53
+Portugal,110,52
+Portugal,111,48
+Portugal,112,44
+Portugal,113,41
+Portugal,114,39
+Portugal,115,38
+Portugal,116,39
+Portugal,117,39
+Portugal,118,39
+Portugal,119,39
+Portugal,120,38
+Portugal,122,38
+Portugal,123,38
+Portugal,124,39
+Portugal,125,39
+Portugal,126,37
+Portugal,127,38
+Portugal,128,38
+Portugal,129,40
+Portugal,130,38
+Portugal,131,37
+Portugal,132,36
+Portugal,133,34
+Portugal,134,32
+Portugal,136,31
+Portugal,137,30
+Portugal,138,31
+Portugal,139,30
+Portugal,140,28
+Portugal,141,26
+Portugal,142,25
+Portugal,143,25
+Portugal,144,26
+Portugal,145,27
+Portugal,146,28
+Portugal,147,28
+Portugal,149,28
+Portugal,150,27
+Portugal,151,26
+Portugal,152,26
+Portugal,153,27
+Portugal,154,27
+Portugal,155,28
+Portugal,156,27
+Portugal,157,26
+Portugal,158,25
+Portugal,159,24
+Portugal,160,24
+Portugal,161,23
+Portugal,163,23
+Puerto Rico,0,2
+Puerto Rico,4,2
+Puerto Rico,8,4
+Puerto Rico,12,5
+Puerto Rico,16,7
+Puerto Rico,20,9
+Puerto Rico,24,12
+Puerto Rico,28,15
+Puerto Rico,32,18
+Puerto Rico,36,22
+Puerto Rico,40,28
+Puerto Rico,44,34
+Puerto Rico,48,43
+Puerto Rico,53,50
+Puerto Rico,57,59
+Puerto Rico,61,69
+Puerto Rico,65,82
+Puerto Rico,69,97
+Puerto Rico,73,113
+Puerto Rico,77,130
+Puerto Rico,81,147
+Puerto Rico,85,165
+Puerto Rico,89,185
+Puerto Rico,93,208
+Puerto Rico,97,236
+Puerto Rico,101,262
+Puerto Rico,106,285
+Puerto Rico,110,301
+Puerto Rico,114,315
+Puerto Rico,118,331
+Puerto Rico,122,345
+Puerto Rico,126,361
+Puerto Rico,130,372
+Puerto Rico,134,377
+Puerto Rico,138,372
+Puerto Rico,142,362
+Puerto Rico,146,352
+Puerto Rico,150,347
+Puerto Rico,155,343
+Puerto Rico,159,340
+Puerto Rico,163,332
+Puerto Rico,167,319
+Puerto Rico,171,304
+Puerto Rico,175,291
+Puerto Rico,179,284
+Puerto Rico,183,283
+Puerto Rico,187,283
+Puerto Rico,191,280
+Puerto Rico,195,272
+Puerto Rico,199,261
+Puerto Rico,203,252
+Puerto Rico,208,247
+Puerto Rico,212,246
+Puerto Rico,216,245
+Puerto Rico,220,241
+Puerto Rico,224,233
+Puerto Rico,228,223
+Puerto Rico,232,215
+Puerto Rico,236,209
+Puerto Rico,240,205
+Puerto Rico,244,203
+Puerto Rico,248,196
+Puerto Rico,252,189
+Puerto Rico,257,179
+Puerto Rico,261,170
+Puerto Rico,265,165
+Puerto Rico,269,160
+Puerto Rico,273,153
+Puerto Rico,277,145
+Puerto Rico,281,134
+Puerto Rico,285,125
+Puerto Rico,289,117
+Puerto Rico,293,113
+Puerto Rico,297,108
+Puerto Rico,301,102
+Puerto Rico,305,95
+Puerto Rico,310,89
+Puerto Rico,314,84
+Puerto Rico,318,79
+Puerto Rico,322,76
+Puerto Rico,326,74
+Puerto Rico,330,71
+Puerto Rico,334,67
+Puerto Rico,338,62
+Puerto Rico,342,58
+Puerto Rico,346,56
+Puerto Rico,350,55
+Puerto Rico,354,53
+Puerto Rico,358,50
+Puerto Rico,363,47
+Puerto Rico,367,44
+Puerto Rico,371,41
+Puerto Rico,375,39
+Puerto Rico,379,39
+Puerto Rico,383,38
+Puerto Rico,387,36
+Puerto Rico,391,34
+Puerto Rico,395,32
+Puerto Rico,399,29
+Puerto Rico,403,27
+Puerto Rico,407,26
+Puerto Rico,412,26
+Puerto Rico,416,25
+Puerto Rico,420,23
+Puerto Rico,424,22
+Puerto Rico,428,20
+Puerto Rico,432,19
+Puerto Rico,436,19
+Puerto Rico,440,19
+Puerto Rico,444,19
+Puerto Rico,448,19
+Puerto Rico,452,19
+Puerto Rico,456,19
+Puerto Rico,460,18
+Puerto Rico,465,19
+Puerto Rico,469,19
+Puerto Rico,473,19
+Puerto Rico,477,18
+Puerto Rico,481,18
+Puerto Rico,485,19
+Puerto Rico,489,19
+Puerto Rico,493,19
+Puerto Rico,497,18
+Puerto Rico,501,17
+Puerto Rico,505,17
+Puerto Rico,509,16
+Puerto Rico,514,15
+Puerto Rico,518,15
+Puerto Rico,522,15
+Puerto Rico,526,14
+Puerto Rico,530,14
+Puerto Rico,534,12
+Puerto Rico,538,12
+Puerto Rico,542,12
+Puerto Rico,546,12
+Puerto Rico,550,13
+Puerto Rico,554,13
+Puerto Rico,558,14
+Puerto Rico,562,13
+Puerto Rico,567,13
+Puerto Rico,571,13
+Puerto Rico,575,13
+Puerto Rico,579,13
+Puerto Rico,583,13
+Puerto Rico,587,13
+Puerto Rico,591,13
+Puerto Rico,595,13
+Puerto Rico,599,12
+Puerto Rico,603,12
+Puerto Rico,607,11
+Puerto Rico,611,11
+Puerto Rico,616,11
+Qatar,0,9
+Qatar,2,12
+Qatar,4,17
+Qatar,7,23
+Qatar,9,32
+Qatar,11,42
+Qatar,14,54
+Qatar,16,65
+Qatar,19,80
+Qatar,21,97
+Qatar,23,119
+Qatar,26,147
+Qatar,28,183
+Qatar,31,215
+Qatar,33,253
+Qatar,35,296
+Qatar,38,351
+Qatar,40,415
+Qatar,43,480
+Qatar,45,554
+Qatar,47,626
+Qatar,50,703
+Qatar,52,786
+Qatar,55,882
+Qatar,57,1000
+Qatar,59,1114
+Qatar,62,1209
+Qatar,64,1280
+Qatar,67,1337
+Qatar,69,1404
+Qatar,71,1465
+Qatar,74,1533
+Qatar,76,1580
+Qatar,79,1599
+Qatar,81,1580
+Qatar,83,1536
+Qatar,86,1496
+Qatar,88,1471
+Qatar,91,1458
+Qatar,93,1444
+Qatar,95,1411
+Qatar,98,1355
+Qatar,100,1289
+Qatar,103,1236
+Qatar,105,1208
+Qatar,107,1204
+Qatar,110,1202
+Qatar,112,1189
+Qatar,115,1155
+Qatar,117,1110
+Qatar,119,1072
+Qatar,122,1048
+Qatar,124,1046
+Qatar,127,1043
+Qatar,129,1023
+Qatar,131,988
+Qatar,134,949
+Qatar,136,914
+Qatar,139,889
+Qatar,141,870
+Qatar,143,860
+Qatar,146,834
+Qatar,148,801
+Qatar,151,759
+Qatar,153,724
+Qatar,155,699
+Qatar,158,679
+Qatar,160,652
+Qatar,163,615
+Qatar,165,569
+Qatar,167,532
+Qatar,170,499
+Qatar,172,479
+Qatar,175,459
+Qatar,177,435
+Qatar,179,405
+Qatar,182,379
+Qatar,184,356
+Qatar,187,339
+Qatar,189,323
+Qatar,191,314
+Qatar,194,301
+Qatar,196,285
+Qatar,199,265
+Qatar,201,249
+Qatar,203,239
+Qatar,206,234
+Qatar,208,225
+Qatar,211,215
+Qatar,213,199
+Qatar,215,187
+Qatar,218,175
+Qatar,220,168
+Qatar,223,165
+Qatar,225,162
+Qatar,227,156
+Qatar,230,146
+Qatar,232,136
+Qatar,235,126
+Qatar,237,117
+Qatar,239,113
+Qatar,242,111
+Qatar,244,108
+Qatar,247,101
+Qatar,249,93
+Qatar,251,86
+Qatar,254,83
+Qatar,256,81
+Qatar,259,81
+Qatar,261,81
+Qatar,263,83
+Qatar,266,81
+Qatar,268,80
+Qatar,270,79
+Qatar,273,81
+Qatar,275,81
+Qatar,278,81
+Qatar,280,78
+Qatar,282,80
+Qatar,285,80
+Qatar,287,83
+Qatar,290,81
+Qatar,292,79
+Qatar,294,75
+Qatar,297,72
+Qatar,299,67
+Qatar,302,65
+Qatar,304,64
+Qatar,306,65
+Qatar,309,63
+Qatar,311,60
+Qatar,314,54
+Qatar,316,53
+Qatar,318,52
+Qatar,321,54
+Qatar,323,56
+Qatar,326,58
+Qatar,328,59
+Qatar,330,58
+Qatar,333,56
+Qatar,335,55
+Qatar,338,55
+Qatar,340,56
+Qatar,342,58
+Qatar,345,59
+Qatar,347,57
+Qatar,350,55
+Qatar,352,53
+Qatar,354,51
+Qatar,357,50
+Qatar,359,49
+Qatar,362,49
+Romania,0,3
+Romania,4,5
+Romania,9,7
+Romania,14,9
+Romania,19,13
+Romania,24,17
+Romania,29,22
+Romania,34,27
+Romania,39,33
+Romania,44,41
+Romania,48,50
+Romania,53,62
+Romania,58,77
+Romania,63,91
+Romania,68,107
+Romania,73,125
+Romania,78,148
+Romania,83,175
+Romania,88,203
+Romania,93,234
+Romania,97,264
+Romania,102,297
+Romania,107,332
+Romania,112,373
+Romania,117,423
+Romania,122,470
+Romania,127,511
+Romania,132,541
+Romania,137,565
+Romania,142,593
+Romania,146,619
+Romania,151,647
+Romania,156,667
+Romania,161,675
+Romania,166,667
+Romania,171,649
+Romania,176,632
+Romania,181,622
+Romania,186,616
+Romania,191,610
+Romania,195,596
+Romania,200,572
+Romania,205,544
+Romania,210,522
+Romania,215,510
+Romania,220,508
+Romania,225,508
+Romania,230,502
+Romania,235,488
+Romania,240,469
+Romania,244,453
+Romania,249,443
+Romania,254,442
+Romania,259,440
+Romania,264,432
+Romania,269,417
+Romania,274,401
+Romania,279,386
+Romania,284,375
+Romania,289,367
+Romania,293,363
+Romania,298,352
+Romania,303,338
+Romania,308,321
+Romania,313,306
+Romania,318,295
+Romania,323,287
+Romania,328,275
+Romania,333,260
+Romania,338,240
+Romania,342,224
+Romania,347,210
+Romania,352,202
+Romania,357,194
+Romania,362,184
+Romania,367,171
+Romania,372,160
+Romania,377,150
+Romania,382,143
+Romania,387,136
+Romania,391,132
+Romania,396,127
+Romania,401,120
+Romania,406,112
+Romania,411,105
+Romania,416,101
+Romania,421,98
+Romania,426,95
+Romania,431,90
+Romania,436,84
+Romania,440,79
+Romania,445,74
+Romania,450,71
+Romania,455,70
+Romania,460,68
+Romania,465,66
+Romania,470,61
+Romania,475,57
+Romania,480,53
+Romania,485,49
+Romania,489,47
+Romania,494,47
+Romania,499,45
+Romania,504,42
+Romania,509,39
+Romania,514,36
+Romania,519,35
+Romania,524,34
+Romania,529,34
+Romania,534,34
+Romania,538,35
+Romania,543,34
+Romania,548,34
+Romania,553,33
+Romania,558,34
+Romania,563,34
+Romania,568,34
+Romania,573,33
+Romania,578,33
+Romania,583,34
+Romania,587,35
+Romania,592,34
+Romania,597,33
+Romania,602,32
+Romania,607,30
+Romania,612,28
+Romania,617,27
+Romania,622,27
+Romania,627,27
+Romania,632,26
+Romania,636,25
+Romania,641,23
+Romania,646,22
+Romania,651,22
+Romania,656,23
+Romania,661,23
+Romania,666,24
+Romania,671,25
+Romania,676,24
+Romania,681,23
+Romania,685,23
+Romania,690,23
+Romania,695,24
+Romania,700,24
+Romania,705,25
+Romania,710,24
+Romania,715,23
+Romania,720,22
+Romania,725,21
+Romania,730,21
+Romania,734,21
+Romania,739,20
+Russia,0,65
+Russia,2,84
+Russia,4,118
+Russia,6,161
+Russia,8,223
+Russia,10,292
+Russia,12,373
+Russia,14,453
+Russia,16,554
+Russia,18,670
+Russia,21,824
+Russia,23,1019
+Russia,25,1267
+Russia,27,1489
+Russia,29,1752
+Russia,31,2047
+Russia,33,2430
+Russia,35,2870
+Russia,37,3320
+Russia,40,3831
+Russia,42,4325
+Russia,44,4863
+Russia,46,5437
+Russia,48,6098
+Russia,50,6916
+Russia,52,7700
+Russia,54,8360
+Russia,56,8846
+Russia,59,9241
+Russia,61,9707
+Russia,63,10128
+Russia,65,10594
+Russia,67,10920
+Russia,69,11051
+Russia,71,10919
+Russia,73,10619
+Russia,75,10343
+Russia,77,10170
+Russia,80,10077
+Russia,82,9984
+Russia,84,9750
+Russia,86,9367
+Russia,88,8909
+Russia,90,8543
+Russia,92,8348
+Russia,94,8320
+Russia,96,8311
+Russia,99,8216
+Russia,101,7987
+Russia,103,7670
+Russia,105,7412
+Russia,107,7245
+Russia,109,7234
+Russia,111,7208
+Russia,113,7070
+Russia,115,6832
+Russia,118,6561
+Russia,120,6321
+Russia,122,6146
+Russia,124,6014
+Russia,126,5949
+Russia,128,5768
+Russia,130,5540
+Russia,132,5248
+Russia,134,5008
+Russia,136,4835
+Russia,139,4697
+Russia,141,4511
+Russia,143,4256
+Russia,145,3934
+Russia,147,3676
+Russia,149,3448
+Russia,151,3313
+Russia,153,3172
+Russia,155,3009
+Russia,158,2803
+Russia,160,2624
+Russia,162,2462
+Russia,164,2343
+Russia,166,2232
+Russia,168,2170
+Russia,170,2086
+Russia,172,1971
+Russia,174,1836
+Russia,177,1723
+Russia,179,1657
+Russia,181,1617
+Russia,183,1558
+Russia,185,1486
+Russia,187,1379
+Russia,189,1293
+Russia,191,1210
+Russia,193,1164
+Russia,195,1145
+Russia,198,1120
+Russia,200,1082
+Russia,202,1011
+Russia,204,944
+Russia,206,876
+Russia,208,813
+Russia,210,784
+Russia,212,768
+Russia,214,750
+Russia,217,701
+Russia,219,645
+Russia,221,599
+Russia,223,573
+Russia,225,561
+Russia,227,563
+Russia,229,565
+Russia,231,575
+Russia,233,565
+Russia,236,558
+Russia,238,551
+Russia,240,561
+Russia,242,565
+Russia,244,561
+Russia,246,543
+Russia,248,553
+Russia,250,559
+Russia,252,576
+Russia,254,560
+Russia,257,545
+Russia,259,524
+Russia,261,498
+Russia,263,469
+Russia,265,452
+Russia,267,445
+Russia,269,452
+Russia,271,436
+Russia,273,415
+Russia,276,379
+Russia,278,368
+Russia,280,364
+Russia,282,377
+Russia,284,391
+Russia,286,406
+Russia,288,410
+Russia,290,405
+Russia,292,392
+Russia,295,383
+Russia,297,382
+Russia,299,393
+Russia,301,402
+Russia,303,409
+Russia,305,400
+Russia,307,386
+Russia,309,367
+Russia,311,355
+Russia,313,347
+Russia,316,343
+Russia,318,342
+Saudi Arabia,0,20
+Saudi Arabia,3,27
+Saudi Arabia,6,37
+Saudi Arabia,9,51
+Saudi Arabia,12,71
+Saudi Arabia,15,93
+Saudi Arabia,19,119
+Saudi Arabia,22,145
+Saudi Arabia,25,177
+Saudi Arabia,28,214
+Saudi Arabia,31,263
+Saudi Arabia,35,326
+Saudi Arabia,38,405
+Saudi Arabia,41,477
+Saudi Arabia,44,561
+Saudi Arabia,47,655
+Saudi Arabia,50,778
+Saudi Arabia,54,919
+Saudi Arabia,57,1063
+Saudi Arabia,60,1227
+Saudi Arabia,63,1385
+Saudi Arabia,66,1557
+Saudi Arabia,70,1741
+Saudi Arabia,73,1953
+Saudi Arabia,76,2215
+Saudi Arabia,79,2466
+Saudi Arabia,82,2677
+Saudi Arabia,85,2833
+Saudi Arabia,89,2959
+Saudi Arabia,92,3109
+Saudi Arabia,95,3244
+Saudi Arabia,98,3393
+Saudi Arabia,101,3497
+Saudi Arabia,105,3539
+Saudi Arabia,108,3497
+Saudi Arabia,111,3401
+Saudi Arabia,114,3312
+Saudi Arabia,117,3257
+Saudi Arabia,121,3227
+Saudi Arabia,124,3198
+Saudi Arabia,127,3123
+Saudi Arabia,130,3000
+Saudi Arabia,133,2853
+Saudi Arabia,136,2736
+Saudi Arabia,140,2673
+Saudi Arabia,143,2664
+Saudi Arabia,146,2662
+Saudi Arabia,149,2631
+Saudi Arabia,152,2558
+Saudi Arabia,156,2456
+Saudi Arabia,159,2374
+Saudi Arabia,162,2320
+Saudi Arabia,165,2317
+Saudi Arabia,168,2308
+Saudi Arabia,171,2264
+Saudi Arabia,175,2188
+Saudi Arabia,178,2101
+Saudi Arabia,181,2024
+Saudi Arabia,184,1968
+Saudi Arabia,187,1926
+Saudi Arabia,191,1905
+Saudi Arabia,194,1847
+Saudi Arabia,197,1774
+Saudi Arabia,200,1681
+Saudi Arabia,203,1604
+Saudi Arabia,206,1548
+Saudi Arabia,210,1504
+Saudi Arabia,213,1444
+Saudi Arabia,216,1363
+Saudi Arabia,219,1260
+Saudi Arabia,222,1177
+Saudi Arabia,226,1104
+Saudi Arabia,229,1061
+Saudi Arabia,232,1016
+Saudi Arabia,235,964
+Saudi Arabia,238,898
+Saudi Arabia,242,840
+Saudi Arabia,245,788
+Saudi Arabia,248,750
+Saudi Arabia,251,715
+Saudi Arabia,254,695
+Saudi Arabia,257,668
+Saudi Arabia,261,631
+Saudi Arabia,264,588
+Saudi Arabia,267,552
+Saudi Arabia,270,530
+Saudi Arabia,273,518
+Saudi Arabia,277,499
+Saudi Arabia,280,476
+Saudi Arabia,283,441
+Saudi Arabia,286,414
+Saudi Arabia,289,387
+Saudi Arabia,292,372
+Saudi Arabia,296,366
+Saudi Arabia,299,358
+Saudi Arabia,302,346
+Saudi Arabia,305,324
+Saudi Arabia,308,302
+Saudi Arabia,312,280
+Saudi Arabia,315,260
+Saudi Arabia,318,251
+Saudi Arabia,321,246
+Saudi Arabia,324,240
+Saudi Arabia,328,224
+Saudi Arabia,331,206
+Saudi Arabia,334,191
+Saudi Arabia,337,183
+Saudi Arabia,340,179
+Saudi Arabia,343,180
+Saudi Arabia,347,181
+Saudi Arabia,350,184
+Saudi Arabia,353,181
+Saudi Arabia,356,178
+Saudi Arabia,359,176
+Saudi Arabia,363,179
+Saudi Arabia,366,181
+Saudi Arabia,369,179
+Saudi Arabia,372,174
+Saudi Arabia,375,177
+Saudi Arabia,378,179
+Saudi Arabia,382,184
+Saudi Arabia,385,179
+Saudi Arabia,388,174
+Saudi Arabia,391,167
+Saudi Arabia,394,159
+Saudi Arabia,398,150
+Saudi Arabia,401,144
+Saudi Arabia,404,142
+Saudi Arabia,407,144
+Saudi Arabia,410,139
+Saudi Arabia,413,133
+Saudi Arabia,417,121
+Saudi Arabia,420,117
+Saudi Arabia,423,116
+Saudi Arabia,426,120
+Saudi Arabia,429,125
+Saudi Arabia,433,130
+Saudi Arabia,436,131
+Saudi Arabia,439,129
+Saudi Arabia,442,125
+Saudi Arabia,445,122
+Saudi Arabia,449,122
+Saudi Arabia,452,125
+Saudi Arabia,455,129
+Saudi Arabia,458,131
+Saudi Arabia,461,128
+Saudi Arabia,464,123
+Saudi Arabia,468,117
+Saudi Arabia,471,113
+Saudi Arabia,474,111
+Saudi Arabia,477,110
+Saudi Arabia,480,109
+Serbia,0,1
+Serbia,4,2
+Serbia,8,3
+Serbia,13,4
+Serbia,17,6
+Serbia,21,8
+Serbia,26,10
+Serbia,30,13
+Serbia,35,16
+Serbia,39,19
+Serbia,43,23
+Serbia,48,29
+Serbia,52,36
+Serbia,57,43
+Serbia,61,50
+Serbia,65,59
+Serbia,70,70
+Serbia,74,83
+Serbia,79,96
+Serbia,83,110
+Serbia,87,125
+Serbia,92,140
+Serbia,96,157
+Serbia,101,176
+Serbia,105,200
+Serbia,109,223
+Serbia,114,242
+Serbia,118,256
+Serbia,122,267
+Serbia,127,281
+Serbia,131,293
+Serbia,136,306
+Serbia,140,316
+Serbia,144,320
+Serbia,149,316
+Serbia,153,307
+Serbia,158,299
+Serbia,162,294
+Serbia,166,291
+Serbia,171,289
+Serbia,175,282
+Serbia,180,271
+Serbia,184,258
+Serbia,188,247
+Serbia,193,241
+Serbia,197,240
+Serbia,202,240
+Serbia,206,238
+Serbia,210,231
+Serbia,215,222
+Serbia,219,214
+Serbia,224,209
+Serbia,228,209
+Serbia,232,208
+Serbia,237,204
+Serbia,241,197
+Serbia,245,190
+Serbia,250,183
+Serbia,254,178
+Serbia,259,174
+Serbia,263,172
+Serbia,267,167
+Serbia,272,160
+Serbia,276,152
+Serbia,281,145
+Serbia,285,140
+Serbia,289,136
+Serbia,294,130
+Serbia,298,123
+Serbia,303,113
+Serbia,307,106
+Serbia,311,99
+Serbia,316,95
+Serbia,320,91
+Serbia,325,87
+Serbia,329,81
+Serbia,333,76
+Serbia,338,71
+Serbia,342,67
+Serbia,347,64
+Serbia,351,62
+Serbia,355,60
+Serbia,360,57
+Serbia,364,53
+Serbia,368,49
+Serbia,373,48
+Serbia,377,46
+Serbia,382,45
+Serbia,386,43
+Serbia,390,39
+Serbia,395,37
+Serbia,399,35
+Serbia,404,33
+Serbia,408,33
+Serbia,412,32
+Serbia,417,31
+Serbia,421,29
+Serbia,426,27
+Serbia,430,25
+Serbia,434,23
+Serbia,439,22
+Serbia,443,22
+Serbia,448,21
+Serbia,452,20
+Serbia,456,18
+Serbia,461,17
+Serbia,465,16
+Serbia,470,16
+Serbia,474,16
+Serbia,478,16
+Serbia,483,16
+Serbia,487,16
+Serbia,491,16
+Serbia,496,15
+Serbia,500,16
+Serbia,505,16
+Serbia,509,16
+Serbia,513,15
+Serbia,518,16
+Serbia,522,16
+Serbia,527,16
+Serbia,531,16
+Serbia,535,15
+Serbia,540,15
+Serbia,544,14
+Serbia,549,13
+Serbia,553,13
+Serbia,557,12
+Serbia,562,13
+Serbia,566,12
+Serbia,571,12
+Serbia,575,10
+Serbia,579,10
+Serbia,584,10
+Serbia,588,10
+Serbia,593,11
+Serbia,597,11
+Serbia,601,11
+Serbia,606,11
+Serbia,610,11
+Serbia,614,11
+Serbia,619,11
+Serbia,623,11
+Serbia,628,11
+Serbia,632,11
+Serbia,636,11
+Serbia,641,11
+Serbia,645,10
+Serbia,650,10
+Serbia,654,10
+Serbia,658,9
+Serbia,663,9
+Singapore,0,4
+Singapore,2,5
+Singapore,5,7
+Singapore,8,10
+Singapore,11,14
+Singapore,13,18
+Singapore,16,23
+Singapore,19,28
+Singapore,22,34
+Singapore,24,42
+Singapore,27,51
+Singapore,30,64
+Singapore,33,79
+Singapore,35,93
+Singapore,38,110
+Singapore,41,128
+Singapore,44,152
+Singapore,47,180
+Singapore,49,208
+Singapore,52,240
+Singapore,55,271
+Singapore,58,305
+Singapore,60,341
+Singapore,63,382
+Singapore,66,434
+Singapore,69,483
+Singapore,71,524
+Singapore,74,555
+Singapore,77,580
+Singapore,80,609
+Singapore,82,635
+Singapore,85,665
+Singapore,88,685
+Singapore,91,693
+Singapore,94,685
+Singapore,96,666
+Singapore,99,649
+Singapore,102,638
+Singapore,105,632
+Singapore,107,626
+Singapore,110,612
+Singapore,113,588
+Singapore,116,559
+Singapore,118,536
+Singapore,121,524
+Singapore,124,522
+Singapore,127,521
+Singapore,130,515
+Singapore,132,501
+Singapore,135,481
+Singapore,138,465
+Singapore,141,454
+Singapore,143,454
+Singapore,146,452
+Singapore,149,443
+Singapore,152,429
+Singapore,154,412
+Singapore,157,396
+Singapore,160,385
+Singapore,163,377
+Singapore,165,373
+Singapore,168,362
+Singapore,171,347
+Singapore,174,329
+Singapore,177,314
+Singapore,179,303
+Singapore,182,294
+Singapore,185,283
+Singapore,188,267
+Singapore,190,247
+Singapore,193,230
+Singapore,196,216
+Singapore,199,208
+Singapore,201,199
+Singapore,204,188
+Singapore,207,176
+Singapore,210,164
+Singapore,213,154
+Singapore,215,147
+Singapore,218,140
+Singapore,221,136
+Singapore,224,131
+Singapore,226,123
+Singapore,229,115
+Singapore,232,108
+Singapore,235,104
+Singapore,237,101
+Singapore,240,97
+Singapore,243,93
+Singapore,246,86
+Singapore,248,81
+Singapore,251,75
+Singapore,254,73
+Singapore,257,71
+Singapore,260,70
+Singapore,262,67
+Singapore,265,63
+Singapore,268,59
+Singapore,271,55
+Singapore,273,51
+Singapore,276,49
+Singapore,279,48
+Singapore,282,47
+Singapore,284,44
+Singapore,287,40
+Singapore,290,37
+Singapore,293,36
+Singapore,296,35
+Singapore,298,35
+Singapore,301,35
+Singapore,304,36
+Singapore,307,35
+Singapore,309,35
+Singapore,312,34
+Singapore,315,35
+Singapore,318,35
+Singapore,320,35
+Singapore,323,34
+Singapore,326,34
+Singapore,329,35
+Singapore,331,36
+Singapore,334,35
+Singapore,337,34
+Singapore,340,32
+Singapore,343,31
+Singapore,345,29
+Singapore,348,28
+Singapore,351,28
+Singapore,354,28
+Singapore,356,27
+Singapore,359,26
+Singapore,362,23
+Singapore,365,23
+Singapore,367,22
+Singapore,370,23
+Singapore,373,24
+Singapore,376,25
+Singapore,379,25
+Singapore,381,25
+Singapore,384,24
+Singapore,387,24
+Singapore,390,24
+Singapore,392,24
+Singapore,395,25
+Singapore,398,25
+Singapore,401,25
+Singapore,403,24
+Singapore,406,23
+Singapore,409,22
+Singapore,412,21
+Singapore,414,21
+Singapore,417,21
+South Africa,0,260
+South Africa,8,337
+South Africa,16,470
+South Africa,24,643
+South Africa,32,890
+South Africa,40,1163
+South Africa,48,1487
+South Africa,56,1804
+South Africa,64,2210
+South Africa,72,2670
+South Africa,81,3282
+South Africa,89,4060
+South Africa,97,5047
+South Africa,105,5934
+South Africa,113,6978
+South Africa,121,8153
+South Africa,129,9678
+South Africa,137,11433
+South Africa,145,13223
+South Africa,154,15259
+South Africa,162,17228
+South Africa,170,19371
+South Africa,178,21657
+South Africa,186,24288
+South Africa,194,27548
+South Africa,202,30668
+South Africa,210,33296
+South Africa,218,35234
+South Africa,226,36805
+South Africa,235,38661
+South Africa,243,40339
+South Africa,251,42194
+South Africa,259,43492
+South Africa,267,44016
+South Africa,275,43490
+South Africa,283,42296
+South Africa,291,41194
+South Africa,299,40506
+South Africa,308,40136
+South Africa,316,39767
+South Africa,324,38834
+South Africa,332,37308
+South Africa,340,35483
+South Africa,348,34028
+South Africa,356,33249
+South Africa,364,33136
+South Africa,372,33101
+South Africa,380,32726
+South Africa,389,31811
+South Africa,397,30549
+South Africa,405,29523
+South Africa,413,28858
+South Africa,421,28814
+South Africa,429,28707
+South Africa,437,28160
+South Africa,445,27211
+South Africa,453,26134
+South Africa,462,25177
+South Africa,470,24481
+South Africa,478,23956
+South Africa,486,23695
+South Africa,494,22974
+South Africa,502,22065
+South Africa,510,20902
+South Africa,518,19948
+South Africa,526,19260
+South Africa,534,18709
+South Africa,543,17966
+South Africa,551,16951
+South Africa,559,15668
+South Africa,567,14642
+South Africa,575,13735
+South Africa,583,13196
+South Africa,591,12635
+South Africa,599,11987
+South Africa,607,11167
+South Africa,616,10454
+South Africa,624,9806
+South Africa,632,9333
+South Africa,640,8892
+South Africa,648,8645
+South Africa,656,8310
+South Africa,664,7850
+South Africa,672,7315
+South Africa,680,6863
+South Africa,689,6602
+South Africa,697,6441
+South Africa,705,6205
+South Africa,713,5922
+South Africa,721,5495
+South Africa,729,5149
+South Africa,737,4820
+South Africa,745,4636
+South Africa,753,4563
+South Africa,761,4463
+South Africa,770,4309
+South Africa,778,4029
+South Africa,786,3763
+South Africa,794,3489
+South Africa,802,3240
+South Africa,810,3124
+South Africa,818,3061
+South Africa,826,2990
+South Africa,834,2792
+South Africa,843,2568
+South Africa,851,2386
+South Africa,859,2285
+South Africa,867,2236
+South Africa,875,2245
+South Africa,883,2252
+South Africa,891,2292
+South Africa,899,2252
+South Africa,907,2222
+South Africa,915,2194
+South Africa,924,2236
+South Africa,932,2251
+South Africa,940,2237
+South Africa,948,2164
+South Africa,956,2204
+South Africa,964,2227
+South Africa,972,2295
+South Africa,980,2233
+South Africa,988,2174
+South Africa,997,2087
+South Africa,1005,1984
+South Africa,1013,1871
+South Africa,1021,1800
+South Africa,1029,1776
+South Africa,1037,1800
+South Africa,1045,1737
+South Africa,1053,1653
+South Africa,1061,1512
+South Africa,1069,1467
+South Africa,1078,1452
+South Africa,1086,1502
+South Africa,1094,1559
+South Africa,1102,1618
+South Africa,1110,1634
+South Africa,1118,1613
+South Africa,1126,1561
+South Africa,1134,1527
+South Africa,1142,1524
+South Africa,1151,1565
+South Africa,1159,1604
+South Africa,1167,1631
+South Africa,1175,1596
+South Africa,1183,1540
+South Africa,1191,1465
+South Africa,1199,1415
+South Africa,1207,1383
+South Africa,1215,1369
+South Africa,1224,1364
+South Korea,0,3
+South Korea,12,4
+South Korea,24,5
+South Korea,36,8
+South Korea,49,11
+South Korea,61,14
+South Korea,73,18
+South Korea,86,22
+South Korea,98,27
+South Korea,110,33
+South Korea,123,41
+South Korea,135,51
+South Korea,147,63
+South Korea,160,74
+South Korea,172,87
+South Korea,184,102
+South Korea,196,121
+South Korea,209,144
+South Korea,221,166
+South Korea,233,192
+South Korea,246,217
+South Korea,258,244
+South Korea,270,272
+South Korea,283,306
+South Korea,295,347
+South Korea,307,386
+South Korea,320,419
+South Korea,332,443
+South Korea,344,463
+South Korea,357,487
+South Korea,369,508
+South Korea,381,531
+South Korea,393,548
+South Korea,406,554
+South Korea,418,548
+South Korea,430,532
+South Korea,443,519
+South Korea,455,510
+South Korea,467,505
+South Korea,480,501
+South Korea,492,489
+South Korea,504,470
+South Korea,517,447
+South Korea,529,428
+South Korea,541,418
+South Korea,554,417
+South Korea,566,417
+South Korea,578,412
+South Korea,590,400
+South Korea,603,384
+South Korea,615,372
+South Korea,627,363
+South Korea,640,363
+South Korea,652,361
+South Korea,664,354
+South Korea,677,342
+South Korea,689,329
+South Korea,701,317
+South Korea,714,308
+South Korea,726,301
+South Korea,738,298
+South Korea,750,289
+South Korea,763,278
+South Korea,775,263
+South Korea,787,251
+South Korea,800,242
+South Korea,812,235
+South Korea,824,226
+South Korea,837,213
+South Korea,849,197
+South Korea,861,184
+South Korea,874,173
+South Korea,886,166
+South Korea,898,159
+South Korea,911,151
+South Korea,923,140
+South Korea,935,131
+South Korea,947,123
+South Korea,960,117
+South Korea,972,112
+South Korea,984,108
+South Korea,997,104
+South Korea,1009,98
+South Korea,1021,92
+South Korea,1034,86
+South Korea,1046,83
+South Korea,1058,81
+South Korea,1071,78
+South Korea,1083,74
+South Korea,1095,69
+South Korea,1108,64
+South Korea,1120,60
+South Korea,1132,58
+South Korea,1144,57
+South Korea,1157,56
+South Korea,1169,54
+South Korea,1181,50
+South Korea,1194,47
+South Korea,1206,43
+South Korea,1218,40
+South Korea,1231,39
+South Korea,1243,38
+South Korea,1255,37
+South Korea,1268,35
+South Korea,1280,32
+South Korea,1292,30
+South Korea,1304,28
+South Korea,1317,28
+South Korea,1329,28
+South Korea,1341,28
+South Korea,1354,28
+South Korea,1366,28
+South Korea,1378,28
+South Korea,1391,27
+South Korea,1403,28
+South Korea,1415,28
+South Korea,1428,28
+South Korea,1440,27
+South Korea,1452,27
+South Korea,1465,28
+South Korea,1477,28
+South Korea,1489,28
+South Korea,1501,27
+South Korea,1514,26
+South Korea,1526,25
+South Korea,1538,23
+South Korea,1551,22
+South Korea,1563,22
+South Korea,1575,22
+South Korea,1588,21
+South Korea,1600,20
+South Korea,1612,19
+South Korea,1625,18
+South Korea,1637,18
+South Korea,1649,18
+South Korea,1662,19
+South Korea,1674,20
+South Korea,1686,20
+South Korea,1698,20
+South Korea,1711,19
+South Korea,1723,19
+South Korea,1735,19
+South Korea,1748,19
+South Korea,1760,20
+South Korea,1772,20
+South Korea,1785,20
+South Korea,1797,19
+South Korea,1809,18
+South Korea,1822,17
+South Korea,1834,17
+South Korea,1846,17
+South Korea,1859,17
+Spain,0,173
+Spain,15,224
+Spain,31,313
+Spain,46,428
+Spain,62,592
+Spain,77,773
+Spain,93,989
+Spain,108,1200
+Spain,124,1470
+Spain,139,1777
+Spain,155,2184
+Spain,170,2702
+Spain,186,3358
+Spain,201,3948
+Spain,217,4643
+Spain,232,5425
+Spain,248,6440
+Spain,263,7608
+Spain,279,8798
+Spain,294,10154
+Spain,310,11464
+Spain,325,12890
+Spain,341,14411
+Spain,356,16162
+Spain,372,18331
+Spain,387,20407
+Spain,403,22155
+Spain,418,23445
+Spain,434,24490
+Spain,449,25726
+Spain,465,26842
+Spain,481,28076
+Spain,496,28940
+Spain,512,29289
+Spain,527,28939
+Spain,543,28145
+Spain,558,27411
+Spain,574,26953
+Spain,589,26707
+Spain,605,26461
+Spain,620,25841
+Spain,636,24825
+Spain,651,23611
+Spain,667,22643
+Spain,682,22125
+Spain,698,22049
+Spain,713,22026
+Spain,729,21776
+Spain,744,21167
+Spain,760,20328
+Spain,775,19645
+Spain,791,19202
+Spain,806,19173
+Spain,822,19102
+Spain,837,18738
+Spain,853,18107
+Spain,868,17390
+Spain,884,16753
+Spain,899,16290
+Spain,915,15941
+Spain,930,15767
+Spain,946,15287
+Spain,962,14683
+Spain,977,13908
+Spain,993,13273
+Spain,1008,12815
+Spain,1024,12449
+Spain,1039,11955
+Spain,1055,11279
+Spain,1070,10426
+Spain,1086,9743
+Spain,1101,9139
+Spain,1117,8781
+Spain,1132,8407
+Spain,1148,7976
+Spain,1163,7431
+Spain,1179,6956
+Spain,1194,6525
+Spain,1210,6210
+Spain,1225,5917
+Spain,1241,5753
+Spain,1256,5529
+Spain,1272,5223
+Spain,1287,4867
+Spain,1303,4567
+Spain,1318,4393
+Spain,1334,4286
+Spain,1349,4129
+Spain,1365,3940
+Spain,1380,3656
+Spain,1396,3426
+Spain,1412,3207
+Spain,1427,3085
+Spain,1443,3036
+Spain,1458,2970
+Spain,1474,2867
+Spain,1489,2681
+Spain,1505,2504
+Spain,1520,2321
+Spain,1536,2156
+Spain,1551,2079
+Spain,1567,2037
+Spain,1582,1990
+Spain,1598,1858
+Spain,1613,1709
+Spain,1629,1588
+Spain,1644,1520
+Spain,1660,1488
+Spain,1675,1493
+Spain,1691,1498
+Spain,1706,1525
+Spain,1722,1499
+Spain,1737,1478
+Spain,1753,1460
+Spain,1768,1488
+Spain,1784,1497
+Spain,1799,1488
+Spain,1815,1440
+Spain,1830,1466
+Spain,1846,1482
+Spain,1861,1527
+Spain,1877,1485
+Spain,1893,1446
+Spain,1908,1388
+Spain,1924,1320
+Spain,1939,1245
+Spain,1955,1198
+Spain,1970,1181
+Spain,1986,1198
+Spain,2001,1156
+Spain,2017,1100
+Spain,2032,1006
+Spain,2048,976
+Spain,2063,966
+Spain,2079,999
+Spain,2094,1037
+Spain,2110,1077
+Spain,2125,1087
+Spain,2141,1073
+Spain,2156,1039
+Spain,2172,1016
+Spain,2187,1014
+Spain,2203,1041
+Spain,2218,1067
+Spain,2234,1085
+Spain,2249,1062
+Spain,2265,1025
+Spain,2280,974
+Spain,2296,941
+Spain,2311,920
+Spain,2327,910
+Spain,2343,907
+Sudan,0,1
+Sudan,1,2
+Sudan,2,2
+Sudan,4,3
+Sudan,5,5
+Sudan,6,7
+Sudan,8,9
+Sudan,9,11
+Sudan,10,13
+Sudan,12,16
+Sudan,13,20
+Sudan,14,25
+Sudan,16,31
+Sudan,17,36
+Sudan,19,42
+Sudan,20,50
+Sudan,21,59
+Sudan,23,70
+Sudan,24,81
+Sudan,25,93
+Sudan,27,106
+Sudan,28,119
+Sudan,29,133
+Sudan,31,149
+Sudan,32,169
+Sudan,33,188
+Sudan,35,205
+Sudan,36,217
+Sudan,38,226
+Sudan,39,238
+Sudan,40,248
+Sudan,42,259
+Sudan,43,267
+Sudan,44,271
+Sudan,46,267
+Sudan,47,260
+Sudan,48,253
+Sudan,50,249
+Sudan,51,247
+Sudan,53,244
+Sudan,54,239
+Sudan,55,229
+Sudan,57,218
+Sudan,58,209
+Sudan,59,204
+Sudan,61,204
+Sudan,62,203
+Sudan,63,201
+Sudan,65,195
+Sudan,66,188
+Sudan,67,181
+Sudan,69,177
+Sudan,70,177
+Sudan,72,176
+Sudan,73,173
+Sudan,74,167
+Sudan,76,160
+Sudan,77,155
+Sudan,78,150
+Sudan,80,147
+Sudan,81,145
+Sudan,82,141
+Sudan,84,135
+Sudan,85,128
+Sudan,86,122
+Sudan,88,118
+Sudan,89,115
+Sudan,91,110
+Sudan,92,104
+Sudan,93,96
+Sudan,95,90
+Sudan,96,84
+Sudan,97,81
+Sudan,99,77
+Sudan,100,73
+Sudan,101,68
+Sudan,103,64
+Sudan,104,60
+Sudan,106,57
+Sudan,107,54
+Sudan,108,53
+Sudan,110,51
+Sudan,111,48
+Sudan,112,45
+Sudan,114,42
+Sudan,115,40
+Sudan,116,39
+Sudan,118,38
+Sudan,119,36
+Sudan,120,33
+Sudan,122,31
+Sudan,123,29
+Sudan,125,28
+Sudan,126,28
+Sudan,127,27
+Sudan,129,26
+Sudan,130,24
+Sudan,131,23
+Sudan,133,21
+Sudan,134,19
+Sudan,135,19
+Sudan,137,18
+Sudan,138,18
+Sudan,140,17
+Sudan,141,15
+Sudan,142,14
+Sudan,144,14
+Sudan,145,13
+Sudan,146,13
+Sudan,148,13
+Sudan,149,14
+Sudan,150,13
+Sudan,152,13
+Sudan,153,13
+Sudan,154,13
+Sudan,156,13
+Sudan,157,13
+Sudan,159,13
+Sudan,160,13
+Sudan,161,13
+Sudan,163,14
+Sudan,164,13
+Sudan,165,13
+Sudan,167,12
+Sudan,168,12
+Sudan,169,11
+Sudan,171,11
+Sudan,172,10
+Sudan,173,11
+Sudan,175,10
+Sudan,176,10
+Sudan,178,9
+Sudan,179,9
+Sudan,180,8
+Sudan,182,9
+Sudan,183,9
+Sudan,184,9
+Sudan,186,10
+Sudan,187,9
+Sudan,188,9
+Sudan,190,9
+Sudan,191,9
+Sudan,193,9
+Sudan,194,9
+Sudan,195,10
+Sudan,197,9
+Sudan,198,9
+Sudan,199,9
+Sudan,201,8
+Sudan,202,8
+Sudan,203,8
+Sudan,205,8
+Sweden,0,9
+Sweden,4,12
+Sweden,9,17
+Sweden,14,23
+Sweden,18,32
+Sweden,23,42
+Sweden,28,53
+Sweden,33,65
+Sweden,37,79
+Sweden,42,96
+Sweden,47,118
+Sweden,52,146
+Sweden,56,182
+Sweden,61,214
+Sweden,66,252
+Sweden,70,294
+Sweden,75,349
+Sweden,80,413
+Sweden,85,477
+Sweden,89,551
+Sweden,94,622
+Sweden,99,700
+Sweden,104,782
+Sweden,108,877
+Sweden,113,995
+Sweden,118,1108
+Sweden,122,1203
+Sweden,127,1273
+Sweden,132,1330
+Sweden,137,1397
+Sweden,141,1457
+Sweden,146,1524
+Sweden,151,1571
+Sweden,156,1590
+Sweden,160,1571
+Sweden,165,1528
+Sweden,170,1488
+Sweden,174,1463
+Sweden,179,1450
+Sweden,184,1437
+Sweden,189,1403
+Sweden,193,1348
+Sweden,198,1282
+Sweden,203,1229
+Sweden,208,1201
+Sweden,212,1197
+Sweden,217,1196
+Sweden,222,1182
+Sweden,226,1149
+Sweden,231,1104
+Sweden,236,1066
+Sweden,241,1042
+Sweden,245,1041
+Sweden,250,1037
+Sweden,255,1017
+Sweden,260,983
+Sweden,264,944
+Sweden,269,909
+Sweden,274,884
+Sweden,278,865
+Sweden,283,856
+Sweden,288,830
+Sweden,293,797
+Sweden,297,755
+Sweden,302,720
+Sweden,307,696
+Sweden,312,676
+Sweden,316,649
+Sweden,321,612
+Sweden,326,566
+Sweden,330,529
+Sweden,335,496
+Sweden,340,476
+Sweden,345,456
+Sweden,349,433
+Sweden,354,403
+Sweden,359,377
+Sweden,364,354
+Sweden,368,337
+Sweden,373,321
+Sweden,378,312
+Sweden,382,300
+Sweden,387,283
+Sweden,392,264
+Sweden,397,248
+Sweden,401,238
+Sweden,406,232
+Sweden,411,224
+Sweden,416,214
+Sweden,420,198
+Sweden,425,186
+Sweden,430,174
+Sweden,434,167
+Sweden,439,164
+Sweden,444,161
+Sweden,449,155
+Sweden,453,145
+Sweden,458,136
+Sweden,463,126
+Sweden,468,117
+Sweden,472,112
+Sweden,477,110
+Sweden,482,108
+Sweden,486,100
+Sweden,491,92
+Sweden,496,86
+Sweden,501,82
+Sweden,505,80
+Sweden,510,81
+Sweden,515,81
+Sweden,520,82
+Sweden,524,81
+Sweden,529,80
+Sweden,534,79
+Sweden,538,80
+Sweden,543,81
+Sweden,548,80
+Sweden,553,78
+Sweden,557,79
+Sweden,562,80
+Sweden,567,82
+Sweden,572,80
+Sweden,576,78
+Sweden,581,75
+Sweden,586,71
+Sweden,590,67
+Sweden,595,65
+Sweden,600,64
+Sweden,605,65
+Sweden,609,62
+Sweden,614,59
+Sweden,619,54
+Sweden,624,53
+Sweden,628,52
+Sweden,633,54
+Sweden,638,56
+Sweden,642,58
+Sweden,647,59
+Sweden,652,58
+Sweden,657,56
+Sweden,661,55
+Sweden,666,55
+Sweden,671,56
+Sweden,676,57
+Sweden,680,58
+Sweden,685,57
+Sweden,690,55
+Sweden,694,52
+Sweden,699,51
+Sweden,704,50
+Sweden,709,49
+Sweden,713,49
+Switzerland,0,5
+Switzerland,0,6
+Switzerland,1,9
+Switzerland,2,13
+Switzerland,3,18
+Switzerland,4,23
+Switzerland,5,30
+Switzerland,6,36
+Switzerland,7,45
+Switzerland,8,54
+Switzerland,9,67
+Switzerland,10,83
+Switzerland,11,103
+Switzerland,12,121
+Switzerland,13,142
+Switzerland,14,167
+Switzerland,15,198
+Switzerland,16,234
+Switzerland,17,270
+Switzerland,17,312
+Switzerland,18,352
+Switzerland,19,396
+Switzerland,20,443
+Switzerland,21,497
+Switzerland,22,564
+Switzerland,23,628
+Switzerland,24,682
+Switzerland,25,721
+Switzerland,26,753
+Switzerland,27,791
+Switzerland,28,826
+Switzerland,29,864
+Switzerland,30,890
+Switzerland,31,901
+Switzerland,32,890
+Switzerland,33,866
+Switzerland,34,843
+Switzerland,35,829
+Switzerland,35,822
+Switzerland,36,814
+Switzerland,37,795
+Switzerland,38,764
+Switzerland,39,726
+Switzerland,40,697
+Switzerland,41,681
+Switzerland,42,678
+Switzerland,43,678
+Switzerland,44,670
+Switzerland,45,651
+Switzerland,46,625
+Switzerland,47,604
+Switzerland,48,591
+Switzerland,49,590
+Switzerland,50,588
+Switzerland,51,576
+Switzerland,52,557
+Switzerland,53,535
+Switzerland,53,515
+Switzerland,54,501
+Switzerland,55,490
+Switzerland,56,485
+Switzerland,57,470
+Switzerland,58,451
+Switzerland,59,428
+Switzerland,60,408
+Switzerland,61,394
+Switzerland,62,383
+Switzerland,63,368
+Switzerland,64,347
+Switzerland,65,320
+Switzerland,66,299
+Switzerland,67,281
+Switzerland,68,270
+Switzerland,69,258
+Switzerland,70,245
+Switzerland,71,228
+Switzerland,71,214
+Switzerland,72,200
+Switzerland,73,191
+Switzerland,74,182
+Switzerland,75,177
+Switzerland,76,170
+Switzerland,77,160
+Switzerland,78,149
+Switzerland,79,140
+Switzerland,80,135
+Switzerland,81,131
+Switzerland,82,127
+Switzerland,83,121
+Switzerland,84,112
+Switzerland,85,105
+Switzerland,86,98
+Switzerland,87,94
+Switzerland,88,93
+Switzerland,89,91
+Switzerland,89,88
+Switzerland,90,82
+Switzerland,91,77
+Switzerland,92,71
+Switzerland,93,66
+Switzerland,94,64
+Switzerland,95,62
+Switzerland,96,61
+Switzerland,97,57
+Switzerland,98,52
+Switzerland,99,48
+Switzerland,100,46
+Switzerland,101,45
+Switzerland,102,45
+Switzerland,103,46
+Switzerland,104,46
+Switzerland,105,46
+Switzerland,106,45
+Switzerland,107,44
+Switzerland,107,45
+Switzerland,108,46
+Switzerland,109,45
+Switzerland,110,44
+Switzerland,111,45
+Switzerland,112,45
+Switzerland,113,47
+Switzerland,114,45
+Switzerland,115,44
+Switzerland,116,42
+Switzerland,117,40
+Switzerland,118,38
+Switzerland,119,36
+Switzerland,120,36
+Switzerland,121,36
+Switzerland,122,35
+Switzerland,123,33
+Switzerland,124,30
+Switzerland,125,30
+Switzerland,125,29
+Switzerland,126,30
+Switzerland,127,31
+Switzerland,128,33
+Switzerland,129,33
+Switzerland,130,33
+Switzerland,131,31
+Switzerland,132,31
+Switzerland,133,31
+Switzerland,134,32
+Switzerland,135,32
+Switzerland,136,33
+Switzerland,137,32
+Switzerland,138,31
+Switzerland,139,30
+Switzerland,140,28
+Switzerland,141,28
+Switzerland,142,28
+Switzerland,143,27
+Turkey,0,21
+Turkey,0,28
+Turkey,1,39
+Turkey,2,54
+Turkey,3,75
+Turkey,4,98
+Turkey,5,125
+Turkey,6,152
+Turkey,7,186
+Turkey,8,225
+Turkey,9,277
+Turkey,10,342
+Turkey,11,426
+Turkey,12,501
+Turkey,13,589
+Turkey,14,688
+Turkey,15,817
+Turkey,16,965
+Turkey,17,1116
+Turkey,18,1288
+Turkey,19,1454
+Turkey,20,1635
+Turkey,20,1828
+Turkey,21,2050
+Turkey,22,2325
+Turkey,23,2589
+Turkey,24,2811
+Turkey,25,2974
+Turkey,26,3107
+Turkey,27,3264
+Turkey,28,3405
+Turkey,29,3562
+Turkey,30,3672
+Turkey,31,3716
+Turkey,32,3671
+Turkey,33,3571
+Turkey,34,3478
+Turkey,35,3419
+Turkey,36,3388
+Turkey,37,3357
+Turkey,38,3278
+Turkey,39,3150
+Turkey,40,2995
+Turkey,41,2873
+Turkey,41,2807
+Turkey,42,2797
+Turkey,43,2794
+Turkey,44,2763
+Turkey,45,2685
+Turkey,46,2579
+Turkey,47,2492
+Turkey,48,2436
+Turkey,49,2432
+Turkey,50,2423
+Turkey,51,2377
+Turkey,52,2297
+Turkey,53,2206
+Turkey,54,2125
+Turkey,55,2067
+Turkey,56,2022
+Turkey,57,2000
+Turkey,58,1939
+Turkey,59,1863
+Turkey,60,1764
+Turkey,61,1684
+Turkey,62,1626
+Turkey,62,1579
+Turkey,63,1516
+Turkey,64,1431
+Turkey,65,1322
+Turkey,66,1236
+Turkey,67,1159
+Turkey,68,1114
+Turkey,69,1066
+Turkey,70,1012
+Turkey,71,942
+Turkey,72,882
+Turkey,73,827
+Turkey,74,788
+Turkey,75,750
+Turkey,76,729
+Turkey,77,701
+Turkey,78,662
+Turkey,79,617
+Turkey,80,579
+Turkey,81,557
+Turkey,82,543
+Turkey,83,523
+Turkey,83,500
+Turkey,84,463
+Turkey,85,434
+Turkey,86,406
+Turkey,87,391
+Turkey,88,385
+Turkey,89,376
+Turkey,90,363
+Turkey,91,340
+Turkey,92,317
+Turkey,93,294
+Turkey,94,273
+Turkey,95,263
+Turkey,96,258
+Turkey,97,252
+Turkey,98,235
+Turkey,99,216
+Turkey,100,201
+Turkey,101,192
+Turkey,102,188
+Turkey,103,189
+Turkey,104,190
+Turkey,104,193
+Turkey,105,190
+Turkey,106,187
+Turkey,107,185
+Turkey,108,188
+Turkey,109,190
+Turkey,110,188
+Turkey,111,182
+Turkey,112,186
+Turkey,113,188
+Turkey,114,193
+Turkey,115,188
+Turkey,116,183
+Turkey,117,176
+Turkey,118,167
+Turkey,119,158
+Turkey,120,152
+Turkey,121,149
+Turkey,122,152
+Turkey,123,146
+Turkey,124,139
+Turkey,125,127
+Turkey,125,123
+Turkey,126,122
+Turkey,127,126
+Turkey,128,131
+Turkey,129,136
+Turkey,130,137
+Turkey,131,136
+Turkey,132,131
+Turkey,133,128
+Turkey,134,128
+Turkey,135,132
+Turkey,136,135
+Turkey,137,137
+Turkey,138,134
+Turkey,139,130
+Turkey,140,123
+Turkey,141,119
+Turkey,142,116
+Turkey,143,115
+Turkey,144,115
+Ukraine,0,6
+Ukraine,3,7
+Ukraine,6,10
+Ukraine,9,14
+Ukraine,12,20
+Ukraine,15,27
+Ukraine,18,34
+Ukraine,22,42
+Ukraine,25,51
+Ukraine,28,62
+Ukraine,31,76
+Ukraine,34,94
+Ukraine,37,117
+Ukraine,40,138
+Ukraine,44,162
+Ukraine,47,189
+Ukraine,50,225
+Ukraine,53,266
+Ukraine,56,308
+Ukraine,59,355
+Ukraine,62,401
+Ukraine,66,451
+Ukraine,69,504
+Ukraine,72,565
+Ukraine,75,641
+Ukraine,78,714
+Ukraine,81,775
+Ukraine,84,820
+Ukraine,88,857
+Ukraine,91,900
+Ukraine,94,939
+Ukraine,97,983
+Ukraine,100,1013
+Ukraine,103,1025
+Ukraine,106,1013
+Ukraine,110,985
+Ukraine,113,959
+Ukraine,116,943
+Ukraine,119,935
+Ukraine,122,926
+Ukraine,125,904
+Ukraine,129,869
+Ukraine,132,826
+Ukraine,135,792
+Ukraine,138,774
+Ukraine,141,771
+Ukraine,144,771
+Ukraine,147,762
+Ukraine,151,741
+Ukraine,154,711
+Ukraine,157,687
+Ukraine,160,672
+Ukraine,163,671
+Ukraine,166,668
+Ukraine,169,656
+Ukraine,173,633
+Ukraine,176,608
+Ukraine,179,586
+Ukraine,182,570
+Ukraine,185,558
+Ukraine,188,552
+Ukraine,191,535
+Ukraine,195,514
+Ukraine,198,486
+Ukraine,201,464
+Ukraine,204,448
+Ukraine,207,435
+Ukraine,210,418
+Ukraine,213,394
+Ukraine,217,365
+Ukraine,220,341
+Ukraine,223,320
+Ukraine,226,307
+Ukraine,229,294
+Ukraine,232,279
+Ukraine,236,260
+Ukraine,239,243
+Ukraine,242,228
+Ukraine,245,217
+Ukraine,248,207
+Ukraine,251,201
+Ukraine,254,193
+Ukraine,258,182
+Ukraine,261,170
+Ukraine,264,159
+Ukraine,267,153
+Ukraine,270,150
+Ukraine,273,144
+Ukraine,276,137
+Ukraine,280,128
+Ukraine,283,119
+Ukraine,286,112
+Ukraine,289,108
+Ukraine,292,106
+Ukraine,295,103
+Ukraine,298,100
+Ukraine,302,93
+Ukraine,305,87
+Ukraine,308,81
+Ukraine,311,75
+Ukraine,314,72
+Ukraine,317,71
+Ukraine,320,69
+Ukraine,324,65
+Ukraine,327,59
+Ukraine,330,55
+Ukraine,333,53
+Ukraine,336,52
+Ukraine,339,52
+Ukraine,343,52
+Ukraine,346,53
+Ukraine,349,52
+Ukraine,352,51
+Ukraine,355,51
+Ukraine,358,52
+Ukraine,361,52
+Ukraine,365,52
+Ukraine,368,50
+Ukraine,371,51
+Ukraine,374,51
+Ukraine,377,53
+Ukraine,380,52
+Ukraine,383,50
+Ukraine,387,48
+Ukraine,390,46
+Ukraine,393,43
+Ukraine,396,41
+Ukraine,399,41
+Ukraine,402,41
+Ukraine,405,40
+Ukraine,409,38
+Ukraine,412,35
+Ukraine,415,34
+Ukraine,418,33
+Ukraine,421,35
+Ukraine,424,36
+Ukraine,427,37
+Ukraine,431,38
+Ukraine,434,37
+Ukraine,437,36
+Ukraine,440,35
+Ukraine,443,35
+Ukraine,446,36
+Ukraine,450,37
+Ukraine,453,38
+Ukraine,456,37
+Ukraine,459,35
+Ukraine,462,34
+Ukraine,465,32
+Ukraine,468,32
+Ukraine,472,31
+Ukraine,475,31
+United Arab Emirates,0,4
+United Arab Emirates,2,5
+United Arab Emirates,4,7
+United Arab Emirates,6,10
+United Arab Emirates,8,14
+United Arab Emirates,11,18
+United Arab Emirates,13,24
+United Arab Emirates,15,29
+United Arab Emirates,17,35
+United Arab Emirates,19,43
+United Arab Emirates,22,53
+United Arab Emirates,24,66
+United Arab Emirates,26,82
+United Arab Emirates,28,96
+United Arab Emirates,30,113
+United Arab Emirates,33,132
+United Arab Emirates,35,157
+United Arab Emirates,37,186
+United Arab Emirates,39,215
+United Arab Emirates,41,248
+United Arab Emirates,44,280
+United Arab Emirates,46,315
+United Arab Emirates,48,352
+United Arab Emirates,50,395
+United Arab Emirates,52,448
+United Arab Emirates,55,499
+United Arab Emirates,57,541
+United Arab Emirates,59,573
+United Arab Emirates,61,599
+United Arab Emirates,63,629
+United Arab Emirates,66,656
+United Arab Emirates,68,686
+United Arab Emirates,70,707
+United Arab Emirates,72,716
+United Arab Emirates,74,707
+United Arab Emirates,77,688
+United Arab Emirates,79,670
+United Arab Emirates,81,659
+United Arab Emirates,83,653
+United Arab Emirates,85,647
+United Arab Emirates,88,632
+United Arab Emirates,90,607
+United Arab Emirates,92,577
+United Arab Emirates,94,553
+United Arab Emirates,96,541
+United Arab Emirates,99,539
+United Arab Emirates,101,538
+United Arab Emirates,103,532
+United Arab Emirates,105,517
+United Arab Emirates,107,497
+United Arab Emirates,110,480
+United Arab Emirates,112,469
+United Arab Emirates,114,469
+United Arab Emirates,116,467
+United Arab Emirates,118,458
+United Arab Emirates,121,442
+United Arab Emirates,123,425
+United Arab Emirates,125,409
+United Arab Emirates,127,398
+United Arab Emirates,129,389
+United Arab Emirates,132,385
+United Arab Emirates,134,373
+United Arab Emirates,136,359
+United Arab Emirates,138,340
+United Arab Emirates,140,324
+United Arab Emirates,143,313
+United Arab Emirates,145,304
+United Arab Emirates,147,292
+United Arab Emirates,149,275
+United Arab Emirates,151,255
+United Arab Emirates,154,238
+United Arab Emirates,156,223
+United Arab Emirates,158,214
+United Arab Emirates,160,205
+United Arab Emirates,162,195
+United Arab Emirates,165,181
+United Arab Emirates,167,170
+United Arab Emirates,169,159
+United Arab Emirates,171,151
+United Arab Emirates,173,144
+United Arab Emirates,176,140
+United Arab Emirates,178,135
+United Arab Emirates,180,127
+United Arab Emirates,182,119
+United Arab Emirates,184,111
+United Arab Emirates,187,107
+United Arab Emirates,189,104
+United Arab Emirates,191,101
+United Arab Emirates,193,96
+United Arab Emirates,195,89
+United Arab Emirates,198,83
+United Arab Emirates,200,78
+United Arab Emirates,202,75
+United Arab Emirates,204,74
+United Arab Emirates,206,72
+United Arab Emirates,209,70
+United Arab Emirates,211,65
+United Arab Emirates,213,61
+United Arab Emirates,215,56
+United Arab Emirates,217,52
+United Arab Emirates,220,50
+United Arab Emirates,222,49
+United Arab Emirates,224,48
+United Arab Emirates,226,45
+United Arab Emirates,228,41
+United Arab Emirates,231,38
+United Arab Emirates,233,37
+United Arab Emirates,235,36
+United Arab Emirates,237,36
+United Arab Emirates,239,36
+United Arab Emirates,242,37
+United Arab Emirates,244,36
+United Arab Emirates,246,36
+United Arab Emirates,248,35
+United Arab Emirates,250,36
+United Arab Emirates,253,36
+United Arab Emirates,255,36
+United Arab Emirates,257,35
+United Arab Emirates,259,35
+United Arab Emirates,261,36
+United Arab Emirates,264,37
+United Arab Emirates,266,36
+United Arab Emirates,268,35
+United Arab Emirates,270,33
+United Arab Emirates,272,32
+United Arab Emirates,275,30
+United Arab Emirates,277,29
+United Arab Emirates,279,28
+United Arab Emirates,281,29
+United Arab Emirates,283,28
+United Arab Emirates,286,26
+United Arab Emirates,288,24
+United Arab Emirates,290,23
+United Arab Emirates,292,23
+United Arab Emirates,294,24
+United Arab Emirates,297,25
+United Arab Emirates,299,26
+United Arab Emirates,301,26
+United Arab Emirates,303,26
+United Arab Emirates,305,25
+United Arab Emirates,308,24
+United Arab Emirates,310,24
+United Arab Emirates,312,25
+United Arab Emirates,314,26
+United Arab Emirates,316,26
+United Arab Emirates,319,25
+United Arab Emirates,321,25
+United Arab Emirates,323,23
+United Arab Emirates,325,23
+United Arab Emirates,327,22
+United Arab Emirates,330,22
+United Arab Emirates,332,22
+United Kingdom,0,37
+United Kingdom,1,48
+United Kingdom,3,67
+United Kingdom,4,92
+United Kingdom,6,127
+United Kingdom,7,167
+United Kingdom,9,213
+United Kingdom,10,259
+United Kingdom,12,317
+United Kingdom,13,383
+United Kingdom,15,471
+United Kingdom,16,583
+United Kingdom,18,724
+United Kingdom,19,852
+United Kingdom,21,1002
+United Kingdom,23,1171
+United Kingdom,24,1390
+United Kingdom,26,1642
+United Kingdom,27,1899
+United Kingdom,29,2191
+United Kingdom,30,2474
+United Kingdom,32,2782
+United Kingdom,33,3110
+United Kingdom,35,3488
+United Kingdom,36,3956
+United Kingdom,38,4404
+United Kingdom,39,4782
+United Kingdom,41,5060
+United Kingdom,43,5286
+United Kingdom,44,5552
+United Kingdom,46,5794
+United Kingdom,47,6060
+United Kingdom,49,6246
+United Kingdom,50,6322
+United Kingdom,52,6246
+United Kingdom,53,6075
+United Kingdom,55,5916
+United Kingdom,56,5817
+United Kingdom,58,5764
+United Kingdom,59,5711
+United Kingdom,61,5577
+United Kingdom,63,5358
+United Kingdom,64,5096
+United Kingdom,66,4887
+United Kingdom,67,4775
+United Kingdom,69,4759
+United Kingdom,70,4754
+United Kingdom,72,4700
+United Kingdom,73,4569
+United Kingdom,75,4387
+United Kingdom,76,4240
+United Kingdom,78,4144
+United Kingdom,79,4138
+United Kingdom,81,4123
+United Kingdom,82,4044
+United Kingdom,84,3908
+United Kingdom,86,3753
+United Kingdom,87,3616
+United Kingdom,89,3516
+United Kingdom,90,3440
+United Kingdom,92,3403
+United Kingdom,93,3299
+United Kingdom,95,3169
+United Kingdom,96,3002
+United Kingdom,98,2865
+United Kingdom,99,2766
+United Kingdom,101,2687
+United Kingdom,102,2580
+United Kingdom,104,2434
+United Kingdom,106,2250
+United Kingdom,107,2103
+United Kingdom,109,1972
+United Kingdom,110,1895
+United Kingdom,112,1814
+United Kingdom,113,1721
+United Kingdom,115,1603
+United Kingdom,116,1501
+United Kingdom,118,1408
+United Kingdom,119,1340
+United Kingdom,121,1277
+United Kingdom,122,1241
+United Kingdom,124,1193
+United Kingdom,126,1127
+United Kingdom,127,1050
+United Kingdom,129,985
+United Kingdom,130,948
+United Kingdom,132,925
+United Kingdom,133,891
+United Kingdom,135,850
+United Kingdom,136,789
+United Kingdom,138,739
+United Kingdom,139,692
+United Kingdom,141,665
+United Kingdom,142,655
+United Kingdom,144,641
+United Kingdom,145,619
+United Kingdom,147,578
+United Kingdom,149,540
+United Kingdom,150,501
+United Kingdom,152,465
+United Kingdom,153,448
+United Kingdom,155,439
+United Kingdom,156,429
+United Kingdom,158,401
+United Kingdom,159,368
+United Kingdom,161,342
+United Kingdom,162,328
+United Kingdom,164,321
+United Kingdom,165,322
+United Kingdom,167,323
+United Kingdom,169,329
+United Kingdom,170,323
+United Kingdom,172,319
+United Kingdom,173,315
+United Kingdom,175,321
+United Kingdom,176,323
+United Kingdom,178,321
+United Kingdom,179,310
+United Kingdom,181,316
+United Kingdom,182,319
+United Kingdom,184,329
+United Kingdom,185,320
+United Kingdom,187,312
+United Kingdom,189,299
+United Kingdom,190,285
+United Kingdom,192,268
+United Kingdom,193,258
+United Kingdom,195,255
+United Kingdom,196,258
+United Kingdom,198,249
+United Kingdom,199,237
+United Kingdom,201,217
+United Kingdom,202,210
+United Kingdom,204,208
+United Kingdom,205,215
+United Kingdom,207,223
+United Kingdom,208,232
+United Kingdom,210,234
+United Kingdom,212,231
+United Kingdom,213,224
+United Kingdom,215,219
+United Kingdom,216,218
+United Kingdom,218,224
+United Kingdom,219,230
+United Kingdom,221,234
+United Kingdom,222,229
+United Kingdom,224,221
+United Kingdom,225,210
+United Kingdom,227,203
+United Kingdom,228,198
+United Kingdom,230,196
+United Kingdom,232,195
+United States,0,1402
+United States,8,1818
+United States,17,2538
+United States,26,3466
+United States,35,4797
+United States,43,6268
+United States,52,8017
+United States,61,9723
+United States,70,11910
+United States,79,14393
+United States,87,17688
+United States,96,21884
+United States,105,27199
+United States,114,31979
+United States,123,37609
+United States,131,43941
+United States,140,52160
+United States,149,61616
+United States,158,71261
+United States,167,82237
+United States,175,92848
+United States,184,104394
+United States,193,116714
+United States,202,130896
+United States,211,148461
+United States,219,165273
+United States,228,179436
+United States,237,189882
+United States,246,198346
+United States,255,208350
+United States,263,217394
+United States,272,227388
+United States,281,234385
+United States,290,237209
+United States,299,234373
+United States,307,227941
+United States,316,221999
+United States,325,218291
+United States,334,216302
+United States,343,214310
+United States,351,209283
+United States,360,201057
+United States,369,191225
+United States,378,183384
+United States,387,179186
+United States,395,178577
+United States,404,178386
+United States,413,176366
+United States,422,171434
+United States,431,164633
+United States,439,159103
+United States,448,155520
+United States,457,155282
+United States,466,154710
+United States,475,151758
+United States,483,146645
+United States,492,140840
+United States,501,135684
+United States,510,131935
+United States,518,129103
+United States,527,127695
+United States,536,123813
+United States,545,118915
+United States,554,112646
+United States,562,107502
+United States,571,103794
+United States,580,100829
+United States,589,96824
+United States,598,91354
+United States,606,84441
+United States,615,78907
+United States,624,74022
+United States,633,71119
+United States,642,68092
+United States,650,64600
+United States,659,60182
+United States,668,56339
+United States,677,52848
+United States,686,50301
+United States,694,47923
+United States,703,46594
+United States,712,44784
+United States,721,42305
+United States,730,39421
+United States,738,36990
+United States,747,35580
+United States,756,34714
+United States,765,33442
+United States,774,31915
+United States,782,29614
+United States,791,27752
+United States,800,25976
+United States,809,24988
+United States,818,24590
+United States,826,24055
+United States,835,23226
+United States,844,21714
+United States,853,20283
+United States,862,18802
+United States,870,17464
+United States,879,16839
+United States,888,16499
+United States,897,16117
+United States,906,15049
+United States,914,13844
+United States,923,12862
+United States,932,12316
+United States,941,12051
+United States,950,12099
+United States,958,12137
+United States,967,12356
+United States,976,12140
+United States,985,11977
+United States,993,11827
+United States,1002,12055
+United States,1011,12131
+United States,1020,12058
+United States,1029,11663
+United States,1037,11879
+United States,1046,12006
+United States,1055,12368
+United States,1064,12034
+United States,1073,11717
+United States,1081,11247
+United States,1090,10696
+United States,1099,10085
+United States,1108,9705
+United States,1117,9572
+United States,1125,9702
+United States,1134,9365
+United States,1143,8912
+United States,1152,8149
+United States,1161,7906
+United States,1169,7828
+United States,1178,8097
+United States,1187,8402
+United States,1196,8722
+United States,1205,8807
+United States,1213,8692
+United States,1222,8416
+United States,1231,8230
+United States,1240,8214
+United States,1249,8438
+United States,1257,8645
+United States,1266,8791
+United States,1275,8601
+United States,1284,8301
+United States,1293,7895
+United States,1301,7628
+United States,1310,7456
+United States,1319,7377
+United States,1328,7352
+Uzbekistan,0,2
+Uzbekistan,4,3
+Uzbekistan,8,4
+Uzbekistan,12,6
+Uzbekistan,16,9
+Uzbekistan,20,11
+Uzbekistan,24,15
+Uzbekistan,28,18
+Uzbekistan,33,22
+Uzbekistan,37,27
+Uzbekistan,41,33
+Uzbekistan,45,41
+Uzbekistan,49,51
+Uzbekistan,53,60
+Uzbekistan,57,71
+Uzbekistan,61,83
+Uzbekistan,66,99
+Uzbekistan,70,117
+Uzbekistan,74,135
+Uzbekistan,78,156
+Uzbekistan,82,177
+Uzbekistan,86,199
+Uzbekistan,90,222
+Uzbekistan,95,249
+Uzbekistan,99,283
+Uzbekistan,103,315
+Uzbekistan,107,342
+Uzbekistan,111,362
+Uzbekistan,115,378
+Uzbekistan,119,397
+Uzbekistan,123,414
+Uzbekistan,128,433
+Uzbekistan,132,446
+Uzbekistan,136,452
+Uzbekistan,140,446
+Uzbekistan,144,434
+Uzbekistan,148,423
+Uzbekistan,152,416
+Uzbekistan,156,412
+Uzbekistan,161,408
+Uzbekistan,165,399
+Uzbekistan,169,383
+Uzbekistan,173,364
+Uzbekistan,177,349
+Uzbekistan,181,341
+Uzbekistan,185,340
+Uzbekistan,190,340
+Uzbekistan,194,336
+Uzbekistan,198,326
+Uzbekistan,202,313
+Uzbekistan,206,303
+Uzbekistan,210,296
+Uzbekistan,214,296
+Uzbekistan,218,295
+Uzbekistan,223,289
+Uzbekistan,227,279
+Uzbekistan,231,268
+Uzbekistan,235,258
+Uzbekistan,239,251
+Uzbekistan,243,246
+Uzbekistan,247,243
+Uzbekistan,251,236
+Uzbekistan,256,226
+Uzbekistan,260,214
+Uzbekistan,264,204
+Uzbekistan,268,197
+Uzbekistan,272,192
+Uzbekistan,276,184
+Uzbekistan,280,174
+Uzbekistan,285,161
+Uzbekistan,289,150
+Uzbekistan,293,141
+Uzbekistan,297,135
+Uzbekistan,301,129
+Uzbekistan,305,123
+Uzbekistan,309,114
+Uzbekistan,313,107
+Uzbekistan,318,100
+Uzbekistan,322,95
+Uzbekistan,326,91
+Uzbekistan,330,88
+Uzbekistan,334,85
+Uzbekistan,338,80
+Uzbekistan,342,75
+Uzbekistan,346,70
+Uzbekistan,351,67
+Uzbekistan,355,66
+Uzbekistan,359,63
+Uzbekistan,363,60
+Uzbekistan,367,56
+Uzbekistan,371,52
+Uzbekistan,375,49
+Uzbekistan,380,47
+Uzbekistan,384,46
+Uzbekistan,388,45
+Uzbekistan,392,44
+Uzbekistan,396,41
+Uzbekistan,400,38
+Uzbekistan,404,35
+Uzbekistan,408,33
+Uzbekistan,413,32
+Uzbekistan,417,31
+Uzbekistan,421,30
+Uzbekistan,425,28
+Uzbekistan,429,26
+Uzbekistan,433,24
+Uzbekistan,437,23
+Uzbekistan,441,22
+Uzbekistan,446,23
+Uzbekistan,450,23
+Uzbekistan,454,23
+Uzbekistan,458,23
+Uzbekistan,462,22
+Uzbekistan,466,22
+Uzbekistan,470,22
+Uzbekistan,475,23
+Uzbekistan,479,22
+Uzbekistan,483,22
+Uzbekistan,487,22
+Uzbekistan,491,22
+Uzbekistan,495,23
+Uzbekistan,499,22
+Uzbekistan,503,22
+Uzbekistan,508,21
+Uzbekistan,512,20
+Uzbekistan,516,19
+Uzbekistan,520,18
+Uzbekistan,524,18
+Uzbekistan,528,18
+Uzbekistan,532,17
+Uzbekistan,536,16
+Uzbekistan,541,15
+Uzbekistan,545,15
+Uzbekistan,549,14
+Uzbekistan,553,15
+Uzbekistan,557,16
+Uzbekistan,561,16
+Uzbekistan,565,16
+Uzbekistan,570,16
+Uzbekistan,574,16
+Uzbekistan,578,15
+Uzbekistan,582,15
+Uzbekistan,586,16
+Uzbekistan,590,16
+Uzbekistan,594,16
+Uzbekistan,598,16
+Uzbekistan,603,15
+Uzbekistan,607,15
+Uzbekistan,611,14
+Uzbekistan,615,14
+Uzbekistan,619,14
+Uzbekistan,623,14
+Venezuela,0,1
+Venezuela,3,2
+Venezuela,7,3
+Venezuela,10,4
+Venezuela,14,6
+Venezuela,17,8
+Venezuela,21,11
+Venezuela,24,13
+Venezuela,28,16
+Venezuela,32,20
+Venezuela,35,24
+Venezuela,39,30
+Venezuela,42,38
+Venezuela,46,45
+Venezuela,49,53
+Venezuela,53,62
+Venezuela,56,73
+Venezuela,60,87
+Venezuela,64,100
+Venezuela,67,116
+Venezuela,71,131
+Venezuela,74,147
+Venezuela,78,164
+Venezuela,81,184
+Venezuela,85,209
+Venezuela,88,233
+Venezuela,92,253
+Venezuela,96,268
+Venezuela,99,280
+Venezuela,103,294
+Venezuela,106,307
+Venezuela,110,321
+Venezuela,113,331
+Venezuela,117,335
+Venezuela,121,331
+Venezuela,124,321
+Venezuela,128,313
+Venezuela,131,308
+Venezuela,135,305
+Venezuela,138,302
+Venezuela,142,295
+Venezuela,145,284
+Venezuela,149,270
+Venezuela,153,259
+Venezuela,156,253
+Venezuela,160,252
+Venezuela,163,251
+Venezuela,167,249
+Venezuela,170,242
+Venezuela,174,232
+Venezuela,177,224
+Venezuela,181,219
+Venezuela,185,219
+Venezuela,188,218
+Venezuela,192,214
+Venezuela,195,207
+Venezuela,199,198
+Venezuela,202,191
+Venezuela,206,186
+Venezuela,209,182
+Venezuela,213,180
+Venezuela,217,174
+Venezuela,220,167
+Venezuela,224,159
+Venezuela,227,151
+Venezuela,231,146
+Venezuela,234,142
+Venezuela,238,136
+Venezuela,242,129
+Venezuela,245,119
+Venezuela,249,111
+Venezuela,252,104
+Venezuela,256,100
+Venezuela,259,96
+Venezuela,263,91
+Venezuela,266,85
+Venezuela,270,79
+Venezuela,274,74
+Venezuela,277,71
+Venezuela,281,67
+Venezuela,284,65
+Venezuela,288,63
+Venezuela,291,59
+Venezuela,295,55
+Venezuela,298,52
+Venezuela,302,50
+Venezuela,306,49
+Venezuela,309,47
+Venezuela,313,45
+Venezuela,316,41
+Venezuela,320,39
+Venezuela,323,36
+Venezuela,327,35
+Venezuela,330,34
+Venezuela,334,33
+Venezuela,338,32
+Venezuela,341,30
+Venezuela,345,28
+Venezuela,348,26
+Venezuela,352,24
+Venezuela,355,23
+Venezuela,359,23
+Venezuela,363,22
+Venezuela,366,21
+Venezuela,370,19
+Venezuela,373,18
+Venezuela,377,17
+Venezuela,380,17
+Venezuela,384,17
+Venezuela,387,17
+Venezuela,391,17
+Venezuela,395,17
+Venezuela,398,16
+Venezuela,402,16
+Venezuela,405,17
+Venezuela,409,17
+Venezuela,412,17
+Venezuela,416,16
+Venezuela,419,16
+Venezuela,423,16
+Venezuela,427,17
+Venezuela,430,16
+Venezuela,434,16
+Venezuela,437,15
+Venezuela,441,15
+Venezuela,444,14
+Venezuela,448,13
+Venezuela,452,13
+Venezuela,455,13
+Venezuela,459,13
+Venezuela,462,12
+Venezuela,466,11
+Venezuela,469,11
+Venezuela,473,11
+Venezuela,476,11
+Venezuela,480,11
+Venezuela,484,12
+Venezuela,487,12
+Venezuela,491,12
+Venezuela,494,11
+Venezuela,498,11
+Venezuela,501,11
+Venezuela,505,11
+Venezuela,508,12
+Venezuela,512,12
+Venezuela,516,12
+Venezuela,519,11
+Venezuela,523,11
+Venezuela,526,10
+Venezuela,530,10
+Venezuela,533,10
+Venezuela,537,10
