@@ -12,8 +12,8 @@ In absence of any treatment and/or a vaccine, covid-19 curves of all the countri
    - the python code is saved in data_consolidation.py
    - added the following features:
      - aged 65+ population 
-     - gdp per capita, 
-     - life expectancy data, 
+     - gdp per capita
+     - life expectancy data
      - population density 
      - smoking prevalence 
      - tuberculosis incidence 
