@@ -168,5 +168,6 @@ def plt_test(con):
     plt.ylabel('New Cases')
     plt.legend()
 
+
 pred_times.to_csv('pred_timeseries.csv', index = False, header=True)
 pred_static.to_csv('pred_summary.csv', index = False, header=True)
